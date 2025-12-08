@@ -1,238 +1,138 @@
-Threat Model for Ubuntu 24.04 System Hardening & Security Audit
+Threat Model – Ubuntu 24.04 Hardened Workstation
 
-Author: ibrahimvol1
-Platform: Ubuntu 24.04 (kernel 6.14)
-Audit Tools: Lynis, Fail2Ban, sysctl security modules, SSH hardening, chkrootkit, debsums, AIDE (optional)
-Objective: Identify key threats to a Linux workstation/server and document implemented mitigations as part of a SOC-ready hardening project.
+Author: Ibrahim
+Date: (fill in)
 
 1. Overview
 
-This threat model evaluates risks affecting a standalone Ubuntu 24.04 system before and after security hardening.
-It follows a practical, SOC-friendly threat modeling approach focusing on:
+This document describes the threat model for a personal workstation used for cybersecurity learning, tool usage, and internship preparation. The threat model outlines assets, adversaries, attack surfaces, and protections currently applied.
 
-System access
+This is suitable for an internship-level portfolio and demonstrates understanding of structured security analysis.
+
+2. Assets (What we protect)
+Asset	Description	Value
+System configuration	Hardening, SSH, sysctl, services	High
+User data	Documents, browser data, credentials	High
+System integrity	Executables, kernel, configs	High
+Network communication	SSH, HTTPS	Medium
+Logs	Audit logs, fail2ban logs	Medium
+3. Adversaries (Who may attack)
+3.1 External Threat Actors
+
+Opportunistic attackers scanning port 22
+
+Malware delivered via browser
+
+Remote brute-force attackers
+
+3.2 Internal / Local Threats
+
+Malicious USB devices
+
+Untrusted software installed manually
+
+Accidental misconfiguration
+
+3.3 Skill Levels
+Adversary	Skill Level	Threat
+Script Kiddie	Low	Moderate
+Automated Bots	Medium	High
+Skilled attacker	High	High (but unlikely for personal system)
+4. Attack Surfaces
+4.1 Network Attack Surface
+
+Open services:
+
+SSH (port 22)
+
+Local services (systemd-resolved, dbus, etc.)
+
+Risks:
+
+Brute-force attempts
+
+Misconfiguration of SSH
+
+Mitigations:
+
+Fail2Ban enabled
+
+SSH hardened (no root login, restricted sessions)
+
+Strong key-based authentication
+
+4.2 Local Attack Surface
+
+Risks:
+
+USB-based malware
 
 Privilege escalation
 
-Network exposure
+Misconfigured file permissions
 
-File integrity
+Mitigations:
 
-Misconfiguration risks
+AIDE + debsums for file integrity
 
-This model is suitable for Blue Team / SOC internship portfolios and demonstrates structured defensive thinking.
+Kernel hardening via sysctl
 
-2. Assets
+Permissions reviewed with Lynis
 
-The following system assets require protection:
+4.3 Software Supply Chain
 
-System Assets
-Asset	Description	Impact if compromised
-SSH service	Primary remote admin access	Unauthorized access, takeover
-System logs	Authentication + audit trails	Loss of forensic visibility
-Kernel parameters	Security boundaries and filtering	Bypass of network protections
-User accounts & passwords	Authentication mechanism	Account takeover, privilege escalation
-System binaries	Core OS commands	Rootkits, trojans, persistence
-Configuration files	System policies, services	Misconfiguration, privilege bypass
-Network interfaces	Entry point for attacks	Exfiltration, spoofing, scanning
-3. Threat Actors
-Likely threat actors:
+Risks:
 
-Internet attackers / botnets
-Focus on SSH brute force and weak configurations.
+Installing unverified .deb packages
 
-Malicious local user
-Attempts privilege escalation or file modification.
+Vulnerable packages in system
 
-Automated malware / rootkits
-Exploit weak kernel parameters or outdated services.
+Mitigations:
 
-LAN attackers
-ARP spoofing, DHCP attacks, MITM, unauthorized access.
+Ubuntu security repo enabled
 
-Misconfiguration / accidental changes
-A major cause of system compromise.
+needrestart + apt-check for updates
 
-4. Threats & Risks
+chkrootkit for detection
 
-The following threats were identified before hardening.
+5. Risk Classification
+Threat	Likelihood	Impact	Risk Level
+SSH brute-force	High	Medium	High
+Local privilege escalation	Medium	High	Medium
+Malware infection from browser	Medium	Medium	Medium
+USB attacks	Low	High	Medium
+Kernel zero-day	Low	Very High	Medium
+6. Mitigation Summary
 
-4.1 Remote Access Threats
-Threat	Description
-SSH brute-force attacks	Continuous login attempts over port 22
-Password guessing	Weak or default passwords exploited
-Exploiting old SSH configurations	Agent forwarding, TCP forwarding, root login
-4.2 Kernel & Networking Threats
-Threat	Description
-Source routing	Allows attacker-controlled packet manipulation
-ICMP redirects	Attacker can re-route network traffic
-Reverse path filter disabled	Allows spoofed IP packets
-Kernel info leaks	Leaking of kernel pointers for exploits
-4.3 Privilege Escalation Threats
-Threat	Description
-SUID binaries abuse	Tools like cp, nano, etc., if misconfigured
-Weak file permissions	Writeable config dirs allow persistence
-Unrestricted kernel modules	Loading malicious modules
-4.4 Integrity Threats
-Threat	Description
-Rootkits	Modify system binaries
-Tampered logs	Hide attacker activity
-No file integrity baseline	No detection of unauthorized changes
-4.5 Service Exposure
-Threat	Description
-Misconfigured services	Unnecessary services listening
-No brute-force protection	SSH, sudo, su are unmonitored prior to Fail2Ban
-5. Vulnerabilities Identified
+Already implemented (Phase A):
 
-From baseline scanning (Lynis-before.txt):
+Fail2Ban enabled
 
-Hardening Index 65 (low)
+SSH hardening
 
-SSH with default settings
+Kernel/sysctl improvements
 
-Kernel parameters not compliant with security policy
+Package integrity tools installed
 
-Logging not fully hardened
+Log analysis tools available
 
-User session controls missing
+To be implemented (Phase B):
 
-No Fail2Ban jail in place
+USBGuard (USB control)
 
-AppArmor with many unconfined processes
+Custom AppArmor profiles
 
-No file integrity tool active (AIDE/OSSEC)
+Hardened SSH port + additional restrictions
 
-Weak sysctl settings (redirects, source-route, rp_filter)
+Custom sysctl policy tuning
 
-6. Implemented Mitigations
+Automated log monitoring
 
-These defenses significantly reduce attack surface.
+7. Conclusion
 
-6.1 Network & Kernel Hardening
+This workstation faces common threats found in real-world security assessments.
+The current protections significantly reduce attack surface and provide strong foundations for an internship-ready portfolio.
 
-Applied via:
+Phase B will raise this to near enterprise-level posture.
 
-configs/sysctl.conf → /etc/sysctl.d/99-hardening.conf
-
-
-Mitigations include:
-
-Disable IP forwarding
-
-Disable ICMP redirects
-
-Enable reverse-path filtering
-
-Enable pointer address restrictions
-
-Harden symlink & hardlink protections
-
-Enable ASLR (randomize_va_space = 2)
-
-Impact: Mitigates MITM, spoofing, kernel exploitation, info leaks.
-
-6.2 SSH Hardening
-
-SSH configuration improvements:
-
-Disable root login
-
-Limit authentication retries
-
-Disable agent forwarding
-
-Disable TCP forwarding
-
-Limit sessions
-
-Stronger logging (VERBOSE)
-
-Impact: Prevents brute-force, credential stuffing, session hijacking.
-
-6.3 Fail2Ban Deployment
-
-jail.local enforces:
-
-Ban after 3 failed attempts
-
-1-hour ban
-
-10-minute find window
-
-SSH filter
-
-Impact: Mitigates brute-force SSH attacks completely.
-
-6.4 Package Integrity & Malware Scanning
-
-Tools installed:
-
-chkrootkit
-
-debsums
-
-needrestart
-
-Impact: Detects tampered binaries, rootkits, outdated libraries.
-
-6.5 Auto-Hardening Script
-
-auto-hardening.sh automates reproducibility:
-
-Sysctl deployment with backups
-
-Fail2Ban config
-
-Safety prompts
-
-Logging actions to /tmp/auto-hardening.log
-
-Impact: Shows automation skill & operational security maturity.
-
-7. Residual Risk
-
-Even after hardening, remaining risks include:
-
-Advanced zero-day exploits
-
-Kernel module attacks (requires additional hardening)
-
-Local privilege escalation by trusted users
-
-Lack of remote logging (SIEM integration recommended)
-
-AppArmor profiles still incomplete for 3rd-party apps
-
-Residual risk is acceptable for a workstation/lab environment.
-
-8. Future Improvements (To Reach Production Level)
-
-To further strengthen the system:
-
-Recommendation	Reason
-Implement AIDE baseline	Detect unauthorized file modifications
-Enforce 2FA for SSH	Stronger authentication
-Configure remote log forwarding	SOC visibility + SIEM use
-Lock down kernel module loading	Prevent rootkit installation
-Harden AppArmor profiles	Contain app-level attacks
-Add OSQuery for telemetry	Improve threat detection
-
-These can be added later as Phase D/E enhancements.
-
-9. Summary
-
-This threat model demonstrates:
-
-Understanding of Linux attack surfaces
-
-Ability to identify system-level threats
-
-Practical mitigations with measurable results
-
-Defense-in-depth thinking
-
-Skills expected in SOC intern / Blue Team roles
-
-The hardening actions directly improved security posture and reduced exploitable surfaces, validated by Lynis score improvement (65 → 76).
-
-End of Threat Model
+END OF FILE
