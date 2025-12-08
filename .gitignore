@@ -1,0 +1,7 @@
+# OS / editor
+.DS_Store
+*.swp
+*.bak
+
+# AIDE DB (sensitive baseline) - do NOT commit if contains secrets
+/var/lib/aide/aide.db
