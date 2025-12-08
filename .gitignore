@@ -1,7 +1,8 @@
-# OS / editor
-.DS_Store
-*.swp
-*.bak
+ignore private keys, AIDE DB, sensitive files
 
-# AIDE DB (sensitive baseline) - do NOT commit if contains secrets
-/var/lib/aide/aide.db
+*.key
+.pem
+aide.db
+aide.db.gz
+/var/lib/aide/
+/etc/ssh/ssh_host_

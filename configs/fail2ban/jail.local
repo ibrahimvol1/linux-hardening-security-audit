@@ -1,0 +1,11 @@
+
+SHA256:xByEei4SLsIOiPq17KGSPcgeiL6FmjIB98ubtuAoQAg
+enabled = true
+port = ssh
+filter = sshd
+logpath = /var/log/auth.log
+maxretry = 3
+bantime = 3600
+findtime = 600
+optionally use ignoreip to whitelist trusted IPs:
+ignoreip = 127.0.0.1/8 203.0.113.5
