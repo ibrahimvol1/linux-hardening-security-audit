@@ -1,5 +1,5 @@
 **Repository:** linux-hardening-security-audit  
-**Owner:** ibrahimvol1  
+**Owner:** Mohammed Ibrahim  
 **Platform tested:** Ubuntu 24.04 (kernel 6.14)
 
 ## Summary
