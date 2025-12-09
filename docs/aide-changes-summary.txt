@@ -1,4 +1,17 @@
-19:  Added entries:		28
-20:  Removed entries:		13
-24:Added entries:
-57:Removed entries:
+AIDE Integrity Check – Summary
+==============================
+
+Baseline vs. Post-Hardening Results
+-----------------------------------
+
+Added entries:      28
+Removed entries:    13
+
+Interpretation:
+- Added entries indicate new system files created due to security tooling,
+  logs, or configuration changes during hardening.
+- Removed entries indicate files deleted or replaced by updated hardened configurations.
+
+Full detailed AIDE output is available in:
+- docs/aide-initial-check.txt
+- docs/aide-report.md
