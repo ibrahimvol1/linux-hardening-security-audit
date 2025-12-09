@@ -1,0 +1,2019 @@
+Entry /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/922eba35dba4ce76_0 in databases has different attributes: -md5-sha1-rmd160-tiger-crc32-haval-gost-crc32b-sha256-sha512-whirlpool
+Entry /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/index-dir/the-real-index in databases has different attributes: -md5-sha1-rmd160-tiger-crc32-haval-gost-crc32b-sha256-sha512-whirlpool
+Entry /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/History-journal in databases has different attributes: +md5+sha1+rmd160+tiger+crc32+haval+gost+crc32b+sha256+sha512+whirlpool
+Entry /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Reporting and NEL in databases has different attributes: +md5+sha1+rmd160+tiger+crc32+haval+gost+crc32b+sha256+sha512+whirlpool
+Entry /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Reporting and NEL-journal in databases has different attributes: +md5+sha1+rmd160+tiger+crc32+haval+gost+crc32b+sha256+sha512+whirlpool
+Entry /home/ibrahim/.config/dconf/user in databases has different attributes: -md5-sha1-rmd160-tiger-crc32-haval-gost-crc32b-sha256-sha512-whirlpool
+Entry /home/ibrahim/.local/share/gnome-shell/application_state in databases has different attributes: +md5+sha1+rmd160+tiger+crc32+haval+gost+crc32b+sha256+sha512+whirlpool
+Entry /run/snapd/lock/.lock in databases has different attributes: -md5-sha1-rmd160-tiger-crc32-haval-gost-crc32b-sha256-sha512-whirlpool
+Entry /run/user/1000/dconf/user in databases has different attributes: -md5-sha1-rmd160-tiger-crc32-haval-gost-crc32b-sha256-sha512-whirlpool
+Entry /var/lib/systemd/timers/stamp-dailyaidecheck.timer in databases has different attributes: +md5+sha1+rmd160+tiger+crc32+haval+gost+crc32b+sha256+sha512+whirlpool
+Entry /var/lib/systemd/timers/stamp-motd-news.timer in databases has different attributes: -md5-sha1-rmd160-tiger-crc32-haval-gost-crc32b-sha256-sha512-whirlpool
+Entry /var/log/aide/aideinit.errors in databases has different attributes: +md5+sha1+rmd160+tiger+crc32+haval+gost+crc32b+sha256+sha512+whirlpool
+Start timestamp: 2025-12-09 14:46:34 +0530 (AIDE 0.18.6)
+AIDE found differences between database and filesystem!!
+Ignored e2fs attributes: EINV
+
+Summary:
+  Total number of entries:	340794
+  Added entries:		28
+  Removed entries:		13
+  Changed entries:		122
+
+---------------------------------------------------
+Added entries:
+---------------------------------------------------
+
+f+++++++++++++++++: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/042abf6b4a69f722_0
+f+++++++++++++++++: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/0ac2f7b45ce45610_0
+f+++++++++++++++++: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/21c68d419f2c2655_0
+f+++++++++++++++++: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/2f2dd68813518902_0
+f+++++++++++++++++: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/6376038361c5ad48_0
+f+++++++++++++++++: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/6ea89d7d36f9eb88_0
+f+++++++++++++++++: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/7c0a37fd2fddf238_0
+f+++++++++++++++++: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/8c038474c0ce4fd3_0
+f+++++++++++++++++: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/9f8586bc2d2b9cf2_0
+f+++++++++++++++++: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/b995f5175d34b5ab_0
+f+++++++++++++++++: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/c87c263bb118a98b_0
+f+++++++++++++++++: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/cb2def04d45481ad_0
+f+++++++++++++++++: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/d4e51a0db41b3799_0
+f+++++++++++++++++: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/e6aa2254a5d7d6cf_0
+f+++++++++++++++++: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/ecffacf6905a8f31_0
+f+++++++++++++++++: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/f827b1e6407e31ac_0
+f+++++++++++++++++: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/ffcdcc50093ade3e_0
+f+++++++++++++++++: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Code Cache/js/420c36bf941b5a92_0
+f+++++++++++++++++: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000038.log
+f+++++++++++++++++: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000039.ldb
+f+++++++++++++++++: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000074.log
+f+++++++++++++++++: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000076.ldb
+f+++++++++++++++++: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Safe Browsing/UrlBilling.store.4_13409744341357876
+f+++++++++++++++++: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Safe Browsing/UrlMalBin.store.4_13409744341363800
+f+++++++++++++++++: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Safe Browsing/UrlMalware.store.4_13409744341353126
+f+++++++++++++++++: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Safe Browsing/UrlSoceng.store.4_13409744340900060
+f+++++++++++++++++: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Safe Browsing/UrlUws.store.4_13409744341354765
+f+++++++++++++++++: /var/log/aide/aide.log
+
+---------------------------------------------------
+Removed entries:
+---------------------------------------------------
+
+f-----------------: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000034.log
+f-----------------: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000066.ldb
+f-----------------: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000068.ldb
+f-----------------: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000071.ldb
+f-----------------: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000072.log
+f-----------------: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000073.ldb
+f-----------------: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Safe Browsing/UrlBilling.store.4_13409740721198153
+f-----------------: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Safe Browsing/UrlMalBin.store.4_13409740721199557
+f-----------------: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Safe Browsing/UrlMalware.store.4_13409740721179903
+f-----------------: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Safe Browsing/UrlSoceng.store.4_13409740720771194
+f-----------------: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Safe Browsing/UrlUws.store.4_13409740721181617
+f-----------------: /run/systemd/inhibit/11
+p-----------------: /run/systemd/inhibit/11.ref
+
+---------------------------------------------------
+Changed entries:
+---------------------------------------------------
+
+f >.... mc..H.. . : /home/ibrahim/.bash_history
+d =.... mc.. .. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data
+f >b... mci.H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/0276c4d7b1a7ba73_0
+f >.... mci.H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/1147245ebddd5c47_0
+f >.... mci.H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/22435294ef390fd7_0
+f >.... mci.H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/227dafdde64b443f_0
+f <.... mci.H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/239d05d23d4cc390_0
+f <.... mci.H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/2a5d88d5f0ec5e55_0
+f <.... mc..H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/37f14d1f3afb2999_0
+f >.... mci.H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/38871ecba2215a57_0
+f =.... mc..H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/3889aa4a753ccaf1_0
+f <.... mc..H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/3c0d18b11b1ac0f4_0
+f >.... mc..H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/4145e9db4e00b810_0
+f <.... mci.H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/49047533b13746ba_0
+f <.... mci.H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/50e2e379246fbfed_0
+f <.... mci.H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/513bc43c7f3c203e_0
+f <.... mci.H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/5db19cd1ff984647_0
+f =.... mc..H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/7cdeb82c3ea85a3c_0
+f <.... mci.H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/810c766112b19b18_0
+f =.... mc..H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/863a176d5e51a813_0
+f >.... mci.H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/89257faf5f366431_0
+f >.... mci.H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/897de12d7e60de7e_0
+f >.... mci.H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/8c9615f75ff91c11_0
+f <.... mc..H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/9263283480e05edc_0
+f >.... mci.H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/92c77edad00a84ba_0
+f =.... mc..H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/954ac8164cca2468_0
+f <.... mc..H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/9bf545a2b1ad470f_0
+f =.... mc..H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/9f5ee800e23a9fd8_0
+f >.... mc..H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/b072158bbbae9947_0
+f >.... mci.H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/b5adb54831f5f3c0_0
+f >.... mci.H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/b990095f78263cbe_0
+f <.... mci.H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/b99e1e7ca8826d2e_0
+f <.... mc..H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/b9dd3968fb0edcad_0
+f <.... mc..H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/bb1dc4f00c451275_0
+f =.... mc..H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/be40a1410f8d2498_0
+f >.... mci.H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/c5865fdcb0fe949e_0
+f >.... mc..H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/d1753dcd8a1e6035_0
+f <.... mci.H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/d3647c9eb011e5cc_0
+f <.... mc..H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/d503948ff753a9a6_0
+f >.... mc..H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/d669a6005c90c528_0
+f <.... mc..H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/df6e225cd1dc2cbe_0
+f >.... mc..H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/e03b8a588bca5289_0
+f <.... mc..H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/e03df0fd0a2187b4_0
+d =.... mc.. .. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/index-dir
+f >.... mci.-.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/index-dir/the-real-index
+d =.... mc.. .. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Code Cache/js
+f =.... mc..H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Code Cache/js/4a04eebc27d48a61_0
+d =.... mc.. .. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Code Cache/js/index-dir
+f >.... mci.H.. . : /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Code Cache/js/index-dir/the-real-index
+f =.... mc..H.. . : /home/ibrahim/.cache/mesa_shader_cache_db/part0/mesa_cache.idx
+d =.... mc.. .. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser
+d =.... mc.. .. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default
+f =.... mc.. .. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Cookies
+f =.... mc.. .. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Cookies-journal
+f >b... mc..H.. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/DIPS-wal
+f =.... mc.. .. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/DawnGraphiteCache/data_1
+f =.... mc.. .. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/DawnWebGPUCache/data_1
+f =.... mc..H.. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Favicons
+f =.... mc..... . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Favicons-journal
+f =b... mc..H.. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/GPUCache/data_0
+f =b... mc.. .. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/GPUCache/data_1
+f =b... mc..H.. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/GPUCache/data_2
+f =.... mc..H.. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/GPUCache/index
+f =.... mc..H.. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/History
+f >b... mc..+.. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/History-journal
+f >.... mc..H.. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_mnojpmjdmbbfmejpflffifhffcmidifd_0.indexeddb.leveldb/000003.log
+d =.... mc.. .. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb
+f >.... mc..H.. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/000004.log
+f =.... mci.H.. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/LOG
+f =.... mci.H.. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/LOG.old
+d =.... mc.. .. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb
+f >.... mc..H.. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/LOG
+f >.... mc..H.. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+f >.... mc.. .. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/000036.log
+d =.... mc.. .. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb
+f >.... mc..H.. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/LOG
+f >.... mc..H.. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+f =.... mc..H.. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Network Action Predictor
+f =.... mc..... . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Network Action Predictor-journal
+f =.... mci. .. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Network Persistent State
+f =.... mci. .. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Preferences
+f =.... mc..+.. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Reporting and NEL
+f =.... mc..+.. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Reporting and NEL-journal
+f >b... mc..H.. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Sessions/Session_13409740541717710
+f <.... mci. .. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/TransportSecurity
+f =.... mc.. .. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/WebStorage/QuotaManager
+f <b... mc.. .. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/WebStorage/QuotaManager-journal
+f =.... mc..H.. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/GrShaderCache/data_0
+f =.... mc.. .. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/GrShaderCache/data_1
+f =b... mc..H.. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/GrShaderCache/data_3
+f =.... mc..H.. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/GrShaderCache/index
+f =.... mc.. .. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/GraphiteDawnCache/data_1
+f <.... mci. .. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Local State
+d =.... mc.. .. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Safe Browsing
+f =.... mci. .. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Safe Browsing/UrlBilling.store
+f =.... mci. .. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Safe Browsing/UrlMalBin.store
+f =.... mci. .. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Safe Browsing/UrlMalware.store
+f =.... mci. .. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Safe Browsing/UrlSoceng.store
+f =.... mci. .. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/Safe Browsing/UrlUws.store
+f =.... mc.. .. . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/ShaderCache/data_1
+f =.... mc..... . : /home/ibrahim/.config/BraveSoftware/Brave-Browser/segmentation_platform/ukm_db-wal
+d =.... mc.. .. . : /home/ibrahim/.config/dconf
+f <.... mci.-.. . : /home/ibrahim/.config/dconf/user
+d =.... mc.. .. . : /home/ibrahim/.config/tiling-assistant
+f =.p.. mci..A. . : /home/ibrahim/.config/tiling-assistant/tiledSessionRestore.json
+d =.... mc.. .. . : /home/ibrahim/.local/share/gnome-shell
+f =.... mci.+.. . : /home/ibrahim/.local/share/gnome-shell/application_state
+d =.... mc.. .. . : /home/ibrahim/.local/share/nautilus/tags
+d =.... mc.. .. . : /home/ibrahim/.local/state/wireplumber
+f =.... mci.... . : /home/ibrahim/.local/state/wireplumber/restore-stream
+f =.... mci.H.. . : /run/NetworkManager/devices/2
+d =.... mc.. .. . : /run/gdm3/dbus
+d =.... mc.. .. . : /run/user/1000/dconf
+f =.... mci.-.. . : /run/user/1000/dconf/user
+d =.... mc.. .. . : /run/user/1000/gvfsd
+f =.... mc..... . : /tmp/aide-initial-check.txt
+f =.... mci. .. . : /var/lib/NetworkManager/internal-7ea6f90b-3495-3533-948a-ef0035687c34-enp2s0.lease
+f =.... mc..+.. . : /var/lib/systemd/timers/stamp-dailyaidecheck.timer
+f =.... mc..... . : /var/lib/systemd/timers/stamp-fwupd-refresh.timer
+f >b... mc..+.. . : /var/log/aide/aideinit.errors
+f >b... mc..H.. . : /var/log/aide/aideinit.log
+f >b... mc.. .. . : /var/log/audit/audit.log
+
+---------------------------------------------------
+Detailed information about changes:
+---------------------------------------------------
+
+File: /home/ibrahim/.bash_history
+ Size      : 33932                            | 33951
+ Mtime     : 2025-12-08 23:24:09 +0530        | 2025-12-09 14:49:34 +0530
+ Ctime     : 2025-12-08 23:24:09 +0530        | 2025-12-09 14:49:34 +0530
+ MD5       : SgF3S29ST8XexXll/UIDIg==         | wZ2RyyZGo7NcXrfrhek3VQ==
+ SHA1      : Zv7P7yDTMT1wL/uIfyTDP8Vuu28=     | 5PSVgXpiPiGfRPUUs/feULIzQxc=
+ SHA256    : 1saL1QM02oNiRpctMPU8rwC78znTevF4 | QhbU3NYupq6bOsyBQ7KsdtY4lrJIJMa/
+             L0sUb8iTHxw=                     | SvUjExoqS8k=
+ SHA512    : 3GrFcU47nQQ+NNDsw0OEYbrTIdrn/hVh | avX0O31Kr9hapO0vsPQCYbTDGOoxzcLK
+             AnJBQb8KzBBbJdI88/PT3yEW/Y5U/EuM | AiCRR8RlgJl0eEdzRAinSJTh9o5z1HRW
+             TmCe/K9gIU7pj2GfmU3heA==         | CnDn82b0YIRa4swJ2SKsUA==
+ RMD160    : JGheAozgBskH7DHF/gnQcgI+sCQ=     | gSfDbWRJFdtTjOUpUc4G2h8sSrk=
+ TIGER     : 2INm9CiT1x1blD5Uv4mYZAjm71X2+XXS | YY+W5/w4ilAQfd+mvdno5I4KlMdWKDpQ
+ CRC32     : UcCcMw==                         | Tqkzxg==
+ CRC32B    : XKp9KQ==                         | SRrfUw==
+ HAVAL     : WGxgDYMp4pRf2ptMwtGddxgA+JdVReDw | NLQvtQn2KtWgmDVgVKDJYVVZv+Zp4rjt
+             aPmkso6As0g=                     | W6a/XH5SWIE=
+ WHIRLPOOL : 3CzAq+F1j++XeWLdgqMGg+spKiaL5SC/ | YULcyEI6LNSRqrcvJeAwWpiISYLpPpUb
+             iKqfi/yEEooGuehfrLgkDEv99zBMU1bm | C4IkXoBvQl+ItMeVmQE+YbZy5oeVJS1I
+             lW2RraedCs+9yqtYY03TUA==         | m3vXzAtVcKCsNhOxGYiFaw==
+ GOST      : thzf5B/pGc3ZnjfWeGXUcrjWyqyM8xU0 | fMrDRfltDyhTVL1pRhiu/jNZCvM2hoeK
+             dwHVSdQpEkQ=                     | /pbj7Wm7dJQ=
+
+Directory: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data
+ Mtime     : 2025-12-09 13:52:30 +0530        | 2025-12-09 14:46:22 +0530
+ Ctime     : 2025-12-09 13:52:30 +0530        | 2025-12-09 14:46:22 +0530
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/0276c4d7b1a7ba73_0
+ Size      : 151020                           | 156038
+ Bcount    : 296                              | 312
+ Mtime     : 2025-12-09 13:52:22 +0530        | 2025-12-09 14:46:13 +0530
+ Ctime     : 2025-12-09 13:52:22 +0530        | 2025-12-09 14:46:13 +0530
+ Inode     : 791242                           | 791166
+ MD5       : 8DBEb7oNgH9GhvMDnkeDHA==         | UZWqeab1fChpkg3nNmSKPw==
+ SHA1      : qyynT3VWsqdPER6p289zSXeV4c4=     | gUwNRSN4n6jb6ZKWKf5mLaeWuzw=
+ SHA256    : cblp9KqCbncCqk/KMRClfDKjmRWLjGud | vIUwA50bvE29vgEMkRQo8xSiItXHyrM0
+             vDLjGv36bOA=                     | 0kwpZsa9X5M=
+ SHA512    : 1p9SzmC73IMwxl//AlhOlRpREGI2bfqk | JVVZnYbBEH4pAuoSC1Zn3E701LGAU4Me
+             7cRqJjqkvZL2QcW7KGs7iOwJtnGbnphi | MnfwFoXYZG8g0NV8QYgeOdGvVXhEi5ey
+             l3zIK7HrA9KKBDZepseHdQ==         | 0dJCsPHvmORKdwdK+Gz3Pg==
+ RMD160    : 2Q0SnJuWXm67Eiy0UVW3up6QQ8g=     | IWBvP4ESTFZ/2HlDQG+ezylC9YY=
+ TIGER     : JK53upAsRJXUuawTR9UH5UbGu4KSXaIr | 6HsgM2584g8sELQwsg6IsN0XcjcQQLbg
+ CRC32     : tyeJ/A==                         | bMtiWA==
+ CRC32B    : Z9yhew==                         | naofsw==
+ HAVAL     : AANkG/XPEfO7y0uzfN9NIX1c7C7ny7EF | eygwjKlBnuLKzguwYUZm4OMUige2t/IY
+             9uTWLd6pNQU=                     | ijDOk/QNMCo=
+ WHIRLPOOL : 3cUl1t8JZoLXRWctv6bakCrc0DhVNKGb | wc2JEZdnUc4e39FN3wykZ7jYWIBW0UmK
+             dkOXaUFscILnLBf1oE2FqPolnQ+gQYjm | S3FjTj66VVCBtepwcMOTVgwRRwlHsf14
+             Qxe2Lhig1jO/lYKDo3kgaw==         | bBCYrm2v8hhEsPLbYAc4/A==
+ GOST      : vso5hxsZZ8Ga5uC52CiXmESbaS5rQI4K | GljOsa/3m8rQCEFuwEIHOxsLg0ubc65p
+             z8I224LnwEE=                     | CSUbTsyjRaQ=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/1147245ebddd5c47_0
+ Size      : 3012                             | 3015
+ Mtime     : 2025-12-09 13:52:27 +0530        | 2025-12-09 14:46:18 +0530
+ Ctime     : 2025-12-09 13:52:27 +0530        | 2025-12-09 14:46:18 +0530
+ Inode     : 794294                           | 790682
+ MD5       : Bx2SvYj39WP5luhAsG4sAA==         | DIkD7p8inHCVUPLivEXKFw==
+ SHA1      : Rh1H2ygnLVss6RDnQ+VClPqe9Y8=     | CjG3KN7oZswg4g0En5Dq2kGH1Kc=
+ SHA256    : dEsflx2uVtdvbPasHwjWHYD7FDpKexiP | esVfLaNa97fKq9Kg0B0eL0QUvuAHV69P
+             AVNSpqg+qe4=                     | Pw0zswzgxls=
+ SHA512    : pe6QfddsowJ3jWBA7kmPHMzoq3nQPU/C | A5PodQSzSlZcnFdme8ua8EiNfUqQji6h
+             p5/d104Dk8vB3C7XDPsAk6T5B3ui6h9L | JsJcj8qamGAtwxfoYj3dFB5uE1fK3dcX
+             ETZBB4cTRZTxp2xEvAm7qA==         | W2DUkwl9fnOTaUitGzgRZQ==
+ RMD160    : VZZKOTwkYZrTTTisEfKIHrQPinw=     | I9XpveZ0rSetaOTAh0cLF4EX3K0=
+ TIGER     : o3ER2ZfSTvDJht0C/kXnJBICAqx6Oq// | TJ9JaJrMkqgOcaL0q51H/e3GCcErGbZ4
+ CRC32     : AXq4ZA==                         | 0KgpzQ==
+ CRC32B    : 32+kSw==                         | m/rxoQ==
+ HAVAL     : 3qw0KUx3hXD0v3IeAPNs9cWa+4lT57Uv | TCzYk2vwtAq9MFXgMdZGFsoT3jygLtDe
+             Sfw6hoi2/EI=                     | h6b2hhzd6MU=
+ WHIRLPOOL : ejwutv8lZ/LP0CbbrTZ1ImURMpIqQaiU | eE63TLG2zzszLZY7B+M2uV8kHLzzei4/
+             8C8/wXpZ8Kp/+P3MhJpLSjybqz4B+6un | b4YcHLY1IsVxZMEVab+CciGeI8aZ8bec
+             SpvUAGkLGEwm4W9J276PKA==         | j2Jf0+8kwz7B3YC5kE/8IA==
+ GOST      : eGS+7nogXXy5SYBlbsyVz0GI9iHBhL3P | pit+qevCToqYrRQQtfPKgyS8WiozNoSa
+             1rBo0pDLFA4=                     | 8XB7pslwdWc=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/22435294ef390fd7_0
+ Size      : 3005                             | 3010
+ Mtime     : 2025-12-09 13:52:27 +0530        | 2025-12-09 14:46:18 +0530
+ Ctime     : 2025-12-09 13:52:27 +0530        | 2025-12-09 14:46:18 +0530
+ Inode     : 794308                           | 791245
+ MD5       : MMIQF4/OXSHpNJlN6R3v+A==         | zwrZRa3iobMSxCTgsNk1oQ==
+ SHA1      : qRI70fXTJUYOejlBBuRgJgUeG5M=     | 1RDqvx5a0hhBvT4pZAo1vEi6EAw=
+ SHA256    : AMw+c7U9CVyqMS55843HcpfW7wV25HtI | mFI8sDj9RPnnd5qEoLfoXepnp2E/5C+f
+             fnYY/3ToswY=                     | aWBKHkT5W94=
+ SHA512    : heb7uOHFUpY0ub61/2ubxx/yjrWIFuVy | efWwBoUA/6mT7LJg6zeOP6vcZ05+/0a2
+             KrVexhxkojoj2vBIoJfiYpTGAK7PCY3W | +xkYK5o5X1S/eUEYkFDtP4ScrZ0HADeQ
+             XybeNxbdFcE2BiJvwZGAZw==         | 8oqktNbsiaEZ9lh3SIhK4w==
+ RMD160    : unER4Qy+7/djiBNAjCmy2VU0Vys=     | dnnwgUrwHMsE8P4XKvtgtTwnL9Y=
+ TIGER     : +twFosW2JK3mt65szKjCMe+DBmSTvIGF | PUwy+hLrk3dIoSuuoBrpAclGIMYF5QJg
+ CRC32     : Ofx31g==                         | ovy3fw==
+ CRC32B    : hPwaHA==                         | wHjVeg==
+ HAVAL     : 1ekWimy8bp1yMteNEDdvHT5bcoJCdRVb | gN3lOvLgn3coNkv55gfKdkzYCgqEK1H0
+             tdqPiB6EoOw=                     | nxcNJ3aplEY=
+ WHIRLPOOL : fCC+VICgq5IKkfXVKSMfX3DbkFIydwFt | oorhD8wLOhKAirSDMtXGK2FLzKEyQ1Wb
+             3kDHQC+MkrCmZwg9BTWZC3YXTqRVrXS4 | eiQyPlp0ts3yMImasPdh4Hx388hi0Xvz
+             id+yPEl7tRUsf8rfE77M9w==         | mh7IoPMELTGxp5O7jbNTrA==
+ GOST      : F/bfgAvCkI177JH5ZRN1MvfipawqH6Fm | 3wXgIh32rS49QFgSltDwwMqmPdvpiT67
+             H3WMQ3HFrxY=                     | 8mQyS2H6qB4=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/227dafdde64b443f_0
+ Size      : 2747                             | 2751
+ Mtime     : 2025-12-09 13:52:19 +0530        | 2025-12-09 14:46:11 +0530
+ Ctime     : 2025-12-09 13:52:19 +0530        | 2025-12-09 14:46:11 +0530
+ Inode     : 791166                           | 791165
+ MD5       : WiwCaFR6kTNGuLcETKBxLQ==         | xqVS8+ceiNAAaDGGjaAhtA==
+ SHA1      : xTdOsjVAC57oOwc7bP2fm9+sUiY=     | v01f4bUbUot0KAumhzvLIT+Rjio=
+ SHA256    : X3Uemz2tHAxXEhahBtK+1uLv1TZy8Faj | QE9fCSPdaTOLFqB75NnhQxNRfK3dGJnE
+             778f1TidBb4=                     | yD0TOysMSRI=
+ SHA512    : Epnz1UFFXb7hCmFb2JoMks+uBhjUlvSY | zLJnGZouFHMZvfxX5CToY5yNEZBJVhJD
+             N7Tn9qozDs+Vh9YLHbQp0jPG9w4Yx68w | TQBkkhWFADhC5kuNKwi7IbqPhUVv+AGc
+             y3ecGu7d0y05Rgqdq4tsdQ==         | 8jx6HVPEtKElLmNRcutWEA==
+ RMD160    : 3x9YnXInty2KFn62Z5gAqSTgFm0=     | wqcW2cVPQlzICUG60HIqdH9OFpo=
+ TIGER     : ZaANoJWYpt/ARb7k8ZQsSRaeySSi1Sxo | g0dK7kT8LJ4ZYA6bfvlyxqvnTtTHsgRJ
+ CRC32     : nfwMHA==                         | jtwhFw==
+ CRC32B    : 6JRS7Q==                         | aQYOAA==
+ HAVAL     : FMOzue+buZXeqyjOYEf5EzfMOfVxywSF | LYJH7i+RHTMFdXIhC9P5YeFYq9EdUX8p
+             RaG6fdCpHLw=                     | vId0MyqQQqw=
+ WHIRLPOOL : X8DrIv2jIWPYkMxGM0+lvLgCYOyVfB4N | QrOSnIMlweDScXHCCZZzfqT0uRUwaDe0
+             YAPqZ/Iqq09e76DFWPETdTBOJ6cyZto9 | ivKE+wXYzE468B1Tfw6BvvTsuZtMiMvr
+             SWN+d7LP6s6Wp8otOzo18A==         | gyQA6NYlchFm4QwSyDCNXQ==
+ GOST      : Rx4Gw/SUrKDJ2WW766DLfHBzdIG4UOe1 | f860HpoWneJz7R64RYiF/XiiHpsOMXJI
+             +yK+Bk5611A=                     | v0EdnJVbsto=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/239d05d23d4cc390_0
+ Size      : 3120                             | 3119
+ Mtime     : 2025-12-09 13:52:20 +0530        | 2025-12-09 14:46:11 +0530
+ Ctime     : 2025-12-09 13:52:20 +0530        | 2025-12-09 14:46:11 +0530
+ Inode     : 791185                           | 790685
+ MD5       : lSlzXWzdgk6YcZ5dV5rkvQ==         | jwDehexLfGn4SA40AywwVA==
+ SHA1      : uw7QHG5TtBRoOUounIEYj4vV+5w=     | n2hDi/L28qT7byp5JAd/lNa06yw=
+ SHA256    : 4GqraWAlwP+19urcfSzj0DBLfv9Qpoko | 4YTGnY0HdwEELLsqrCQqkwBjRXgTUH5W
+             kYdzT0xmFCM=                     | dD4qCZbBZhQ=
+ SHA512    : p5f8JgZQw8K6UsT6dAxSkAMCphO+qek9 | /En00KaBxEe7Zw4H0KL6OKOAPFFkjGfS
+             Bjr9x84cxJ9TDY6477f9l/qYGKPaP+bn | ZrQPKyowSOHcpC8VxvnUcmhc7teMrQKM
+             nKDEV4d7Q0+h6K6SKiI2og==         | RepLfRNfY7x9iJ2uACEf1g==
+ RMD160    : DRLOFg7qdh4AClAgFr7G7BAVM0w=     | bGpc16xJEhte1hJ9VMQWx2rCuLs=
+ TIGER     : pmeBoSa+zyXc1kz6PWJfzzt+a9Ey/6Zr | Tg8+8ZHGdYSkJsfvfdRhXn+leRojz7Ie
+ CRC32     : LsJUUw==                         | TDSixg==
+ CRC32B    : THA4lQ==                         | CTbMIg==
+ HAVAL     : DvkOM5+UQ4/kN+PDd3xRUhOvAVLow98/ | Kzl2tALQ05WliCRJKZ5Z0KVoNBuOp6ja
+             ZmtTn8kgOEs=                     | HSgQgrdKFz4=
+ WHIRLPOOL : QloiZovSocXXxWxa41FKPhM7r8febuZz | K5rlC5sRMqkZ+yKJqQ8XRrrVJI1izAiu
+             Rt4ohD4dIDbg8vGK2scNJTqWJ1ykFUiT | at/9eF4Xb4tp6Xvcd32gMouDRxnjKnKV
+             xaJ7PTdVBvecnU8SM21/MA==         | oA7/W+HvDvewKsok6rIIyA==
+ GOST      : fhJbRQ0VNYKQRyx27kKzn3pPoX0UrbsB | +cw+HM7ytNcAuH0zv0eKxKZtnYmrU3Hq
+             FPCGicD7/lA=                     | k2eyBeMa4YE=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/2a5d88d5f0ec5e55_0
+ Size      : 3017                             | 3009
+ Mtime     : 2025-12-09 13:52:27 +0530        | 2025-12-09 14:46:18 +0530
+ Ctime     : 2025-12-09 13:52:27 +0530        | 2025-12-09 14:46:18 +0530
+ Inode     : 794197                           | 790985
+ MD5       : KsanfCfFvhU75AQ4LshV9A==         | NUBPvuWX199i0Q/6x96MNg==
+ SHA1      : Azqc6W2OaA9TYHG4ryvc//vjKeM=     | EegyKPt8qT0P/00ryk4Z/MGH478=
+ SHA256    : 6UJ2zJC+wb+EkqKlElu5qOxq475s0s09 | L/ukrBzAkkv8+7j00+pHHbfbdy0+dlUJ
+             JWf9yDAjf8Y=                     | JqbDdvrcyWc=
+ SHA512    : 3VskL/sxZGK2UvvtZsMMAaYRxLn6ydI1 | y+/xPHrVNYqCDm878YffNdEK9JOC9MW7
+             X1s5KWr4ETQigYzzkeJHkyZAwi3NGurt | nsU9yKDka4dl3yoowILj67sTdhdMMa4f
+             tjthjLbGiDlTenipfZDHdA==         | n2+e6Xl2Ps1yjqFl73UsFA==
+ RMD160    : pMEU4aYbv4g69hTlBE7z6M9rdQY=     | FsxDKR9Jn6AILj/bk4s4VUvGBds=
+ TIGER     : hEKeQ1iDVJu4iEHIT1K5wsmkGv0Siv+7 | cPcQ4y+kOkZjPc6jr/3dox2qjMmcYm90
+ CRC32     : G4Jc4g==                         | 4ZTXsA==
+ CRC32B    : UA3A+Q==                         | 5Y4ZKQ==
+ HAVAL     : /tVLY6CPH3ta+VTIdRQsX8cbQvjgCAkS | U4OFgrFsSC6KdlVUlOpcP7j5yCUp7fCz
+             kXRO/Zfuu0U=                     | YHxKfVoxVdQ=
+ WHIRLPOOL : sgKCl6WQLqRzqxmzj2ANRE6Qv12FGsrg | AN5ECt4NzSz/sk4oQwZfZjivxPNX5B2b
+             PH+a1ryiJ6smhDp3fNUpb2tr/NAAY1hf | DD4cd8Yjf95U+xc6hF3izOH/OvdXlGfH
+             tahfdTmj5GNBDmZh/qhtDQ==         | BQKxeMOfe8TCZZ4ydtwwEQ==
+ GOST      : 0C1J26ozvHgt53m3266rZ7zZIs0LryVL | soSq6GBHat45t0RxVfXG8pkwRc9Rf0nj
+             HvOtir/1iO8=                     | gIgLF7chXJg=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/37f14d1f3afb2999_0
+ Size      : 2750                             | 2734
+ Mtime     : 2025-12-09 13:52:18 +0530        | 2025-12-09 14:41:04 +0530
+ Ctime     : 2025-12-09 13:52:18 +0530        | 2025-12-09 14:41:04 +0530
+ MD5       : jjjpa3oVg94cLcTJnEsBHg==         | 4RAiguHlZTiihYx+82Wu+g==
+ SHA1      : HgfFFAyGh4G1SfDEgtaM51IFG2k=     | oY9KUJMvfhc3bDjIdjvqMr9AjZs=
+ SHA256    : GHJCyFu6jxaghjLZRS9In0DSE5uu0HX5 | 7i9V4fZhU88vlc9h+q1v1imSBAS0fq3u
+             YxMDUWkkWhE=                     | mhFvBSQK3OY=
+ SHA512    : uN6x4b/cT89jsYluaVXEqIq2qfaA945h | 2K+/IIAUt48Lc9pVxbA5+tplk/PO8yj5
+             nLOkH+cMkh1k6Q8l8fwTT3K/yMLwGOhp | vW3w/3hMD/lviuTOmrnwzPej2JmZhaPw
+             2lGSuUzZtqjwduWtpQVOuw==         | gTpXa167PTVJkUWwAi7B7A==
+ RMD160    : B1MKVhFrACW45MSIPXeO9iQtXbA=     | OH5YN2D94LBTbnS/PYEoA42cUeg=
+ TIGER     : UfI322zzd+D55kMvYmL0pMz4HCrjwFDG | dIXv1E7pVOYw4otLaIDkHHUBtK8fzqcO
+ CRC32     : sj3KaQ==                         | uV4EaA==
+ CRC32B    : plGPrw==                         | DP54pw==
+ HAVAL     : IRvDaTVTIww2CSacvllnsIPO9UOFjlrg | CeS/oTvMXmO1Y339Urz/lpbR8MzliRQ6
+             hqr5/9hIRsQ=                     | 1vopCUpBXs4=
+ WHIRLPOOL : N4lvL1VQLi+NJiP+z9cgIold5WV3/RI3 | oqPHM8nSmS7NbV1f356+ccEsCutAiAh5
+             9mRfS7pCsp8QkZO43Kgm5rnc7OVEZW2j | Kj5y55u8J3oaahWFyFfVrKtBLE4HIICk
+             Rn5dSM0bkSTZCc06HgC4Hg==         | zH5GdCs13uwoCGNNvYoOEg==
+ GOST      : 3CaTPnN2eHu6J8dLqc112s12i0Fc28nc | 8yWuHA3W5De3wPlNdGQ7THZpnZyBdRo9
+             2VNmlhVk9Kg=                     | vz8htjlGg4I=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/38871ecba2215a57_0
+ Size      : 3009                             | 3022
+ Mtime     : 2025-12-09 13:52:27 +0530        | 2025-12-09 14:46:18 +0530
+ Ctime     : 2025-12-09 13:52:27 +0530        | 2025-12-09 14:46:18 +0530
+ Inode     : 791093                           | 790687
+ MD5       : xe/FHo0vuQWAACyPfJCZjQ==         | EhbwSPOQyIJ0xIqdIQWdKw==
+ SHA1      : a88IftE2wzl8Vh/8+KG90Q8EKdg=     | hMBnyGxvXoNxNmkXf7+s3kDWc0I=
+ SHA256    : s1EW4DH/43u2VHJMYD5GuU70UWUWNd8q | TR/i5blDKl7q/rLAu2Bd+m719O3KEwOH
+             w5InjZFaB00=                     | +HE8vni0EIQ=
+ SHA512    : yqYbHy4IqGciynKyMnL8d9vsmHUVz6Q4 | E1kTL3LZnkOS9zEItKxFKmF3TvTeGEq2
+             v59DT6+aXYFFcdD4grkPrcSntJYF2aRr | VlgPNaLfnnLde9jtUvDilzZ6EygV5Z03
+             2pB694xyfqAmYetBnizEKg==         | Ednb+Uvaot9CtHC8T2J20w==
+ RMD160    : P2EG2Dum/G22GUFTA5lchswA6E0=     | PG8NBxgOaDmup4OBV53PMRJYreM=
+ TIGER     : chytP7u/pwuUP3YcLccCnxg/6vrBTSKw | G5SvcfyaeFMrtxyu2lWyyii5x4kNHGT/
+ CRC32     : YgsJbA==                         | CrXf8g==
+ CRC32B    : p7042w==                         | s+ICig==
+ HAVAL     : u8yw3hiMqpJlaDnNB5B1y4/iI5rvkEfP | O487COFWE3888cKU4b32TCC8bh6lT/dp
+             c56Lpdyiqlw=                     | KoxVUY2M3es=
+ WHIRLPOOL : lefYhOddNZuM9DksxJQv4PcXEW3HMSHX | znD2XIeYrQfmRPxWs1Y2Hmr9PLgUhSqA
+             zRplCcGHyNQkqKJLfTuRZq7FoR745L8W | 0TfgzruYSUHq78+YjGd9PoJ6enq+G6ek
+             OuEtmkvA/H/msqjtiUgKww==         | 4VplE6dGZj6Tg5YULdSfPg==
+ GOST      : LGdnLVenbt6oX+vEeWQgUKHLSTh5xMP/ | 9T6PO8AU99JjTwNJZFKvKm/oliMnT/jK
+             hqTRhQu0YoU=                     | AwpQdiEMSz0=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/3889aa4a753ccaf1_0
+ Mtime     : 2025-12-09 13:52:19 +0530        | 2025-12-09 14:46:11 +0530
+ Ctime     : 2025-12-09 13:52:19 +0530        | 2025-12-09 14:46:11 +0530
+ MD5       : sIGCNM316EufhbUZZF1/Ag==         | 0/co0L1Gs347wKCYui4kKw==
+ SHA1      : iKol0nLgENvTBxYWIUTCZuJcyq8=     | NGNqYITBbZyPPffDpW8dXU2E/EE=
+ SHA256    : VrzqtmCThdFF2ndUNN4ddbErM/kKh0zH | lkSQKeF5vJM85JixIP3AC7wRm3CUkhdV
+             5gMOWkyBrp8=                     | 1x9vFswNSEQ=
+ SHA512    : WOIS6VRl67OOthQrRQqX4ewSy4mr5nu/ | 6WG1ALdxX2p7r/2q2ryO9p+wdVJ06G0n
+             WhNHg2EP8k6funDBr5XfyxLGPje+1ILu | tozMo4w654PFcdBSqVvBTHbNWpkRkxXG
+             cww1roUHwwEUaQDq8GkzPQ==         | nYDnCjI4RDieUeXsYz9Qxg==
+ RMD160    : 5l529fyqhc1vcTs2W++fRqYtjqA=     | A2dngUewET0W7xHOD8913BpmzQQ=
+ TIGER     : fjcY1naV9AVDxy/6PmJi4QXVeZiJoeH5 | UtGP0gWw65mbZgATGA3HKe423QdjZl2f
+ CRC32     : Zn01UQ==                         | /VwOSw==
+ CRC32B    : amWGcw==                         | XNnkiw==
+ HAVAL     : 3jFr0ApRkk8LLBrfDmIML4MyxRW06XHj | mFS5/RLuBzzTK62J0/GiynHwC5J1WwV5
+             NTJhDGdHfIs=                     | bguBxHOxQco=
+ WHIRLPOOL : 0IIYRAD7SRnl7vG4xeJag1287EW9f46j | G++GoEa882JoWrpA0dmyeKaxuFD8tCtJ
+             UEWRB4BckySRM+4novlzOUi4S0XLMq+J | lvnwkJNzcONCrlj19pnP1n/SXRfa3SMW
+             h37LGhIzKhoLVIiTRtj60w==         | /KttuWZJ5PBCUIURBlEfbg==
+ GOST      : omnuhFSxs4oTglaL/Mzip1TkX2L/vpLr | Y3zNARDRYK5TL+J9lTL8xiQVBERmpLrF
+             Xt4mjT+HYCg=                     | Og48A+vURIA=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/3c0d18b11b1ac0f4_0
+ Size      : 3194                             | 3182
+ Mtime     : 2025-12-09 13:52:19 +0530        | 2025-12-09 14:46:11 +0530
+ Ctime     : 2025-12-09 13:52:19 +0530        | 2025-12-09 14:46:11 +0530
+ MD5       : sAbSJD9TvF4WMKQv0bVmzA==         | 2K0edJApaWOne1VoVgf5Lw==
+ SHA1      : IxriHIDDxPIOPeMktP/OqToXbAU=     | bp+1YFGK1L4zPIEKdIedIsXZ6/U=
+ SHA256    : 7DBVa1noQeKtIwa5ecVVxLaLeNLhkoGO | zMIzPJSTnWRtoypCUrTSbl0Xt7bCeuty
+             xudSpu3IiNU=                     | 5dkIYB64ORk=
+ SHA512    : 3eWn0GAtpTSgS0nnGB6s9B2816JG38u2 | HCZ0v/ZVP/ftlzu2HIRfBxX8ouV4K3f5
+             z3JVwlxOO0pr9zkIwSlXed1tB940x4FF | YoVmhCxlULpBFR7q7T4uwGJ1VAhCgCV4
+             8vUAidwc22y/GhqO6yH5SQ==         | GNlIR10WSJlElIU6NzWBsQ==
+ RMD160    : PE+MYVxgVuZefAgCA1y9EgeBSoc=     | P+NUtt16JMPoiE6kctp5NG7cdDA=
+ TIGER     : 24juaAOVMa7zkvhc0DN1D5KY4n+ktxiN | AkJEsDDps5IloU/AIJR3W4DG1XG4scx7
+ CRC32     : DQhueA==                         | 2i4uMQ==
+ CRC32B    : HV7tFA==                         | aCxKUw==
+ HAVAL     : SoQlYNfGlCNyr84iMzUc0ZPLcrBzgUql | cNNBpJejOEs208Ctl1qFDzDqLEN99Gdn
+             2jqtSPHc3tE=                     | MPztp69zOcs=
+ WHIRLPOOL : /wr59GnH5yrJVoSpb4/uwwlsGKZ76dhr | UPV29XO6s4ZJ/AF3qEcimJkzGJ8RJSJK
+             lXvP83Nbey7/DIS+D7IZXtQtvUeVv3O8 | +pSNdPa9zAewV3ruu40zkAQIShRdKrGB
+             2cEX3T2BMtE7Y7mDwOsQvA==         | gO36Zy+jR1EFWeUFmIDdTw==
+ GOST      : PlPZQ3tuHgJfXKQczD+vZFgC8a+03mux | tQ6KSALGKtjAeWxa4/uE4fmwN7l1hAVK
+             8a42F+v5p9E=                     | QEfW0dRYgYI=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/4145e9db4e00b810_0
+ Size      : 3021                             | 3026
+ Mtime     : 2025-12-09 13:52:21 +0530        | 2025-12-09 14:46:13 +0530
+ Ctime     : 2025-12-09 13:52:21 +0530        | 2025-12-09 14:46:13 +0530
+ MD5       : y5bfoeQv36FM1Ai326WULQ==         | aDSFgC7EEdv5vdyqCIP4vQ==
+ SHA1      : 7Xjy6OwLzSLfIjaaVSqHALdgEs0=     | kakHEtf7NBAAgihMv1PzlXJvYio=
+ SHA256    : Sg0wm6a+3Atn7bNrvmgUL1zKPzuojERj | 9Cxx4n3easPjhUV39tiLZlOkqh9CPm1d
+             XHEeujY1jdQ=                     | WCWstTB4M5Y=
+ SHA512    : CNLOHIaNHsvKeko+q+4hvWDfIcPu+cEp | HSXKMrHBN4wYY0OiNWs4RhjP0fGI8PZC
+             Yb7mo7Es+wAVaUfty4MhPged9PvBewsm | OtyuVQLHSjGHw1UmeA2w7UUcelGRG7/3
+             6dlqV5/VFeKK+LXsu3G3IA==         | kxOJHicKKpIZ3tOOqxlVpA==
+ RMD160    : 7BkclhRiT5GUCpjOyCpwGuuQ34s=     | OWzmXpvYTpJIRTC5Sune0117AeU=
+ TIGER     : bmAI9ocb2ECbtVLD30cdR0KNg5E900vY | v66jFMvikTgT56wgFMc3YzgVwo+nACYY
+ CRC32     : 2Zt+QQ==                         | 9ek+rQ==
+ CRC32B    : s+Z82w==                         | HGXFTg==
+ HAVAL     : n6m/66n19QtH1V6Z3eKXkR1N9gt9mt8e | TwnzKEpvJKwMeQR8ifqZ9vWsStzSbyxx
+             vaHqXyWw8z4=                     | e+NfdZaRuMU=
+ WHIRLPOOL : ilopt3HgOSU6Slz7i3pC208NMThw7D9t | UkE0QR4+8mSW5pWrOladSNQ3sIBHyfmi
+             Sdstl0naMY3hReG+4Wxue2mLA2+THfb7 | hc9cxauq9u+U5lMEK1vBGtk6ygO7522i
+             7ZoLIkJyGE4r/HKucDySxA==         | VLu+dzkcOitPhELSqGvMgA==
+ GOST      : 5s4kOBIMWPn3FLe3jaIRAFDRva5mvP2n | 7U0jrRyMZ9Sch+uVGrLXfiviMWOb25uZ
+             T19oSPufluQ=                     | gIO3Lvdo7To=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/49047533b13746ba_0
+ Size      : 2785                             | 2781
+ Mtime     : 2025-12-09 13:52:20 +0530        | 2025-12-09 14:46:12 +0530
+ Ctime     : 2025-12-09 13:52:20 +0530        | 2025-12-09 14:46:12 +0530
+ Inode     : 791182                           | 791180
+ MD5       : J9KpKSG1Mw7YaF58L0k0pQ==         | 120CcCYpM7LZ1WYdDlzHug==
+ SHA1      : XPrkog6zu/P/SWzJwfkohJ3BJx0=     | TohG6f1s/KT/T5iaZPxrgcvaQ4k=
+ SHA256    : C6ScnymdcXRYpILXULuJiz5HUKqWdBXI | 5yMIg1DhMuc1l8yfLrvwBhrLrBRQbAbs
+             GkvUbpl6AeE=                     | QL6GupBDA4s=
+ SHA512    : cuy0wZCJh/+WHQvb5fOuBsqkJMTHlGdz | NfkM5/avvreLARbcxjFYVsXxS4iBl9K6
+             nboA5XIYJtzIglq+bxY9F9ZIk/CTTb1b | vhe1Hml51IE6EoXUegQWW5rJVpo3LcXI
+             5K5C31mm7V74wHaqKtyubQ==         | IA4ZHjscDCzoWS4zaOHfQw==
+ RMD160    : XDZbGzLDjc3wZ4tubkQo7SXocGk=     | ztCxjGXC87x7y8Vh1o12vBR6hcY=
+ TIGER     : pYagpLDUMw49TNLM+Fj2ey430oByDgYD | K7vLEQQdisKSqVr0JVXt7yNz4GPQ9QXc
+ CRC32     : 2OvbYw==                         | LQ48og==
+ CRC32B    : atZGiw==                         | XrGN5w==
+ HAVAL     : 5v/rvTp5xetxtyWpzf5XlSJ1J6WitrHm | 4ghqEC001fJ7atPKkJFGJHGnRI/g0xJj
+             OuPRn8jb4DU=                     | m3Z47ycG5VQ=
+ WHIRLPOOL : i9nNLQB1GeZsr0jJNaeRksiNRUN/b77G | iiB7vToDMeep3Vew0sgsr0U/GYtpS72Y
+             Tg34JUCfaVBAjmW+mGd6RRWIkKl9MBzp | 4ul7kaaonNHr5MIC7NZC3t4SLZfNZwwc
+             i7TIYyE7KdqKJAoFwvb9Rg==         | 8xToZ0KoinlJD2nos1Ux1w==
+ GOST      : UN+pRPCwE659OyD/XumohNcxw/iMS837 | s/wD3YdveJSt98kFZaVN3EgYiSlTRhvE
+             MsWL1qRy7fQ=                     | HL08JWlloHU=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/50e2e379246fbfed_0
+ Size      : 3013                             | 3004
+ Mtime     : 2025-12-09 13:52:27 +0530        | 2025-12-09 14:46:18 +0530
+ Ctime     : 2025-12-09 13:52:27 +0530        | 2025-12-09 14:46:18 +0530
+ Inode     : 793833                           | 795241
+ MD5       : gZSkjZREMak98c1Bn1qR0w==         | OHfVDK4RIqC3kshpSNpnmQ==
+ SHA1      : 2G5kN73dtX0n7n2nNJYI9wrA1EQ=     | yLk2cMDcypnFQDdtino15Wly3MU=
+ SHA256    : BCx07mw4JKzmHtJfwslI/mnVfUaFICsM | yHxRxaiYGPxTwWsIkQP5llVZT1WiLKTs
+             I2ToTaWfq14=                     | tzamE40ymWQ=
+ SHA512    : 2ueBt92K9P9LzO6bkiJaTamp5SOXWPxG | l5rnPNPZX88GjCzLN2GRtBeYM1Bhdu2N
+             RXj6/M/IEAvi45pKETOHHjtmmIQpnFLI | qfLs1ltqvgYTxkv48zLeTLD6qyyi67Lc
+             QfuWLJb/SSrstBQoomGqwQ==         | wo/3hxJPtORVDnPg77n3Qg==
+ RMD160    : mxk4V97QYhRBj9b5mkEYr9D/bRk=     | /4zDbVrcPyhzhSgf4j33UPQ+vU0=
+ TIGER     : lQXv+FBEzv+RYgOJ1KtJ6TrdIqpeJrFc | PcjEqJCihSGVdFs5Qf3JFXe0wo51XApX
+ CRC32     : vp+BCg==                         | p+jvSA==
+ CRC32B    : uM0bsw==                         | HnYbdQ==
+ HAVAL     : SpYalRJAJ6H8up+jvCUDzdTvnl5dqp+H | FH6AQ9yrZkSLOjki9B9+QkADeqWyqGzI
+             +03oKKLB3as=                     | kH8P/pN2VyE=
+ WHIRLPOOL : /013CjwqLt3YHjPfU6i0CiEyeXivj0Y7 | zLTnp9un9zXGF3zI9G/rfYv6+kd+9Meu
+             WNkIm3ecM32mOEHFBiygyoH7cCtTPNif | yvDllOJDiPRFC2xD2GbA1j8gXnqeSAQM
+             UCzTCBhuLwuiGbCIHJRcfw==         | DCdxiC/yfperCNnM++M62w==
+ GOST      : XfiQi5OpdKw5D+h7jAvg6eXGe7KPiZI7 | ya5stSH1GoPvSbniBeuqDAC6SVPR+T7A
+             wXnMtqfUkFU=                     | +7B1lmp9uqM=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/513bc43c7f3c203e_0
+ Size      : 7524                             | 7520
+ Mtime     : 2025-12-09 13:52:19 +0530        | 2025-12-09 14:46:10 +0530
+ Ctime     : 2025-12-09 13:52:19 +0530        | 2025-12-09 14:46:10 +0530
+ Inode     : 791176                           | 790693
+ MD5       : g8j/EEEDO615hYy0j13+dw==         | fjp1r87p2adF8b1you436A==
+ SHA1      : 587+eJOiEm9vgDxuYcOxHZ8UM/M=     | 3/eZKdSnbYJk3g75nAuz0YGUVJ8=
+ SHA256    : sLKqtbd938PIAeKga0BKb8XJrvO6gNco | fFbO3QRkKaCo/+AYKZXprn0+DNXCOUpB
+             I0mYj9B/ikg=                     | 4S0kjZRIVkU=
+ SHA512    : q/CRQQX3LuGoji2Z2zQjCykEVjkLvykI | 0pMxBSHvSbuJpNzqVioXReDic0v6vTSy
+             CaKhk/T7fwXhU10yQQARwW/u7M8KA9uw | Ub7Nr0ajtaEzDDBoVXR9vBKDr4VgONfz
+             5imUivXMmZYK/kX/zOrbcw==         | qD4HMxfk0XCZWhTWQ+8rFQ==
+ RMD160    : aSuq1Tr5qGnMrICGL8KC3cFuI9o=     | RIXwWjTZCEE8WK8Pzp6dzRA7xCI=
+ TIGER     : Nz+pwcJOSkcTPwDxbkKWf9snK+x9aIQ4 | lAu7lBNsIOqwrbb+IH/c5AfKCoQfvMMd
+ CRC32     : K4ctgg==                         | aSZiLw==
+ CRC32B    : E8zXGQ==                         | DkpUEg==
+ HAVAL     : OCUnwdRwg+MYVtPKCobW9NWlpe8Li0mb | Cpb9Ao2VMoecG7JIyImKEBPyHYIT3p/v
+             p3TvLpWhopA=                     | 73xRxDarLcE=
+ WHIRLPOOL : HKV+8eF3e6603suscaG5ZsOmgGgrDnwN | aB1nLYRfgyLC5hFFxej4T0/twYMWVfC9
+             kFVXXNOP+AWiC1guVWpn0aJdEDimPfHZ | ilkWkfHasaQvwrdKZFhD7zS71nr37uOe
+             uEdhypgRoofVCQiXcqp/Xw==         | jZe/QnN76R+7zRghV5qFpw==
+ GOST      : 9dgjeBjIM38Ej0q1gf2eE1hDgJGMBOvQ | 6t7RSTvyHgquvuml9uvFoXRA1sUpcAOj
+             i0aPMGg9kp8=                     | +hqX6w8BhKk=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/5db19cd1ff984647_0
+ Size      : 3956                             | 3947
+ Mtime     : 2025-12-09 13:52:19 +0530        | 2025-12-09 14:46:10 +0530
+ Ctime     : 2025-12-09 13:52:19 +0530        | 2025-12-09 14:46:10 +0530
+ Inode     : 791169                           | 790691
+ MD5       : jGuO5Z41x+U7mMAJ9aZJVQ==         | sLOT3kw1ghTzt6MhHFKs6Q==
+ SHA1      : bKiYg7EGw5xEVwuRo+laNqCwSwY=     | 6TUk7NtQI25Tj5ryV1PC3Coe+O4=
+ SHA256    : CbWWiqPYoUIHHiuFxdjbjh1XMHs1hAJS | pNLZzCxVXbxIqUyg2rJbjn0N2xVIzIIn
+             eQMS+TOhsJc=                     | 9ux8s2YIniU=
+ SHA512    : vD2tPb/BBerNZcEIxV8apQ93TC1zjLA7 | sPg0bk8L/+O+Ls/nh1ijWoSbUm7ZeuYI
+             D/kt0Z6LjX38WDIr5rr42jtT5kFWTIUr | SynIM4VHob/2+hz8n4YZeVzlYzw/i+Ap
+             g4u3nQIj2pSe3D8wnBwIKQ==         | npu6EFKAl4jmwdYgTKOlLg==
+ RMD160    : q1ZSHdEe7HKd5y7MVhs4fAh61R0=     | kxwSWs3du3xdu37B6VZmkrkvM4I=
+ TIGER     : 8WFhwcJxw71+D4aUaDdue5jlblIwoaUK | oiKgZj4YTrkgvB6ASoNVN5cVPh7itgKu
+ CRC32     : j0HlHA==                         | 9HOQGQ==
+ CRC32B    : ftU3Ug==                         | gNxBpg==
+ HAVAL     : p6a1pmVQMgcNSiULtqBZ73pIMgXe/GuF | QX5QJIr9vzzARgzwK4uslPbA60tU2Kz6
+             9ePBkQmAeEA=                     | yS0Vha6ulJ0=
+ WHIRLPOOL : KbhdrA0cdWjeebtm+HcgiNRE9hkkG+cK | IgQanPsjxKwviCLP4KcWXoHDNsEn5sZa
+             is0n/sHpORLTBzYuyuIH54I5YREMhfRV | X9WIEsfYUkVbDEuesUOHFayQjg4+CgG0
+             zpr54eCPNT1rT/FkcXf9iw==         | CnSPuQMbWOlOvKnnWqV+wg==
+ GOST      : fTvHnF+sB2REPkiI/Wt+eBXVnVRK3r+8 | Cf1cfcY3jTX4oWqEqKJqyRHy++54/OHL
+             LJnkHmVHV6c=                     | zKdE3LhIPGo=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/7cdeb82c3ea85a3c_0
+ Mtime     : 2025-12-09 13:52:19 +0530        | 2025-12-09 14:46:11 +0530
+ Ctime     : 2025-12-09 13:52:19 +0530        | 2025-12-09 14:46:11 +0530
+ MD5       : wZD988ncLHV6mYQiphXfPw==         | zi4kPJg5V1S/H/XZhuE+1g==
+ SHA1      : fDdpbCeJKt+VGJkD0VD7bBGKX5U=     | UTWMwmPUmB+JJbnjL3co2wqsbA8=
+ SHA256    : yFr3rgX2QyGAb7EBVfPBG0H4TGiU/mhC | Q+/DCNkS6SEh20he+2G0jiJGEHu1pGCk
+             woX5PCyzqBw=                     | OKZd8A0QIzU=
+ SHA512    : 2tq+sjUW/q5ZW+nbFjqObyHckmcs2HCl | JkS6Eud7Zl3rV9FxqqwQItMFXbwAQ8ix
+             pCF8Y+A1e5GvKJ1/CVtApUuImJ2SBjIE | defyeNmINmaqUkKpi7OX+9jBGvqnM2Qv
+             GhCMgswpJYwp2182KCzYWg==         | zNuzudC64wzhRe72JpIz/w==
+ RMD160    : bqXjK5+0BO1OkS/WXo0wi6YLYPo=     | 6xFUu2OGM4DYrvnQ9Jes0EjhNQw=
+ TIGER     : mhdxSQg2Q5vWZ26lkZZgnyImzmTr3bs8 | MRQjxNQ269jxupEQ3Ms/549V0623HM77
+ CRC32     : G7i/Fw==                         | Gtjj8A==
+ CRC32B    : fDSY0A==                         | DMWoDg==
+ HAVAL     : XT8TrKkjFIkbUM48xy6auc/yiy66Pf3Y | lS+VtaY3JqG44p/O9CCai19GK76+pTz4
+             O6MzBukkrA8=                     | t2Kd2eLvZNA=
+ WHIRLPOOL : 6LI5sDqFnaUX2qyMc6EtUQ5T+cz4WvuZ | 36OTtO0WY07GES79W+I4LdQfrb5fhRfx
+             XaQO//wa6vs5QftMFR6tj9Cthu5caZnK | uo/bPD4a+AU/aNRoBhdOaOrtjFW1cs1o
+             CLCV9qidPr8OggNlMdvhhA==         | Voo98cCAl9tVz6YQlGUnxw==
+ GOST      : 7JIOz1TBCA5kP+k1Xc/Zv+FdscrXrPb5 | aYIXlkTi87bOtMTl9nBGt5YwFDvD24jc
+             VGcFyYacwUY=                     | IKWIayrqbjs=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/810c766112b19b18_0
+ Size      : 2832                             | 2831
+ Mtime     : 2025-12-09 13:52:20 +0530        | 2025-12-09 14:46:11 +0530
+ Ctime     : 2025-12-09 13:52:20 +0530        | 2025-12-09 14:46:11 +0530
+ Inode     : 787235                           | 791182
+ MD5       : QyHLRS9mkfpOjpZqiYhV3w==         | hATbPlFI34AsZy8Rb7qKQQ==
+ SHA1      : cVoZIUhntGAAMwEdD2XIK9xqcwI=     | GsrWWp0Y1ZdinwHUQXXfoR1YKvw=
+ SHA256    : gH494g9DiGXFXZi8bq1xpE2QRx7QKTCd | tllTpzrYQxVNrj26FH5eB7bc2iZwkQo1
+             uEENDJXba+g=                     | uZeW1jhmCzM=
+ SHA512    : XvQrweBt3JB5Jqy1PLp+qhakS62oWdPH | ZGb5HClRMUAw5M35Ym7kZqaClJVriAe+
+             ZeY+PdTq0V5uAiYppB2RJrYeBn6ZW0WC | c9P/DicvUmldHNecsTRTBOaAyEVQkG5F
+             1ttDt3PTfLZVwK/VCthPNg==         | p4mBMrRYtJwPQ71JpDPBKA==
+ RMD160    : qmwITPzjZ2VxlZsYk8U0Vvn0O98=     | IDCxsxTwqU9MVqDy8KvLK47W1Z8=
+ TIGER     : GAhVKKmBT4mL4hH+tg27iyO0+dRhrD4g | ZUaNjHcIRczIH/ZJqbyUeTXF2FnuvWIG
+ CRC32     : f6QvzA==                         | rEPuzQ==
+ CRC32B    : Kh1RAw==                         | szVZGA==
+ HAVAL     : 3ElncXQLmt3ZM4OEbtzRTN8PnPh2EsR2 | GlbrxM/BFQTF6pqXuEPGhfexzbOyf2yD
+             5KVn+jh2tuM=                     | qQR6K88xkhM=
+ WHIRLPOOL : KwzYyB7T3Vb4whC7+PVa9w9iuqUpgZih | 4uauhjZEGyJkY4wAatvQ64UAeBc7vPJa
+             b5jAvxilNJ9fV5a58pqxwYKGBfYsC4b7 | KGMpWFQsuzjskQ2wjD3eSCAemn8tyaXb
+             zRrGAJbqmzPKjN/4IAfsLw==         | ROYd2R8C2f4tOFeN98ekAg==
+ GOST      : LZZlxMF2kkX5vKMzuB80GL9ZppZqaUTX | kMNzXpoM3J5wiNgRSo5oRUKaBcfirZZQ
+             lm71oMHoG9A=                     | x3McE0clt6c=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/863a176d5e51a813_0
+ Mtime     : 2025-12-09 13:52:20 +0530        | 2025-12-09 14:46:11 +0530
+ Ctime     : 2025-12-09 13:52:20 +0530        | 2025-12-09 14:46:11 +0530
+ MD5       : TRmm6H8A6ibnvcBLtilqNw==         | OBXqQP6CWgiDiOgQUwtdbw==
+ SHA1      : IqPI+BMhLLq7aI/wEd5YWzJJKVU=     | c1+O+v+fReBP21KBUNIuakx4rNU=
+ SHA256    : Hv+x/bYQ2RmUgYKjKZAZ9kalK1N66TSk | oxO0v91DLo5GCiN9i7qeAPDOHQ//mFhy
+             dzOWz845HwQ=                     | qQ7zCc0ZJh4=
+ SHA512    : HjNq3HTlw/8GPgEs2UHUWWE0uyol09NM | cnRsapNahkVMgy7g4MQ8+LV0kBGrQAYl
+             u/f4ex1g0ttNbl79TrRaC54bP5Z2ZOeG | xQNoy3l/8seijHVkXK63qtN8MYtBiNR3
+             KGTHs0JDeHhf8JP5PDqQFw==         | GJbhqjMBTSMfWXZVM2HmYQ==
+ RMD160    : CUKTXZjMQcIu+Zawj2L7GermIS8=     | gFTVGubkQvFVCUjXP1JvXCiKUqI=
+ TIGER     : l2S8q6dWia9NjR2y7hgVSrYR/Wkw9DlN | gQ5+YYsV5OpPGsNVZmPUEhSB/Z+SKBt/
+ CRC32     : mWsiEg==                         | 4OLFjg==
+ CRC32B    : 2DlWjA==                         | iDbzLA==
+ HAVAL     : 7O078/iCtEyFk7skeROocm+fNcyQsaiX | zx5K7+dLZPeiPXFZ6oRt+cE3x0XnGZN3
+             4ut+Z2/8T44=                     | L1jDz02uQYI=
+ WHIRLPOOL : gkYpZvkeylBIndqK1IUigvIrQGnJu1QQ | PPtYo5sjChaCCYMLAn2G/lDsL/JbgU+L
+             DdmtAmmH0Cnw0GSdWv0zOdZihuqoCHDQ | uSVh33wt6ZABFC1bBoCB1h7MNPyY/aLl
+             S6lrcRPt4l5YojmFJCJI1w==         | ja31EbW6wrzUuW5ktl9tOA==
+ GOST      : WSgz4fHT1rchnNUQamh2BIMiZdXH29Od | ozXnMmxth2NbrlhhumAdkoZqvoGueBCF
+             nX0KB782xt4=                     | 1HRBQ7iwkEI=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/89257faf5f366431_0
+ Size      : 2762                             | 2766
+ Mtime     : 2025-12-09 13:52:19 +0530        | 2025-12-09 14:46:10 +0530
+ Ctime     : 2025-12-09 13:52:19 +0530        | 2025-12-09 14:46:10 +0530
+ Inode     : 791165                           | 790690
+ MD5       : Q3X52dzvDGEZLLOJoKS4hQ==         | CcoHUwDd6u4a1bmBG+R1hw==
+ SHA1      : YlWycwuDxL1yuKs7nZUpy+d4X00=     | XE08heF3t/wNVXPcMTthelVlrKs=
+ SHA256    : CXfr957shc7/zVnEZbmirWM5rNiMGZdk | ShShMi49CiNS2QcHCUAOChhWbl6ddEQd
+             dKnRZgpEAJA=                     | fXyyQ/3LAL4=
+ SHA512    : abvnJWlv8nqrW4z/jBzhu3+nnSKwHe3Z | 8TKlDFQC0KQrJWl6duZCqfFF0EghVQxi
+             tYsJQyXI3ayoSNNCiX5VFSQtWVrfCgQH | 2SDdHOlA1gjqynQbLV+f7m3a6XHl4Yry
+             3mld8IYBzujE3jAOwJaDGA==         | ShOd1qqhfHPL28y4r35+1g==
+ RMD160    : mRXB3c2udlx2y+/dyYLjEUHfsrw=     | anmhHy+YOj6XAuBj9OAKWuxZK70=
+ TIGER     : r8gULpTGhLEP0ZZ8dGV/l/A3zni6MYpO | TaD4FuXnp5/LkPT0HzQqWcuJwCPaj9aV
+ CRC32     : Fw6WbQ==                         | 04q4hw==
+ CRC32B    : PxnH5w==                         | JxaFGQ==
+ HAVAL     : 9uKt0bnqebvCxRe3FPdl/gUDAWnwEDsB | PYQx9+6VTx5LDKNqBm5a4VVchl/BqL+0
+             CtRp35juig0=                     | n9WVhe62uQA=
+ WHIRLPOOL : FYvo/m/IuDC0ek/54Q9NuOoeq9/C904G | ARGwL02asxzpsrtPSKKpT4ZGyZtm5qvm
+             L/2hxrVzaaIIruCtmYGGtOqiz26S2tbF | y4uR3hqMnsaOTHfnJat7gESIxdIDXbrc
+             V0FzJU4yqFYlH5eM7ssiUg==         | km0Tpj7903fSOtqhrpr2Vg==
+ GOST      : 6RwswGvflVuvXe+yP/xuoyN7/MLLKB8v | fgJknq4xSJcYCYGQikZzGhUwwK/Ol4qx
+             HtumX+M9lsA=                     | TmodIRYlYr4=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/897de12d7e60de7e_0
+ Size      : 2764                             | 2768
+ Mtime     : 2025-12-09 13:52:19 +0530        | 2025-12-09 14:46:11 +0530
+ Ctime     : 2025-12-09 13:52:19 +0530        | 2025-12-09 14:46:11 +0530
+ Inode     : 791245                           | 791169
+ MD5       : 64FwnP7C/1SaRMm0kECydg==         | DH2Et5Io6oB5fI1SyVsv/A==
+ SHA1      : tlxnJZcUnbGgeygHHZkidklEYZY=     | tWNjUA6TSBJb8T7LcdaS79tGS7g=
+ SHA256    : d90WlOsluMvfOiVunpdf7X9Hd2VXqaw7 | KW8UseXJMg+yVkXZkrhTfMxw0UMmM5sl
+             hT1HTDBUvxU=                     | J9zVGBOogOA=
+ SHA512    : gzIjj9YuCIRrLCx6t4mrX4bsHtOJztrv | t+R8da+nsaKXRYDXhW++MtrBwxyP175l
+             hUlyZkz0yEtgZzdzeeD0huS0BLwm7ZLc | oJ1jsZa8364LRFwrXEWrAIOxrxYl3b/3
+             Air3nIbEaScIifk/ODUVcQ==         | WlxhTqR/vowFt9Q68I1CLw==
+ RMD160    : BGbpjXO7b7ybmVqI5eu2kGlwr6k=     | EF260mUZpxGip/ni8SrHZE6+HkA=
+ TIGER     : OUgSfeeVBGYVfLoLDrGZmHmsk3z4Tdwo | o40p02bDH001yscqQcyGooF3e3/afUxM
+ CRC32     : LGgeWA==                         | w5IJDw==
+ CRC32B    : M5RUsQ==                         | Uwi26Q==
+ HAVAL     : sH8DxlH3Y87Xs/JQAQ2IyAkqdPlWU2px | Rs/wB8y6lQ1blzjEljJE48y+9VWRISEF
+             4Q+r/RMDouk=                     | QwIlgdL5bbc=
+ WHIRLPOOL : e/roibg4B9TZE5vAIOCyWU1TcRTR0FKn | 1EUtAafjidFQy5G6RIUxPGkLkedLgRUY
+             x8MivhKot58KeiYnDWDyHUx8zmJql5Ht | v6oDji8ia9QqEJKyv/B1ErLOAs/2Wdtc
+             DT1kQyrgRlDi2UPYZJIJxg==         | x93aBzX4RMDc8uz2Qv0Wow==
+ GOST      : QAXgjVPyQR4lLTfvVRm1KJuMesbSm7nj | pRyoQmhtwIAjCMlF3M5uID2MjGOSBqXe
+             N3tWE9ig7d8=                     | whdhfAn6D98=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/8c9615f75ff91c11_0
+ Size      : 2718                             | 2722
+ Mtime     : 2025-12-09 13:52:20 +0530        | 2025-12-09 14:46:12 +0530
+ Ctime     : 2025-12-09 13:52:20 +0530        | 2025-12-09 14:46:12 +0530
+ Inode     : 791180                           | 787235
+ MD5       : IZ+frUJvj5OaW6hRnZaKrA==         | lOQBR9iHX2B4doHP7ZcB8Q==
+ SHA1      : lVsQ8VJiARktIky3r6hzuWfvH3s=     | OKBw6sKpChx/HonU0Wb3R4SqpfA=
+ SHA256    : KjDdIact5l6//70bUzbNxKVgfiIhle67 | WI5WCoGn6Bo9OyvXGoXTHawmSKB30F7p
+             besNa+vFrrY=                     | 4k25GdO9U0o=
+ SHA512    : xO79U/54xrb4tIXUp/m2vY2RlIDDG90T | XW0JAgxctli9ky7X4Ebk2+xPB7z3oLZg
+             62Bsgx8IPA2tqusHS2EKhxAMlVx2mOYJ | Yp8AqxaYdH+JYxCUQrVmENQcRIY0yXzw
+             /neICOacNr5T96okvVTL/Q==         | B58L/TbyHVtBiXUlxpIcZg==
+ RMD160    : 5iEyLU/J9DsqUOEgkwcf8TuRIS8=     | mnmGwg1xv9clPCP19Vg0BitTJXk=
+ TIGER     : mIr4AxpAxWdgwDJrTR2in8pEGAoNFkLJ | d3rzDDvOz95ew+nhiMrpsSPcPkRXfI5s
+ CRC32     : w7K0NA==                         | CdfD+w==
+ CRC32B    : AFcpfw==                         | 1Ntb6Q==
+ HAVAL     : G5QQdM3XGRiz0853T6Vl9BYc27MiqcKH | g6wByMUuYhPtVYGR+5G+IIC/wjldVR9g
+             eqQv84V/DTE=                     | el7NSYRiOdU=
+ WHIRLPOOL : YAR52oGVgFcGELq0lpv3FszSKRuO5thh | 2yYFoGQbupB0a5HcI+/UjRAnMfWSeVj2
+             bPwhTuQjPyGTCGCdg6jlK+J9kUQ6N4cB | brkz5F3zGu80Q5RAvOH2VTMyzK/RfRsY
+             R1Pm/WwGqu8Mk+PoVWgO9g==         | ywh9eDELn5VmoAEz/Baraw==
+ GOST      : gA5TVftHdu7sJQXzttbiV7oxQAhVBHhk | 271w5QYw6lwu8j2sQD+5CRUQoUrGbyiI
+             UjF8CUUmn5k=                     | ePfJesaxrwc=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/9263283480e05edc_0
+ Size      : 68654                            | 68254
+ Mtime     : 2025-12-09 13:51:48 +0530        | 2025-12-09 14:46:08 +0530
+ Ctime     : 2025-12-09 13:51:48 +0530        | 2025-12-09 14:46:08 +0530
+ MD5       : 4RKL8lGWZAf42hXl9ebT5A==         | SZ/6WiI7Y/VmuHlLY8AejQ==
+ SHA1      : Xw9eeHmyirfqgguSIisuLlCoHwA=     | v1ua6LTPWzKhbx9wm/VQOfZ/7s0=
+ SHA256    : qCJ2Swn06o68UwJ8tCMzeSjw4MMEZ0yn | n14pLdqmtUN8TXI3q8sYSwHStR/iSpRn
+             lPZqZGNhguw=                     | 7g28NYms+AA=
+ SHA512    : tmYqDcqiDRonH5AXdmdXlbkFm2jeKR4w | SpqKvtPsuUkiNlyUxqMmiXVVTIqWBP13
+             9dWZGoZN8PkD1bIrQ9bkzwywtzvG0hDJ | HXhn1H2ntok+Hxm0TMhYqWUEbn2IgH0G
+             y8vGY2vMPIRzIQNsVRY+Iw==         | CuAZ+5K2N2FcqsPT7bGAoQ==
+ RMD160    : UIYcgVt9nZs75MJUFOYVubeLFQc=     | sy+lFGs6S5w5h1au/c/fmhY2BtA=
+ TIGER     : yiAQ6PbFTqwOKod2kvSoII24jnTH5QUB | CWdIMCzKAieVHpFIsaff10fx7qrGg1bF
+ CRC32     : oo8xoA==                         | 6ENT1A==
+ CRC32B    : 8ZRpBA==                         | p60bOw==
+ HAVAL     : KzrgM0gHD4ClGegFzUQPNuIl3uBK/IRs | /LkCQkIdR/UwO+PkGzlYHogLXX4tUj6t
+             OI3TPieGSAM=                     | RFzLmGRJwsc=
+ WHIRLPOOL : bTOrCBsKh2+6bA+F+vG3soxwc6uoL+Sz | TOefxI4bsKlhPG4Ce7gBD0PNFNqwurs2
+             1Q7jHya/Xm25h+L6m57HqGgK/kr3PGFf | 8Vr+/k+106mcVh9Y4WaGQw6PTRWUbNu/
+             ZWK1jQ9VP3/jgveGRmGI4A==         | l77X32LIIi7q+ZtSsxROpA==
+ GOST      : reQGTtWG8AmHyIhGahCF2kgMeYKxx2b9 | uaIgQYxqnmzz2ZS0ikcYaz4AWHnix9rv
+             Y055zZvl6Z4=                     | oEQcVqNbHi8=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/92c77edad00a84ba_0
+ Size      : 36379                            | 36420
+ Mtime     : 2025-12-09 13:52:19 +0530        | 2025-12-09 14:46:11 +0530
+ Ctime     : 2025-12-09 13:52:19 +0530        | 2025-12-09 14:46:11 +0530
+ Inode     : 791160                           | 790707
+ MD5       : UtvnEAuzd2Pe/cuA90FxCw==         | cE8BFtxVOCp9IjHP4DRLKg==
+ SHA1      : QzZ+zNV9e1dHLVcbfVntLhSm8Jg=     | i5P+QX+L97EGXm7GsUkFQVtNBQc=
+ SHA256    : VY8ggVpXG2kZ4AgUkno0E7lTFFhqTO7Z | rUNDydDa7n3Ojl9rM2VkjqW3Ra+zgX8B
+             NN86rEwNeqk=                     | 0m1AIj1LXRI=
+ SHA512    : /I/vY2YV/ZW2tmRxjeyDqjb824zL/YVS | z9l8lxMQYYaQ47Xi05zYMl8NC/KBLcJc
+             NLdXWYPG0HelzWHmYPcqBiKu6jhwzmZM | 7MNl7IoHwGN1AbHfL7d7+7FMZ63gjj7k
+             +NYCeVDktCVLKw4vyygIlA==         | m92rALEZvvBFwU2EyqxBCA==
+ RMD160    : U/OJUZnk6+NHrzRG+vgfDFAJf0Q=     | irZi8Gv/s2fcW0/3Gtb0iiOkNRc=
+ TIGER     : KfGv+QTY+0ZzOmznyXUEkXIIQfQ08JCX | BRaOWoEmqEnY3nR5Cdr4BuCmLncMdzth
+ CRC32     : aEFO4w==                         | TtLI4A==
+ CRC32B    : 08Dj4A==                         | Can9iQ==
+ HAVAL     : WwGLiEcfT5YHz2jGp1hWUokqY7LQavUS | EVz9JikJrqav/CieRzYBQ4iSLdCgLeCN
+             uBfIsGnlEaQ=                     | lCH3z4MESQs=
+ WHIRLPOOL : 2vqSYt/H+m6xfEtwYyAh8b/T2Dk3+f/P | XV1L6d84vb5m370Jyru37eO4dewFOKtG
+             h4hfw9621VpVeiDrSjZywtrNKJrhEELU | VyFp/0K54aACr+M41CgUxmDE5N7CYf1u
+             crPEpAUflCxqKhHs77PrXQ==         | 5t2DKJoK9E0wbXdXRwoswQ==
+ GOST      : eR+mXVVIyH/u8PiUdBqITQzTfWbUSqzN | SJsKvJU0DFRqF4aAl0pY7WAbkj8A/tK/
+             GISCjDuSRTs=                     | 2vQ0RY3hzio=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/954ac8164cca2468_0
+ Mtime     : 2025-12-09 13:35:54 +0530        | 2025-12-09 14:35:55 +0530
+ Ctime     : 2025-12-09 13:35:54 +0530        | 2025-12-09 14:35:55 +0530
+ MD5       : 5ccfHt1wKJJJhe5ZJjzZaA==         | sdYVNV4jOElfAw0r+yCa3Q==
+ SHA1      : wcyQQrlm5OgGNYSGgP4U+h5EVe8=     | /0nOykeM5zu42r42K+cKxTEztlc=
+ SHA256    : 9H57cEKJQAB7Io+o6Nd3A4FVz3BW1Zrz | 2WaW6W2Lp0w9RV6aFKx+liA6cWiMspjv
+             gnsrmcRynyk=                     | t0++JkYCBog=
+ SHA512    : 25qsFqDZW6DYcHn/0MGC5OBOilztP9dN | WUf9rfaSPp5C+uf4MVhfFl+sgeCyG//h
+             VI6csdtvIpx8TYRqstG26++xu1wTXS2M | ePmmAZRu4zkTs+IkyFPsEdJ6DwWQoSHT
+             nkOMb6tdIBm+f8C3MeTehA==         | m8nOFV8J2WUkH8ZZq5FV9g==
+ RMD160    : ZiDJZ+EF8hH1dvJw1oc8ENoFg3g=     | vRxsNr1ooxrQ8p4sOAJI7hisBAM=
+ TIGER     : Gsp1bu+/YicnrZyOF6dH7kIHbTguOGdF | 5qRf+fUaIyMpdebXyAYf7HG2tpqtEILP
+ CRC32     : 3aoFjg==                         | iA5Cow==
+ CRC32B    : S8FteA==                         | LONwTg==
+ HAVAL     : dGEbpY8Sd3HK141eyaEvK88JRjI/1MDJ | MIN6xDfuydlTUdazeClV9KakAjchoZzw
+             W99/+fHI1zM=                     | 6XKrFwm3QYQ=
+ WHIRLPOOL : nG49JNtsxvVayZ9t9asJvHLUBJapjNle | LtUTyqbMQGUZEE/96f50vX3QVX5h5sqD
+             3OqtewMbpEixmWkmHRuzKW8/UJm49yBW | mRXjN2FMqXh66iu5/rwbUPjMCRRxlyCU
+             pxOEHzTCGu2rEmWrmPANZA==         | 0ALKsMfD776X30pUbk/vLw==
+ GOST      : RvdtgTswMS5ABc5Kt3gk+nbbbILT7Kgv | hMzIHYMVsslulIWrV0qDsBN1Fq+e3hNc
+             QTnCI0SHuOg=                     | AJEfheQtxEA=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/9bf545a2b1ad470f_0
+ Size      : 2759                             | 2752
+ Mtime     : 2025-12-09 13:52:19 +0530        | 2025-12-09 14:46:10 +0530
+ Ctime     : 2025-12-09 13:52:19 +0530        | 2025-12-09 14:46:10 +0530
+ MD5       : tETa2LuHEY1s/6XZIJ4ltA==         | HzJ95o0QkJkQu7x4F8ibEA==
+ SHA1      : /2KjGuuS9F3Lcfs+Vkfc3EV2BiY=     | bjrE5cXx9oMQRNikB9ymziSYVnM=
+ SHA256    : EeBEKG7jV/b51oYJV4DZkDWmCYojrUib | Gm1KgugjatGf5O6L5vtJEd5fqRlRgeND
+             4Chgm3Hx1wY=                     | Istk/enTeww=
+ SHA512    : w2iStVatAeP+DjEyS4ir0F8T9uI7+xVp | yaEffyqqNFcMri8lHg1qe9rNufF+cTu0
+             NtWMz0nHCSw4NlM+UCN8tojW6ofdL/qd | olL89AYy22b1T7J78/Ucusb5nxqZboZK
+             3F2KF9IWtELqYTYu9ywDHg==         | iDmWcmAa7VkImiuP8Hhe0Q==
+ RMD160    : Vf7N8Esg5YIYCWWzvpfujmAeagQ=     | vWrpLu4oRz9qKpv9390XMqLhrTM=
+ TIGER     : fiYktKbG6SgFV0qclDqXvDz4IbXfVbYz | BE1JS4G430U8V4oGmOqkqCwGtdvkScs3
+ CRC32     : AC+kPg==                         | x2pohQ==
+ CRC32B    : SKJXQw==                         | FnZQtQ==
+ HAVAL     : pl+nou9GS40gKQ3GQBJ3FUD1v4Sct5wm | fdyZ+bYcKNDW7qEEYqMxBrYPezezt5mM
+             x86Uj1PaRlU=                     | oM3JTHNDyKc=
+ WHIRLPOOL : 1f0CElai5hJpH1JQGLEpqE7W12/94vdt | X1FKBIsaYSFqkiARMb8OWHg3CAuJ2GgX
+             U221iTQopOxS+NKdorXA14KRg/bcsj2I | OnAzlEQfeAZ9bnW7gwQwscitdJ6dW9D9
+             yah0cp/wBG030ZM0cmawLw==         | EJmrn8WM7NG1Zz/4+8HyMg==
+ GOST      : VmEMN+cuxNP+EQ0pIIbNzqpdFFZxdPa0 | Ge1OKoSeYB1finQUiZ4sA1dmx1JFst8v
+             wH/4cR+9U/A=                     | GP/9nWzbiCg=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/9f5ee800e23a9fd8_0
+ Mtime     : 2025-12-09 13:52:26 +0530        | 2025-12-09 14:46:18 +0530
+ Ctime     : 2025-12-09 13:52:26 +0530        | 2025-12-09 14:46:18 +0530
+ MD5       : KaMBJutAPjWcJvDlOmd+rg==         | 9IG3Uo07dM9C4DWjKC8wkQ==
+ SHA1      : cLUoRkaXDm0eM3z34Mu79UV4tPU=     | FaFcvL7Oez75P5Ap6W0xxv6gYrg=
+ SHA256    : JW45VYW1AJpRN0ma9Yc9QYc+5st5yOdv | GTVFFGRKgUCy0YBt7JWy87oUOvpg9YnT
+             psd2KosBfGo=                     | eyYld7LkEd8=
+ SHA512    : 7L7HqwokcgmVOmP0yzR6kPGD7yvTRx2R | uHy3tH/otLnzkFsRBhbOIiOt7wMDtrAO
+             8dshzat8tfZOed41I6m7pkOyHANGBPYP | Q8rHGIm77w+8tOM2eT3qhJm0Tu4UwZmC
+             ioH///yJOklDsuwfWalzXA==         | yyKCk3sA3OFTarueBRm8FA==
+ RMD160    : 3SQL8bmJAYPRCbVc8BjPBx7kee0=     | VznI0GAx+KmEiA08aopn+Zf/1iE=
+ TIGER     : MYKVfJdqS/Thm6Glfeg4OwsfeM8OKve7 | s41JElPwPMSViDNEBx9lDOkdFIjIkIxD
+ CRC32     : tJtO3g==                         | dLCdbA==
+ CRC32B    : 8ZhoDg==                         | QsSuwg==
+ HAVAL     : P4sx39KPgnsCyzzXg8A5FDhdJQUzpC/t | Wg+62J0xWOC0stYIs0by/U5X+3XNh4Wd
+             dQ0rhEoF85w=                     | DmJKYCvBTvA=
+ WHIRLPOOL : 5vX0Uzu4P6xcm8jIkFiuv5SoCiUw+T1A | +UTyfHy3BvP8AHpI4oRfFiE4dPu5eRGk
+             vFMZZCC5nbVAdfjq50EuyHokwrVUFsFS | CDm328a9qqhHgV2ZfreCXE98pziIfHJ4
+             AMAMsQDcBSPa/c25Qms4Ug==         | hxBj0yVxZ0cNJSKcPiQoWA==
+ GOST      : 8SgXZ+ihfUAx0fLB+drjN81W14iSMbEF | e6O6P4dt8hySErhKqoFVG1C43+deVI9/
+             ByS5xUdTfek=                     | 0MDOJ70jk1M=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/b072158bbbae9947_0
+ Size      : 2766                             | 2770
+ Mtime     : 2025-12-09 13:52:20 +0530        | 2025-12-09 14:46:11 +0530
+ Ctime     : 2025-12-09 13:52:20 +0530        | 2025-12-09 14:46:11 +0530
+ MD5       : SXsid12R59oTOH9Ew+ezYQ==         | 5Zgf+Zb79I2zpY+P3yUFmA==
+ SHA1      : pDR7tWlb3sI7Df4kidri5OKxKYI=     | XwVpDGGgW38dEq/UVXq6NE5Iajs=
+ SHA256    : NZMDMn08pHdAv+QVybEmz+VFI/vJoD1Z | 33Vj45nBy0Z88IvnDNRhJZS/j8BSzg62
+             8M3D439agx0=                     | smaNotRbusc=
+ SHA512    : rLfmqIMJpPsM4GcMk/C7YR5jwZvOgcFs | 5OiWM9wHKdIilq422bBlsEur1Dw444e7
+             AvaxDq/y8kB9xddISXLe1nMPEE3oA+yF | TgCLMlxZJcTQJXEUR/45w6tw3c/U7Y+C
+             z/atmRESEAOMbyQjY8yl+w==         | CqZq7FPE/yUne75dNW637A==
+ RMD160    : Gga9Mw7pPjxgZMTdnJYhom6bLGs=     | Vsdyo/X/uMfcJlU9EdHQnnd9JJ0=
+ TIGER     : 7frfwUFEUs0GOZHM6c/UDfLYrzJSUiSS | RtUQtVIN1I61Ejbto4MFpuZkYe9yXMhK
+ CRC32     : YJ3cpw==                         | 22WRsA==
+ CRC32B    : 45GS8Q==                         | CQk9oA==
+ HAVAL     : 7+96T/DEn7GIHcjYyqwiOymJSICfcYZX | J9zef8q+higjWpIevvKGBUrVKNKzclg4
+             XiUd7fROyMI=                     | E+aF8T4bucY=
+ WHIRLPOOL : OrHiydEWxPkeLob6osGI1rUO1RzuJ73m | 5oLYU4aoMk8caVdyQTCnCO8iM2HKogJe
+             3hOf9xytP55NvO1ewsgfnJFFe8o70Y5P | YlIAZO7n4FnIeE4HudHggdfuZAauwDdO
+             W//iOxTTmVudVD5+IZSoEQ==         | zv8rOMpOJKli8/gHJoblRw==
+ GOST      : E3g98Ye/MwCqoXASueRCGNPpmTVfWvQH | gmts4d2R5+uO9WRosjERwYQpW2Mw/UaQ
+             WeCVxwBA3nU=                     | Dc6/vPqIuuk=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/b5adb54831f5f3c0_0
+ Size      : 3002                             | 3010
+ Mtime     : 2025-12-09 13:52:27 +0530        | 2025-12-09 14:46:18 +0530
+ Ctime     : 2025-12-09 13:52:27 +0530        | 2025-12-09 14:46:18 +0530
+ Inode     : 794304                           | 791093
+ MD5       : 7WDV/LyERRNGk1LZoDZ77A==         | PRE0xWGEe2FlQY8xIt4p5Q==
+ SHA1      : wTBxcYPw1yOmj1U608r60bQZNcQ=     | 8I5VAIyt4dAXHGG47N7U23eIBao=
+ SHA256    : mPGIoXvQjUrSWv8MRcv6Q9fhc1J8moX5 | 2U6i8mPNYY5/daDclNpGXTaysABkE1Ug
+             Ab2giWs8iDI=                     | nyCs1kNvhSM=
+ SHA512    : cRW/I3YYlUd6gCBrzTzAZJ/Ar8NNUhBr | gfkx/UBVG2r8bhX/RNyclS7LQKKWfWCz
+             ihjm9ZC+TQh+vRPUXCECmjAOmviP7pS7 | 0TClTv/TrJA0uT9JhJyYX/TW2Rh/h7O4
+             WKP9nWYZTqxchM571A+JvQ==         | mty8aTQVKEiBXgItmUf2Og==
+ RMD160    : TSrvdq9RDS/y1h/ljUhLVXVOr74=     | KmlWKgdj/vpUqObK9Omw37CIjM8=
+ TIGER     : fWZTIzZ93kXvNcGN8ClHzoa/LLUrkFcZ | Wo9//n4n0c7TMNBgLYBXlbFtmS/Hnc/G
+ CRC32     : 9T1C7A==                         | zo0hcA==
+ CRC32B    : Sem9xg==                         | wvGg+Q==
+ HAVAL     : jBbvDG5mUr5FWDsexVkWS1o1WXh6QkQd | d7Ka+se50i2FCFUxIeTRWUEvYbSOTUo2
+             kONQ4hFNAkk=                     | Z9vPANgJ3Kc=
+ WHIRLPOOL : ZobfCcGX0uBUHt4I/7L0Tnufz7smKnvf | BCyvzwykmvMMUJGRPUVnoy+rcHKIQt4S
+             kWfYyObkm2DPap1tBdV/KKR8PGTBboL3 | 5Bhc8pcnGh8O7Bzc3+xrDYysH/WqsNT2
+             SQDGK1SdyfOED3em1xVbZA==         | 1oAnRX09KES3i3qDRzJyTw==
+ GOST      : frKe9LdMILq2Tw+w6R8D3531ZkVJWzur | Avde+7Bx99mpVvIPi9dtk8gaLhxWq1P+
+             IZJFjjk+aG4=                     | SWfMN4ls6i8=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/b990095f78263cbe_0
+ Size      : 3004                             | 3006
+ Mtime     : 2025-12-09 13:52:26 +0530        | 2025-12-09 14:46:18 +0530
+ Ctime     : 2025-12-09 13:52:26 +0530        | 2025-12-09 14:46:18 +0530
+ Inode     : 791247                           | 795229
+ MD5       : vmxZk7t+z58p1COFSSRlXw==         | NIbesWjLWlkEqm0qd1BqNw==
+ SHA1      : 6SlIqsqaheDQtSh8jpA6b9KYT6Q=     | sI4Qc9xDm5tanRhTkn5dfa5k+ME=
+ SHA256    : bDnfxxAlfb7Iubcaraa4hQBYcqZCNRYR | jt3DLhJ5xPvzg97oZie6RRnbTs9DFlFi
+             sBhsrpXLTgc=                     | kSSQ1Xd0oBs=
+ SHA512    : TYQOPOfOdAfBNbCgo13yGiOnUBWVt84h | FgWx1eThUWYaJ7jht0FEPTCF+VM4AhE8
+             YQVLewZ0yL0R47iEleC5XKsq1pC+SlDL | ZL1vFU7yiWrtg75rF1YfbYetFiylI5X2
+             iI7wEQ+peO8AvoEMc6jHvQ==         | 7s8scDWWZnoU2akegmd/Ow==
+ RMD160    : Nw/BYPKBtCVp/XBk7Rbb8581994=     | iE3KfTkWxrGvCfPzyFUuCIQ2aUI=
+ TIGER     : t+WBbAtndZs6TOXxJpdChTC7Uweon2e2 | Ozqr2GAc01DaCI2teQtzYl+h1J5xTxoe
+ CRC32     : XojYfQ==                         | Y9J1Jg==
+ CRC32B    : IuM4DQ==                         | 9XeMUw==
+ HAVAL     : XQ9lT/Ca7uDMD2zKSFuoVgTLvI5UP8II | SGdgJIUWeUEcO6fvsU66z2kSTKpcoLn0
+             SEG9GZUeevo=                     | X+1vW0+BroQ=
+ WHIRLPOOL : ioCJEUICsSNAjWiPyPvdf6TPQtX90PuI | aUJX6btQ7cmWHv2Kr9XSvGDddZN7JZAG
+             bZxALLGHIhYPfLv9eW04IZYwX6KLTdLo | r8yR4zeJfXSPx0VUs4zmWdl/XUS86lpn
+             sm4ic+PotcZ1DwA5ukHeNw==         | DyNGnrvoFyyyt3ajlwWxcA==
+ GOST      : ehTyIENTAJutXVhV8G/s11J2wAdriyMa | 5FXvqfUPIqkMbJWRC7MkpVylpBoxjPWY
+             7+SEcfjlfJY=                     | ToktpLNZ+sw=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/b99e1e7ca8826d2e_0
+ Size      : 5856                             | 5834
+ Mtime     : 2025-12-09 13:52:21 +0530        | 2025-12-09 14:46:12 +0530
+ Ctime     : 2025-12-09 13:52:21 +0530        | 2025-12-09 14:46:12 +0530
+ Inode     : 791181                           | 791160
+ MD5       : UGm6EcwB8N2sQ7JIkzZNKQ==         | 5U3PFjiJzu3Dj4VFUKR6Nw==
+ SHA1      : J+gH7EosH2WEBKA2hwwdzcdIl0w=     | H2f6fn/RuhCTlEqXm7B7Tf5LJVg=
+ SHA256    : P8Fsg9PcSzTBG7C2+A7AU0c+D1fdbL94 | kJguQhtRxp7a4C83wyeQXiVcFb3vW6mZ
+             b/mdkA1nNr8=                     | 19gNH3xrvYE=
+ SHA512    : 25vP6RhoBG++vC5KOw/2SgX3i1CDT5Pk | FZXAskUyMglXFXyd53p9Cw2PanPHMyKU
+             rDf7JCKmcL5/LH0j7D7Nufp7B0dexsm3 | dxSIIoIkbpVMkXI9SaA7tcAzCT22JwhF
+             UrzEq+9fWg9fMJ9hjEbH7Q==         | Iud3ja/0OuIDQ2HZn22C3Q==
+ RMD160    : hn0wJRYy/FnCuIJLxNrcmVOrpDk=     | fBscluN6/YvAvYjVjnEKAqOaIOk=
+ TIGER     : Mfr0dVucDAzQREbIgd3RxYRswS3S6cHj | nLlTDTfWvcHFJZyzIAQkJXVGQaV14PLF
+ CRC32     : atsqcg==                         | TvViGw==
+ CRC32B    : oZ57NQ==                         | 6xco8w==
+ HAVAL     : upzCjA1SQefVg0iCTi8J+tWfPZ+Rda+5 | ptA/gr/oSVSef3UH5kSTwnTRhoAFDpDk
+             LaeVaYDYZwA=                     | A8HBTfMPvYM=
+ WHIRLPOOL : t+bshALy6fPkDiw+IyDCwUN02sIR3Pmw | oHVdincgtLa6eFlnrYIZgdEPrGvuPSay
+             12cr8ZtcNv6QQcc7VurLRfEp143+/2Pr | 2GCyixC3ED9S99Nqshft9TtLZy4/Wo3o
+             razqt07AV4Y/OenroKIPAg==         | MykiIOtPbQoUPKhtPY9qEg==
+ GOST      : cCZMa6b4VmykOdOpC/cTzYZqZgc90rgc | q5Z502N7uqtdHg1ycZf/vbasZA064nHz
+             5E0EFTHTisQ=                     | RykXD2zrK58=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/b9dd3968fb0edcad_0
+ Size      : 3029                             | 3024
+ Mtime     : 2025-12-09 13:52:20 +0530        | 2025-12-09 14:46:12 +0530
+ Ctime     : 2025-12-09 13:52:20 +0530        | 2025-12-09 14:46:12 +0530
+ MD5       : ehUvFI8cea81cCxN9GEeQw==         | MbMVgt7ZbdcY1P7AIOTyDA==
+ SHA1      : js29/QodAMXtu3If7ZpfZIMoKjQ=     | cCNRkrviiYBhOfXa9S8/BP6/kTw=
+ SHA256    : iIH3MzXJEpBmeE65aaGDuoOdAK90Z8aQ | T+SpAL8Xng1vYs6GSSpuxJSYgC7+mGaI
+             gjo3VJwEQU8=                     | z4P/B92u5ZE=
+ SHA512    : kRzAmJYY++SWJ9eTOPXPxK5F/QT1rezR | 2qeCJpDJNd9h6kaxS+SQ8iGCeIUtCcit
+             LH92iUTpiFf0xP2EPrzlJ+nZsj021Sfd | RaHg0mapgWIqUvAndGwLIzpZGMo1Y6Ba
+             92pd+fBdGLziDi9hRdI4uA==         | Hi6SeVNWDqBfqNvi0tFiyQ==
+ RMD160    : DzmQ2C0O/36/oVoj+Ws7C18SBN4=     | 0yN0noPyUjYgc1kB5BjYr4JmCLE=
+ TIGER     : fAsacAhSR19IepA3AF9itKROP6LxOuLc | rerw9NADUNQ5sp23BKo85swI1tfwALZV
+ CRC32     : WXWyLA==                         | IghtVQ==
+ CRC32B    : rME8rA==                         | 310ZtA==
+ HAVAL     : n3ajL7u8CHTe+6HjzQJKN1ci9tlH62GU | JO3Ruyq18ae7mvdwFGGL2z8430TtABND
+             ePB2yZmnzjQ=                     | hlHD9E9tQXI=
+ WHIRLPOOL : wpBtE2/LX5Qmph7jieyC6qZSwP9PO/f6 | skah4FfrgUYwmoQeZWaMWAGkcPGRah/y
+             a72kWPJ6i2GKOmaAEZYZ58Gm9v+7rWLu | qEis2vcDR/ab3PSkWAIfoyFL7EJcm0w8
+             mfWKnNXX27uwcopaYnJEXg==         | +04aOTzuFLHtjRxPYPting==
+ GOST      : Qf8QT/F7m6LygWf0rtQQy/p7lhnmgYpU | PPJl93LILeTvsgRbBuLp7yQTSBlqDCT8
+             AIa+xxnxGL0=                     | wz6IJLvXESs=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/bb1dc4f00c451275_0
+ Size      : 4104                             | 4102
+ Mtime     : 2025-12-09 13:52:22 +0530        | 2025-12-09 14:46:14 +0530
+ Ctime     : 2025-12-09 13:52:22 +0530        | 2025-12-09 14:46:14 +0530
+ MD5       : M5tEy4x2UIQa61BLpASV7w==         | DOUbii61MMc3SOqnKFOiOw==
+ SHA1      : JUixGyqORBAY12NI1fPmpn6b11c=     | i7O9UIiWPSbTm94gzb9GxvBvdmI=
+ SHA256    : rgXZCF80zdcV32vv+xmhhK82oaFIUG9l | tb0hKlf3ISGFyKnG+7fqO8i1p6R1oUFX
+             84Sng+WsdvY=                     | /I/7FAgkvf8=
+ SHA512    : 927r9iXPC/BhpUsz3Yu7Z3Yy1qMNfwLS | 2YbpgVhXNY5Mk+wolOh4J6f9quVf/XgR
+             m9JqDDfOYuxQd5YY9bhXL7IIGrDDfFBP | supX33Fe8UmsHMGhsL1pC0fhD6OOqt7q
+             GBG7CqHQMBkHn9uLUKICzg==         | RNjVoMxuY/O7/8TRVHCFZA==
+ RMD160    : LrGESlB2x5K2M4aPEUrsaulij2A=     | d4Gh0rN0K3i7F0msKYpoZMyMjrs=
+ TIGER     : 6qsgLyR30UHf2f7bKP3xK8JSBMC56lIj | VQ87zVjFZJJqOb83B0G3UDqPLba1jXW3
+ CRC32     : moIzGg==                         | rOn4FA==
+ CRC32B    : nGVdkA==                         | 6a/ScQ==
+ HAVAL     : QJk5/XoVAzKmVwthUOKWL6aCekzrxrHn | aTYMTBvE/KkiBmCX+cAy3y+W1j0Ascny
+             IrAvFk0mUpI=                     | 0lqxTXPOPA8=
+ WHIRLPOOL : 062r5bGUl+7wLn1oGw+aYfYVyliSQPq/ | 1cmfqSokkwp2Qp3s8UampEHBuQjInLb4
+             p+FKifi2a9n1rYNNlMJCUQy4q8EqvZY4 | ZXAFsuJZOzFdJvxPj4BtEcfBK/2iwS3M
+             43mG6W1Y0tNiBrmZ8ks3BQ==         | hmRN3BSlCL2OUGvInLnqMw==
+ GOST      : SlwCWAhdaYCaXUAabSC1lYUY3kZeY8sk | DX0A6ab17lHMpm9azNXW6w7w2BfxwaYj
+             I1+x708Rirs=                     | e1VxvCeT8FE=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/be40a1410f8d2498_0
+ Mtime     : 2025-12-09 13:52:20 +0530        | 2025-12-09 14:46:11 +0530
+ Ctime     : 2025-12-09 13:52:20 +0530        | 2025-12-09 14:46:11 +0530
+ MD5       : RcYjxJv4t0vi6uxwScTo5w==         | 7ekTgKZ/X3wB/7AYeG2bWQ==
+ SHA1      : hH9IvwKN0VlR6+h6/pQypep34MA=     | 3XrnfZuppT3Si+/wgPM6PEVEP9Y=
+ SHA256    : iCMzfgDIIzMKi0GaVvAv4ZtfFyjeWBbL | Yax11m5xE9Z0/2Pye2ezv5yK165EUcnX
+             ZvjhccDWs0s=                     | XYQdYLlKPiQ=
+ SHA512    : A2Pwnrr1MTFQj1LmJPl7eCW0hwdHSWLm | q9iXhg92KK4KMhjXcsloX/+XqrffRmDI
+             nZLJlA5Tpkr7x0bYmcCBe6N9OWldBMMz | xd3a7fam9YY2ndkepbcCrL5NaSyRFFJ3
+             ubEjJCWWde96Ir9FOpFjVw==         | Or0V3wCl/05ibK+E9IXHfQ==
+ RMD160    : BKutSWEOfWuzZD0KaChWFvVDyIk=     | GKxMyeQ2ZoUBhZLXYhbIOI3rNCU=
+ TIGER     : w4VFyrMlA6xGW8qAJJKuYufi6KkKGq54 | bv4gvD5F0dAgYzCEBMk2YLH7LhgOV7QN
+ CRC32     : U6C5kA==                         | Bd92zQ==
+ CRC32B    : Jezo7A==                         | 51edHw==
+ HAVAL     : cF0gugzIuQ6CIgpuhfBc/71EM7AizH53 | L7YxggE6MO1zIctKWaIMtOffmhZ9JJj5
+             WHzyUZ2IXcg=                     | 2zRtIDud1r8=
+ WHIRLPOOL : iw+AhcM+701j8XYSX3Hpl3SirbQG5fB/ | ebu0ymER41dZjy7MmAszz29zU9sPtvWR
+             oVU4t7nRB+SX+ODvO4Tvu7tgw6vuJK6w | Ka9M7fkRK9Cdf41MqrcZ7lFmIVxndTSS
+             CArFagH0nPC8R2Gu8QqqAQ==         | qZjaOJi9Tt9ea+ajIKj1wA==
+ GOST      : +63hfVDmo7ciESAcPXm5od9NnCusFu/Q | fUFvdTGMqAsIUW0GX7Pd41cRAL38yxuB
+             NuPWUDXEZmc=                     | SECMJzSAE0o=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/c5865fdcb0fe949e_0
+ Size      : 3006                             | 3007
+ Mtime     : 2025-12-09 13:52:26 +0530        | 2025-12-09 14:46:18 +0530
+ Ctime     : 2025-12-09 13:52:26 +0530        | 2025-12-09 14:46:18 +0530
+ Inode     : 790985                           | 790684
+ MD5       : bGmDepY9ZB/cm/BGZszQxQ==         | UcpvoGNnyFdYkWD6NpoMkw==
+ SHA1      : 81G7344G7DVwj7ACG4pCReX7Wpo=     | NrLrgAVW66Kszs64PenI4Y3Ipnw=
+ SHA256    : jXQo3aA3naIx6h9d+1K5HMgAM6IPVMic | YC87RtJdcXZQM410rhdGCWUrhGDChDT2
+             Mkd6EePTXrk=                     | bXc2D2E2wYw=
+ SHA512    : tcbq4Y34gOJX33EchWhsGhNQB5uw2qCf | N8+cHriMqWvV03YnDHmTW6TnvnpF8zMf
+             IvFOPofVk9EYStEayb9ndTa7A5mReSzX | fB6ynqsIdhyG6cKMgTNHpmeo0SI2+1Yu
+             8CR0UnRHkdbI+4tNF80MyA==         | dVATppbkt/hXGo7iiaQOXg==
+ RMD160    : C5L0WnusQXQOeY7YBZaBwSHj/Hg=     | /w/SrYchFmVzitPgreEf1ryUsmM=
+ TIGER     : 3leiMtYzHUizil6Xbns0PQeTLwxZRf6o | LjqHcplgOT1Wh+SLRWirSEicFktd2aPk
+ CRC32     : ae+RUg==                         | 3ACqRw==
+ CRC32B    : EacubA==                         | MNFyOQ==
+ HAVAL     : YP541Sfr7Ksb9LbKmddYqJcqwcHb0KdL | 2/NJ+neC77KNBEk8vPbLqBQn9tr4Lsh6
+             7DMI9MEN/Bc=                     | UiEeiEtBmIY=
+ WHIRLPOOL : wH6AN4LPgVXX0+odFcntOeG2941eJb4h | ofWTKpKc+pxd1pbuMsv8dFHDOeOoWcab
+             lbfcNH4VhnRum0vyBiA33U5gwGliwGjd | e6H5dHdd8SvFIqe/pFJVt3DLfTHTb7eL
+             z/eV4x/dMi+IyfLmM5rDEQ==         | HZTBFtRRuJdKFRrU1zCS1Q==
+ GOST      : bDRuNeTgxvVLHmgaMMNxNAGl8oildWh8 | UwsGo6Apf9R+ycSiSGksDsYSrEhyaEDH
+             YinrRuwejyg=                     | ctSWiw+Y0AQ=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/d1753dcd8a1e6035_0
+ Size      : 2736                             | 2744
+ Mtime     : 2025-12-09 13:52:23 +0530        | 2025-12-09 14:46:14 +0530
+ Ctime     : 2025-12-09 13:52:23 +0530        | 2025-12-09 14:46:14 +0530
+ MD5       : RAl5vphBSXZsmXcXXJt7IA==         | XKepl5GxWOpbj/avRKWn8A==
+ SHA1      : 2aTQ+AdTIrW39ijggOL2HJ85Qyg=     | dOHxoLzlQUcQu3bt2vcH6UqOCh4=
+ SHA256    : 85wbcQEX7qx3oaOI5BZGd9bdGHFF6HBc | JDBLrQXyAyOGeR4oy/zL9YHqDDCHGY5N
+             1A+5xpjga/M=                     | l+qulHsQdDI=
+ SHA512    : 8YTM747yjL8pVbVIMeVA4DzIwliCYC3V | vl59VAmOB7JOU175OuBlejpzjIMqUDfE
+             aDS1jmFvGi8Y/LzJ+dQ2WjO5gxN4uPFj | 5n3vxOaaIHm+Vnx1VGYILDgbdazTlzfO
+             xA0ZwQkykC27O2bRzfnkuA==         | ISpflzN36EwQ39KcLYlRGg==
+ RMD160    : VwwgbXbitriLsUTNvRiXMqusKLs=     | a/ISmmafKCMuAAHi11bxJzGF0uA=
+ TIGER     : MU/lgeZn0KxAHS9N4oowWLvybtijdBbA | +M5wd/FSUPjoeIvIqxbMZJKxclMHIBVl
+ CRC32     : gik8UQ==                         | lIASqQ==
+ CRC32B    : L6e2NQ==                         | 4++2kQ==
+ HAVAL     : zz2BLmXjHDmGr4T9k2c6Bp79X4gBQT05 | r+GNSdpnSexjVBobGWq0jSzfqcCWws0H
+             uDYKhB0O8Y4=                     | XJbnqWqIlw8=
+ WHIRLPOOL : 6qOC2x9pN76ck8G6MvZzePSFX6P1EPyi | KvZ6HXGm30gOYaDeyIEPIztkHHMiu0zc
+             iJ2qAiyrQtEV5cVOD3H1IB3/lakCaJIs | pGDGTdNsk5oCMqGH9D0Ar71VF7rkzPdG
+             NHVuoRCBcEXmJcMWaeu85w==         | Z9vIPBSu+gtYQuD9WyRAHw==
+ GOST      : OKJpXZFzdwihTXu6/1M/9K+scBI7lv6H | pOZb1ilCH5zN8hKw4G9KEqFM9qMk239e
+             B8Z8r9vk9hA=                     | /4K6tI2jTuw=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/d3647c9eb011e5cc_0
+ Size      : 2715                             | 2711
+ Mtime     : 2025-12-09 13:52:20 +0530        | 2025-12-09 14:46:12 +0530
+ Ctime     : 2025-12-09 13:52:20 +0530        | 2025-12-09 14:46:12 +0530
+ Inode     : 791194                           | 791181
+ MD5       : /9OuHNHes3AR3hXt61eACw==         | It3DYieg3znWm/BGbmOwyg==
+ SHA1      : P6ob+umyB8WxwsSw7MsoJvamTlo=     | tI+3iZFMqYtw1kSU15/63IOvzp8=
+ SHA256    : WQ6SEvQnKQGb348+TfeoxUyLqfAdvlSb | TP6gk3/rRYNx/LCx1yQrQO3ezb7VmByH
+             5YeCU8fSavA=                     | 1pD3QN4ugYU=
+ SHA512    : 0akTKygHv0cciBJcpCZoQ7GuJOABgDxB | HZLTphdPWWX9h61ywWNOdKD9aNSdf9ab
+             EgqSDaKxU2+3XVSOpHfJ+3NFpvc5mxXZ | sPDu1NS3dV6OxEyC8hmkU8aoCVPr0xGN
+             6lWAQN4TsNfwgjVbfCL1fw==         | +gWGTId4XexSRayAdgKXnQ==
+ RMD160    : D3pSRWzOHAaIxyLtjW4NP8fLEFE=     | E/csp6Y97mRsTY5/LBaWmTWhM8s=
+ TIGER     : xM1qLvU6z4eOWIqNaO4b8jtqFJxXX0tz | 0w3vLqFffXBPvR0j12hbQWINbD5FOMhp
+ CRC32     : fsJSww==                         | X99Mqw==
+ CRC32B    : dfwSxg==                         | yUZXcw==
+ HAVAL     : dQc0Tzyh8mBAcstUHhk6jz7QMsSHgxjC | Wer9g+RELQJVuvOJoR6tRqc9Ssz8+K/0
+             NVSqxSX8Efw=                     | j2zLwEWujxw=
+ WHIRLPOOL : A7g48GUrVpk1ocaEAr4F0ctUDF3bTpSH | 2ySt3nZTJ8xNRPRaYVl79dtFU0JbeI7f
+             KIb7NPD2tkWHjaKikAiyWWw6wQcieKX3 | m/hIeDzTPduS7/s3F4lJbIDwT4Gxn/nL
+             DYoGBJv0AmMCAtfGcU1HSg==         | FQ8NTEcxv06C0/FYpS9FNQ==
+ GOST      : 4bs/KPCaZPNdCLxPD5daV+I6+ArDXxh6 | dt7fHDm0afABKbfAutQFUN0TeIjI31L1
+             pVsixaAaYjI=                     | p0OBZpaovbk=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/d503948ff753a9a6_0
+ Size      : 3099                             | 3086
+ Mtime     : 2025-12-09 13:52:21 +0530        | 2025-12-09 14:46:12 +0530
+ Ctime     : 2025-12-09 13:52:21 +0530        | 2025-12-09 14:46:12 +0530
+ MD5       : mvbOWIJW/YGRQ00O+DXsUA==         | IHGUcmVtpzyWGBEbIXp7ig==
+ SHA1      : WVXr/LHeJe0z6j4X6+vW92qHG2U=     | Hv3OqIBU7IqA94JhvleAbGEJEZY=
+ SHA256    : EjmOnm6t3Oi6dro7lE30nNmyxuUUraVS | kUsxS+7H52CvCBMHOwxmGm3U/1IHyKtU
+             YM9mZEG/5Ao=                     | CZcK9dcFRqI=
+ SHA512    : k/ku9E1MIEsVFZznL2fSBY9Mglpe2n3K | enRAnJMSbEqCtMkxzzb24m6vPBr8kEL5
+             Y8P8jsxWpPtjQFjqMeTtlIOpwV5Jsrol | MjaPKiO5eX3mSkxev5Lfkh0zwPYPulhY
+             s163qs9eMXY+tSD7ZEtRyQ==         | hidX/tPWZibJxVFFBVSE/A==
+ RMD160    : n6Zs66EH0PXqXERW/O9e2YG8mVo=     | I97sH1NLP5XGEpNiLnl4/DxrSz4=
+ TIGER     : BYa3MkWWRi1GCzgQZq+Nm9jXnJ7OfIhR | KMGR0QRZDYcjyONr1pzLB/CBOH7/Nl0f
+ CRC32     : BqUMPw==                         | QY4DVA==
+ CRC32B    : 42DM5w==                         | rltHUA==
+ HAVAL     : XLdRxZBfs7R25oEmLxJvGnTucpLjyooZ | lncwrCvx2CqN85FdcJOjQzQYl/gcyQnH
+             bh85mhnAAbU=                     | vnrSsB5b03U=
+ WHIRLPOOL : n3pU8EQc3kY/MSO0VsHjEZMF+sJIsoWg | 56xv4U1Qad6v0Ctjx0uR7tYB7MjsSmHK
+             BH4Kld/Q3nZblN83TnU8pDho8Zs6JBEv | S96Vzv9SFTNpEGHrVXkft48lGADpYqkm
+             lAEf7ey84x/HuAgMLwPPqA==         | Wu3yDPrc7Eib7J3qyAr7VA==
+ GOST      : DZJwTDWtA1+r+Zv2iSq2R82cqVwyyj3n | MfLM6Lxh2RXLkzvgwcsCaidRm0ZT5bxm
+             3/mLr6iNOms=                     | PHiDrSUZI4s=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/d669a6005c90c528_0
+ Size      : 2855                             | 2859
+ Mtime     : 2025-12-09 13:52:19 +0530        | 2025-12-09 14:46:10 +0530
+ Ctime     : 2025-12-09 13:52:19 +0530        | 2025-12-09 14:46:10 +0530
+ MD5       : 3A4ykMT3SWVWVeWygkzfMA==         | Oqbmx+5DTCx5PPcK8aQ8Yw==
+ SHA1      : dhUjiYiYCmaygwFX/yFEDmLVCwI=     | ZfjeMqxQQz6k5on8ZdhbKM1dYKc=
+ SHA256    : AOCPebSZEcitqazB4dWmNMgDYdXDugrZ | bqVV6stxSy1pjAkmuU3s1b91cPZ21WJt
+             H9FhfYRA1iw=                     | BtOSUuv+peQ=
+ SHA512    : H8lh+KG9GQLOsi412DN3PitMRjSy45Mm | nwrcoTxQlGcSY/XPjZ+MyQgrZpDA3AlQ
+             OYSCMvtyLCh9P5NJuBHmt+ufbYSqpeGn | EJrgJAvqEsPXbS5A2PsLtivwlJEWaJEG
+             VmMlF+czGM3G6+UpKSUtRw==         | WbZj8kEkqOuzJQEe4M7nUg==
+ RMD160    : muYzqTHAZbLHdQa137bPiMXaeXs=     | pn4guQaRYMb1MXHmcfUveiWTKrk=
+ TIGER     : oEpcarc7CG7Hm0eoO315Aj/IpRbSwxGb | lmPL4YjYIjbKudBIzlEZL9GX7aX0XbtP
+ CRC32     : YUE9Og==                         | LSBDmw==
+ CRC32B    : KqKymw==                         | f4qI5Q==
+ HAVAL     : 1m6+lUairEYZjo30l2ILPAdq5JJJpUtl | xh6Xa0HRqsVoDwRDJrxo7zFnkj4EMxHz
+             3fKQuVA4NtA=                     | bz3qG6iXQsk=
+ WHIRLPOOL : /eSmA+AFsYY2NiTsc4iCQk7XYSuvKID5 | 2AQD8bCjSb94NDgw2PMRjMsTsQM+1t5r
+             LMBjF1YPIWmGYmWafWbNbcNvHzWcVnuZ | SnsmduXJeGsQLwx8LNZyYqkURK6L3PYM
+             8L1BoNo7uNCS0L9GatEb/A==         | 5iMPE88gMgYi7ylE/6blAg==
+ GOST      : /ghUciKJTjrPns5VOyg4bEVs26BG4b9j | 5/KBz+mKlzYzk8V57n58d6PS7K2WGWtU
+             fN9HvugJkuc=                     | rN/mgyRucEs=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/df6e225cd1dc2cbe_0
+ Size      : 2962                             | 2958
+ Mtime     : 2025-12-09 13:52:19 +0530        | 2025-12-09 14:46:11 +0530
+ Ctime     : 2025-12-09 13:52:19 +0530        | 2025-12-09 14:46:11 +0530
+ MD5       : 9eUsMyyl9BnX56RrRhMu/A==         | 8KLraxrW07pYwJe9kcuapg==
+ SHA1      : mHlrQDUD0DlTrrl2PHU9jy+SQkU=     | E9cdEWhv5Am9tyTEat8g9/5tF10=
+ SHA256    : ChN9n1XJqUkSr/nSdO4erlpCx18Vptzh | 2N5iMvYk26muhMuqiMIJrRxFripubfF0
+             rVygpGwGS90=                     | vtwMriMdie8=
+ SHA512    : 5+pHXyCyUSHFgJB1PO0L4DPfOt9MthNM | SgC+McDbCCNYTyZ9KHjB8vhBjy+feIc7
+             s2qcLxHs/PkX2ddKCk+SLKAAM75iQtpU | awiqWhgxXYWzlyE/mhdTPLHg0+di489j
+             uuhrzkMUc/NB3z1IS1uevQ==         | gn/5XWBXmFnQQPs4tbQ1Cw==
+ RMD160    : Y1ngpsoogwlzoYP23zv6/OuJCEk=     | fm5Nal+CUl+TcpZ/kZzKTXzkCSk=
+ TIGER     : aWW5I4dNyjh8XxUQfkH62zrXggPoBsVD | ZDcNxnj9t1m7N26PLF+AOhsSx1evNKwC
+ CRC32     : 8enQxw==                         | XIssew==
+ CRC32B    : bEEVLg==                         | ynsAOg==
+ HAVAL     : LUskyzMrDwZOl5RRgdf4RBCkxE7nTKIl | ChLJKlTSgnHu7CjKbXpjXpdVvqJkqQJR
+             bOwEe2ryTRE=                     | geRdtLRvu2k=
+ WHIRLPOOL : 3SEtbyoSs+8Vba5e3yfUryzgxF9xyCD8 | cZ7vzK1J5q5CbzAMore0SjVtNL1gl5kQ
+             wUhJkhim8znCuNthxkhfnARxswqJgQRe | Sov1hRE0OOl+lWS9TTA9QkO5w++GLYbd
+             dewIJg3dgWV07eTgW5p89w==         | zYsUnkFzt12IEgj+tJmNFw==
+ GOST      : MrB2B3nvM5r50HXXJrRKEs1HCsHjpV5x | gpB3yXDU5jK7ImYXt1Jm5GwEJOOgR7Jr
+             JxvuEaCplRM=                     | WAWnyNtCDf4=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/e03b8a588bca5289_0
+ Size      : 3044                             | 3049
+ Mtime     : 2025-12-09 13:52:20 +0530        | 2025-12-09 14:46:12 +0530
+ Ctime     : 2025-12-09 13:52:20 +0530        | 2025-12-09 14:46:12 +0530
+ MD5       : 85mNsKNmyuRu+6bbT2ytjg==         | e1+8k4JoFWamQf0ZifvhJQ==
+ SHA1      : kX0y6lsHpjxwAfazbwedWGol24Q=     | EEblzm3zFJGvp/pEUf3bIUATsC8=
+ SHA256    : SBVvRJPZbViihhkHHeADSKhDrVVqnILn | yIA5d8it1k/XpBWBLqOkCWhdrtYG7zpP
+             bbPrdeBKF+E=                     | ndPPR2RS4jY=
+ SHA512    : So2klyU4kUrJ+SHwRa9OKjCELPl94Rtx | KJ5h4dcomZVBVJsfPnAGacO/liX7o07F
+             RTxCRcYzYK7KJdjYwyXqpo4gQ/aPqlJJ | bqO+X9LEQTZ6XMQRIeVBIoGYR2Libih3
+             +W5ZfLxOqk/p6Nz0tDBQ3Q==         | B1l6/jGWy2hk5j2aJUFvaQ==
+ RMD160    : v2oWwXHSSkNTdLOJshnBABieg/0=     | NDBxlyWDaDA3mnB8+kxjMXPSxkQ=
+ TIGER     : avOCHckZVICiatrG1dgsvvDTlW+PkhvU | EpzIEa7K/cE3ZLqF+Jko9GhJkg///QV9
+ CRC32     : MI5QhA==                         | C4ed3Q==
+ CRC32B    : /vjCrA==                         | bsABdQ==
+ HAVAL     : kk59PCxrdbJaZJvBBpYPFeToiWZFVxED | TMST6hP1ioIbXu4xUZxD2tP8+h2Trsuu
+             f+rB2TXxVUM=                     | 7e/K5y3Vzhs=
+ WHIRLPOOL : mykZVnVFryFwKbPiL4k42r+aaBXgc60R | a7XTopI07/FtjWcilFRdz4NXlk7rvY7W
+             /+d+Khc4becpZ1aLfLCHOlMqDd8XuzqX | winsYyYT2r4Wgf94sd4zq9O1Qx4lWuSA
+             JuRC6PxYB1e7/mfoYEixrQ==         | JN9UIwpeXJAHl+UQMpVaOg==
+ GOST      : 4kDXkXcN5emabeHESRApEg6J+jMAgHYj | mg3ozBtSwHIeA+LLxrXVQD2lTxPCK4NS
+             kr3lxY9vbjI=                     | 6WX+4y50sag=
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/e03df0fd0a2187b4_0
+ Size      : 2836                             | 2832
+ Mtime     : 2025-12-09 13:52:32 +0530        | 2025-12-09 14:46:24 +0530
+ Ctime     : 2025-12-09 13:52:32 +0530        | 2025-12-09 14:46:24 +0530
+ MD5       : hyeYVo1Z6mmxjFDWteSCeQ==         | Vl0lTHnQP9+fec4bxJ+9qg==
+ SHA1      : EkoxZhR4t5UeR/NGpH+TdXEz1y8=     | pNnUhnlnQLma0dIgFzOC08jj0fg=
+ SHA256    : qdKFw0Snq6vAjiP90owku2dP271neygy | K0dzYeyk7FYu4flU/DYTfjkw8i5651M4
+             Ln7qhrFlfzw=                     | PXExvqpa6x4=
+ SHA512    : 6JpAZ/MsX8DiRHkEPpisqNtiK4gvgOnz | vh+GJxu8Z/MooWZkrunrTvfLlAxllBrR
+             1WYano/qHC89peNGnUtYsyuxHg5yRLm+ | miyngZitqjBSY22Xx62r0z1gitdW2ofk
+             mLY9KncruDIeGDxVv9NqNA==         | KXT169YGyZvYrSWBXL80zw==
+ RMD160    : OJmyz3H0MjdfVu45CbB42RtKIsU=     | DjZmswIan0XomOeNI2hR3zsk+g0=
+ TIGER     : cNGqMoYwp5EgWLqnORUC0uND12tIj6hg | 3nbYSB66a+KicfczpcwC4h/XFWYS6bNA
+ CRC32     : VWD8bg==                         | 77K/gg==
+ CRC32B    : Ns/xgg==                         | EIH9ow==
+ HAVAL     : 406lR+CV6iRvOlf1032pk5Ka2lQw7j7K | 9twMe148EXxTU2QZ5OfkiHV23V0GLbO+
+             0ngrGNx2TgA=                     | THVadDZt2bw=
+ WHIRLPOOL : Gi8HpOxz4s+iwlkC+aEcXNVnsaI0PHWl | 0QsratryKIgp0HNAy+S1vOW3B2BRDqiu
+             MTH6ZdVB2wHkHcNMkgMETgp5MCKW4qVd | 77i41G1/ad3yQV5Z1LAcbmbhnGjUCgqz
+             OtwwJMWBei9+mTTBUguo6g==         | UzTRPnuI2Cq6/1SAusbeEQ==
+ GOST      : 6XAnIKp4iR0/wTCsw9U5ck1lyJWWTRWW | VSs/v/71QD6c718+YZrxjLZS4H3cNnJ/
+             rZKFlJy1+Io=                     | 4pl3qEHidno=
+
+Directory: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/index-dir
+ Mtime     : 2025-12-09 13:52:52 +0530        | 2025-12-09 14:46:44 +0530
+ Ctime     : 2025-12-09 13:52:52 +0530        | 2025-12-09 14:46:44 +0530
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Cache/Cache_Data/index-dir/the-real-index
+ Size      : 118104                           | 118512
+ Mtime     : 2025-12-09 13:52:52 +0530        | 2025-12-09 14:46:44 +0530
+ Ctime     : 2025-12-09 13:52:52 +0530        | 2025-12-09 14:46:44 +0530
+ Inode     : 795229                           | 791185
+
+Directory: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Code Cache/js
+ Mtime     : 2025-12-09 13:52:20 +0530        | 2025-12-09 14:41:08 +0530
+ Ctime     : 2025-12-09 13:52:20 +0530        | 2025-12-09 14:41:08 +0530
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Code Cache/js/4a04eebc27d48a61_0
+ Mtime     : 2025-12-09 13:52:18 +0530        | 2025-12-09 14:41:04 +0530
+ Ctime     : 2025-12-09 13:52:18 +0530        | 2025-12-09 14:41:04 +0530
+ MD5       : DjhLHlDZcWHXIclbeBlFKQ==         | ExVr5UL+VglvQ8Z3Us3lrw==
+ SHA1      : J152j0hBZgm1O3RIwI+EdVbwdYg=     | dxCPx0kZFbrXLUVc4E/zBrj7alA=
+ SHA256    : G99GCnFu4BVpAGOHVH+itQx+YmOXkgqn | 53gs4v4tneINGqz4LrSXzGolqpxpBehs
+             Hard6haJefg=                     | io8tXuVrOwU=
+ SHA512    : uHyQ/5hw5N8O7qIa91mGjBKpGZ0hIuJl | ++1DY4tDKH8Z5YJhQuy8mBijAqLTLWJy
+             UuKcb/fP51yZm92bIejYVSWtivd/iqJ7 | G0yCG/DYQYRbi4e9LQ9PCYsy0VdQyscx
+             pkVkbTBSxY1nfnsw23vp9g==         | Y7+s3OTba8SwTjM85B3shw==
+ RMD160    : rVU9TgQfpS8m360ACmSsMvDwZb8=     | 0W57Gx1u/+2LJnLvGN7CYRCGgiY=
+ TIGER     : Mc0W5DGNcahMic5zMvazuVfYLkTEhsuw | lGBrHn4M9Hc9ipYhp/baJS/uH0xGlpf8
+ CRC32     : jBbVPA==                         | QmfBOQ==
+ CRC32B    : CH81Bg==                         | vyzqrw==
+ HAVAL     : W0xZR7EkDZconOnJBw65HawrAokOhN0j | h4dYB9v/iApjxUZzDx85sO2Wq0lzgJPa
+             sQqJ9yfwHMs=                     | E9XuF9O/cWo=
+ WHIRLPOOL : FPFwnYgLqlMvNcgYICLpjKE9jEzoovRb | XfBJcSXwGvRG488guOp6d+H3T2I3guLE
+             IuT2mLQvO4Qxja1crl/GE2FXLsBbdqtX | L7zbMs5WjrWw/0fGRXEwB9BugWNZuUb1
+             TA5M43E8UMnO72gegaDj7w==         | wWlbSg2oGxewMjJf4aG9RQ==
+ GOST      : yM1MCTMjXKCKBs26/lFwa2at+PR5pBjK | Lh3U9RshMqRKe1FVbfZ3FHTVQxWZvdg6
+             ST7vmy0hQOY=                     | mkvuk40CFK0=
+
+Directory: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Code Cache/js/index-dir
+ Mtime     : 2025-12-09 13:52:40 +0530        | 2025-12-09 14:46:31 +0530
+ Ctime     : 2025-12-09 13:52:40 +0530        | 2025-12-09 14:46:31 +0530
+
+File: /home/ibrahim/.cache/BraveSoftware/Brave-Browser/Default/Code Cache/js/index-dir/the-real-index
+ Size      : 52296                            | 52320
+ Mtime     : 2025-12-09 13:52:40 +0530        | 2025-12-09 14:46:31 +0530
+ Ctime     : 2025-12-09 13:52:40 +0530        | 2025-12-09 14:46:31 +0530
+ Inode     : 795105                           | 795247
+ MD5       : +WT2ThpWjudMjY4zn+cHmQ==         | Yhsqwa7s5N7NzPLS4AlTYg==
+ SHA1      : AxUKa5Nv2lCzfMJkFgFP7yO2hPc=     | aQ9689r/Nft/8zkDwXMuAG/V/s0=
+ SHA256    : bWLWzlk5kebMZ8hUMobvG5laHfS3FG1P | bYY0PZkBNOKr4xi+boBaF1j7cEx925uF
+             R+8wyL1TN0g=                     | shbY6WgedeI=
+ SHA512    : m6rJvzhT1wQZICw5cXzQcL12j4OjQGy6 | k/onJv3/OH9jdrwnO34PwBmVwLD1beAB
+             uBsUxwlcOaPkXV9rKVi5W/3m4Q/pJOC9 | gbpg8B3m5chDW3idTf1lfn+5etfOKrZa
+             J0x3SoHoioyqIPsf5ugHjw==         | uu+gZq71XiR0md4FXam+/w==
+ RMD160    : AY64Y9VN/bMF8O2jfemv2wKjuns=     | bG6lOmAZf63NI7j8P5uVlGfOM34=
+ TIGER     : PMTycGGB0NJJrI0W0YSxEB0DmYx72Dh/ | 26ovL0gQ9M/WGtE67FBbPrp2VTAOQ2DF
+ CRC32     : Du7N8w==                         | Ev3YjA==
+ CRC32B    : 0QSQ2Q==                         | W3+V2A==
+ HAVAL     : hkRwevw+osnjeBdkx8a6hvbrg+4+Fp6P | RTPFwONv1aa1qDr2sKlN8SO4kuedte9L
+             BAQn+FoPHcE=                     | J+Ec327Lpv0=
+ WHIRLPOOL : /VJSCh5tCW8ETXIo8vtOdNfpa4QW2BCK | 3Nl9HsacM4ZkuyuDjOml/+zTUHqgLVSW
+             KhpqZ+tLCmzBiK0mViHS7+UQk/u/P/LH | nlDx4lKp8pSBvf64Ck/qIBHlA+/9ehAJ
+             02w0DrYlGQWKyYKAzZydYg==         | gBgDvUpfwbYtinyCp4MENg==
+ GOST      : vtkhxdTD3lQB9oxZSEz8GaPAWj9Ho5np | 8aiR0ACGritDwei3Y5Pza/0VCrSEpD+G
+             DjQFuxUm4o4=                     | z/vgOB36HQE=
+
+File: /home/ibrahim/.cache/mesa_shader_cache_db/part0/mesa_cache.idx
+ Mtime     : 2025-12-09 13:25:33 +0530        | 2025-12-09 14:01:30 +0530
+ Ctime     : 2025-12-09 13:25:33 +0530        | 2025-12-09 14:01:30 +0530
+ MD5       : pBzfofM3+8xl+wuI44Qzxg==         | 3VGgt4chEOPpoS5JtePv6g==
+ SHA1      : xU5uDVyqat9vdKBsJwd9yTxMNIs=     | laTLcvR0AilEcG3uioE47F0nJ/4=
+ SHA256    : W14byc6i2B7gMNhDBIFB2vTASth5yIIk | P52AWEeG4IzbQv8/NnSJ2h9ve/sofPbg
+             DcbbqX5zC/g=                     | EZlUrAapgKQ=
+ SHA512    : wxoShPQ5o5h0OA0oEerzSriDK/FutAUv | VxbGceIpWEaSG5Rf2hROCa5wkSlBA7p6
+             VhbXvmGyQAZJM6yH/AjN1IXfC3+nKwWD | /ddvHrFC7w/olK1unNuAI6HXAyR669PN
+             3LI4FkI59p60Yepger/htA==         | wJKZlA+ywYYzTVtTs6jNXw==
+ RMD160    : o92hkOsR4yakEbQPkCAfRsKxZKA=     | VuoeT7aNOUhYM8uOgFN9/okgC4E=
+ TIGER     : +D1sraMG5OUIQ7zXUKTE42PFVsC0TeGX | S2/1QgSIfh8NoDlXBM69Ov7JIoBDRcoQ
+ CRC32     : o/Iqlw==                         | oPum8g==
+ CRC32B    : gJbJYA==                         | k1D9kA==
+ HAVAL     : I8SAByGerWIufC+EITfEmvyg6/10RcIe | A5u9yiKd7U9kM1Th0o2vPxAxp8Vx7poS
+             CdJR2107+Ig=                     | WMfkhwJqLzY=
+ WHIRLPOOL : 2eHmK+xQLvUbFWT+SynD8/PTioOguq3l | 1XpEN8sluniv3atZdR6GwCsmr73NTl1X
+             7Qud66WsdJv0OzCGm5pCWLwEiqb7YYwP | tdFDc1r/Q+575TaufHzSsV5F/n9sbvgU
+             htO1QKgra8im6i/L95wFYA==         | 2ctHU6TpPifR/7WdiVmLhA==
+ GOST      : rNHB+XOFyunuWEebjGgvz0dI80o4H70L | t9IannbiWSs5tTB1dPpz6k3EuBZKvUVt
+             1FrZrvbJYUA=                     | 5fEJAAnUYo4=
+
+Directory: /home/ibrahim/.config/BraveSoftware/Brave-Browser
+ Mtime     : 2025-12-09 13:53:28 +0530        | 2025-12-09 14:54:48 +0530
+ Ctime     : 2025-12-09 13:53:28 +0530        | 2025-12-09 14:54:48 +0530
+
+Directory: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default
+ Mtime     : 2025-12-09 13:52:56 +0530        | 2025-12-09 14:52:57 +0530
+ Ctime     : 2025-12-09 13:52:56 +0530        | 2025-12-09 14:52:57 +0530
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Cookies
+ Mtime     : 2025-12-09 13:52:59 +0530        | 2025-12-09 14:54:35 +0530
+ Ctime     : 2025-12-09 13:52:59 +0530        | 2025-12-09 14:54:35 +0530
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Cookies-journal
+ Mtime     : 2025-12-09 13:52:59 +0530        | 2025-12-09 14:54:35 +0530
+ Ctime     : 2025-12-09 13:52:59 +0530        | 2025-12-09 14:54:35 +0530
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/DIPS-wal
+ Size      : 3382552                          | 3440232
+ Bcount    : 6616                             | 6728
+ Mtime     : 2025-12-09 13:53:19 +0530        | 2025-12-09 14:46:09 +0530
+ Ctime     : 2025-12-09 13:53:19 +0530        | 2025-12-09 14:46:09 +0530
+ MD5       : Ruzf5ioXII56vxLHdhk1zA==         | B175XR0dsQ5R6cwnEYKSnQ==
+ SHA1      : BLjKEZA3iaIYMf9avRqQ6UfbgII=     | PAIgO86kCZjkXhxB6EnkbSOxYNU=
+ SHA256    : X9cnBVI5myWJEZZB5QjNoh0jSQkYQIPd | Xw8Vm5My/s/m4xytkkrYg6vcdy0NMqIP
+             0KJVk9XAYUU=                     | UHQwVapvQNo=
+ SHA512    : WwghIvCMMFeRvTYQ1YjlyNjn6A+BI74s | RaD/FJMzBrc7wWM+yuNr4UaUxNKveZ79
+             sMLk0up+olwPfYcMoSTeVByQGiqiuhpI | gV8jBwJVENJFk/GvWBJZjza1hPELZ+qK
+             0C60Cs9iYdlNEiSBJGd0AA==         | 0e1O5noIVy4D2FBRLH3yGw==
+ RMD160    : AkFCAxr5tsa+O8Uy+QBfKwwOsUQ=     | nsfIJTXkW94/99qr4Jxv1MO0odw=
+ TIGER     : nAfqXxAyAbVo3E1n2YED1tGCmhJykWCS | 84amoBPEjuoB9kcmce3lk2jacAbW7WNy
+ CRC32     : N0yjDw==                         | mDOHeQ==
+ CRC32B    : Y9akFg==                         | Vle3pw==
+ HAVAL     : 1iZab2ozk8V+iPkVAG9j5bbgXm/GZoDd | iG7+72O5MmiZpJIygjn7cLJ4FM1LDEfs
+             uQ4h0xz+mfk=                     | kZgTJBRXEtI=
+ WHIRLPOOL : SK1l6IigPWkB/5DwVrVMT6NVs6yxS2AC | TUcZBU36iTWKpYubb7yvujPv6XKjKMZT
+             9CPGOM7jXIFXFnKgeKEmql7GbN/z4s+q | h2LmGZEEDuJnI3PxwU8ScQVq2CiQ2y8U
+             4xAtR+NaFOaxmsGlagbpNA==         | UrgsSQorZVjWpEVCrCmnKQ==
+ GOST      : vjrgsbhHLaNiT9ewj1WjTR/CNzf/k4Er | 33f8PvaMVSC8mybeTI+C84I+zN5yhMPe
+             L+P0200xGXU=                     | dCVOtImnB3M=
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/DawnGraphiteCache/data_1
+ Mtime     : 2025-12-09 13:50:38 +0530        | 2025-12-09 14:50:38 +0530
+ Ctime     : 2025-12-09 13:50:38 +0530        | 2025-12-09 14:50:38 +0530
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/DawnWebGPUCache/data_1
+ Mtime     : 2025-12-09 13:50:37 +0530        | 2025-12-09 14:50:38 +0530
+ Ctime     : 2025-12-09 13:50:37 +0530        | 2025-12-09 14:50:38 +0530
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Favicons
+ Mtime     : 2025-12-09 13:52:28 +0530        | 2025-12-09 14:46:18 +0530
+ Ctime     : 2025-12-09 13:52:28 +0530        | 2025-12-09 14:46:18 +0530
+ MD5       : 1tqZV5gicSKuddPt/ZceJg==         | uSpAdCXNB6W2ExBOFj2+2A==
+ SHA1      : 2gD1ns68n2yPZnZ8ILKkq2FWSNs=     | +f0f1U+BPoQ7zoBwwcZMEeNxQBc=
+ SHA256    : eWi0t88lyuH8DBI5/SB68V5AqmqbVIgZ | 3KDePbzZla47tgvXdnJ81FxLDUBo/z44
+             myZ8nTksqjI=                     | nz7gYi33SP4=
+ SHA512    : HZh8C4kZZB+m01fjZfHkBmUK2GaGClab | pNpU4nGzSKtghIDrWMxWHo5SDOmj3Y+R
+             1hioTmO7AGlRMODUUHJjSKFi+uxNDbec | +mc6YAxAV+ARPuR+KctQ7VkCdDEeeqf7
+             DEpa97LtD+V4TiJf8OIwYA==         | K4uNmkA7d9ypd23X6IE1Fg==
+ RMD160    : nkYHfERsYPSuL801/ldDFYtlCu8=     | YyfBZUmki7NHXZRQRXu9DE3UQv4=
+ TIGER     : qgkkaBfpuqYmMVjgcDeGrvcyYgqacIZh | o9k6jXeIvHcL7MRdAtp9lfXsvsdUfB8m
+ CRC32     : YslvUA==                         | wpttuA==
+ CRC32B    : sy/9EA==                         | RCUB/w==
+ HAVAL     : Riy5D6cA10ycSFynVycpQk9rfsxKTmLh | nVZ9Ojl+vnF8T7jlDuTCrAmP3v0nkToy
+             UFiIJzji6rc=                     | tM7AB4pL3q4=
+ WHIRLPOOL : hxAnChIp0MxHjZ5Gvd7kgHsWOnix6XmG | UFBssaD1gRVUtuEXhwgZKg38DPGtdz1J
+             1MOA6TjjFkhKKPN2ru7O7+UtAiq3pkN+ | zkuGixMF8ll7nS41KrHEBpAWPReAejWM
+             VSXRgYL/Qt7or/ryzyHGLQ==         | 0kwZ1jjazBwtfKw9vQftTg==
+ GOST      : lkVfFvzJ69/1n4OsKTbJukPcFP7k1Jbb | BJCSVbz+5i1gpGJPD4nvvLShn6uqyUGI
+             YbUhvLXxWWI=                     | 1VREO52ErgY=
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Favicons-journal
+ Mtime     : 2025-12-09 13:52:28 +0530        | 2025-12-09 14:46:18 +0530
+ Ctime     : 2025-12-09 13:52:28 +0530        | 2025-12-09 14:46:18 +0530
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/GPUCache/data_0
+ Bcount    : 216                              | 224
+ Mtime     : 2025-12-09 13:44:13 +0530        | 2025-12-09 14:46:23 +0530
+ Ctime     : 2025-12-09 13:44:13 +0530        | 2025-12-09 14:46:23 +0530
+ MD5       : /goUFFcek94bmyOFo81ULg==         | OX/f47w0+1rfgT8yK3o4Lw==
+ SHA1      : DHPymsT2fanadyPEz9b+lFciOt4=     | yyOw2A8hGhf4na2QwCYGDouXf64=
+ SHA256    : gSqke6gHXVyDVR7qCiaKCD6WdcaXUoaA | c4uNz+bqAPpgoAg3D0vKCb3gcyAvQrwD
+             dDbmzB4wkM0=                     | Y3RMKN0ALzQ=
+ SHA512    : CtzWfs/fvA/RymZX0kcPOsF7MXRKns1z | gf+GtoLe+9GrXa1QQSa4NZvOKt1gCsHu
+             q0W8fuIC+5zgqx5GmyIG8HeZD9msFB/S | K1JFY+lUi/d7j5mmCiw5934+cvG4tB9H
+             MoX9P08rHAAtrxhOwUYYtA==         | wgyUEdy6qQtl5rY8vA2pZw==
+ RMD160    : yZEMoo/DbepSaJmFqyDVGs7GJxo=     | qh0enntktQTyeg7ln5JYypdyMas=
+ TIGER     : cKpBoornumB0/hiiBz0+0s8gBK2S30Ap | +l00GeUMUQ8QU7XkKzA5DJhFAAt2kg66
+ CRC32     : gCZ5+g==                         | W8okEw==
+ CRC32B    : jacGLw==                         | 4ldwCA==
+ HAVAL     : rlvRvUbRAEHoS4eYclHI9OZpoz9aUGM5 | yPpmJf0iBurnunelJqiE9XA/Ry07E5bb
+             pS52kwLXU98=                     | mMTF2uuTgYw=
+ WHIRLPOOL : w3olyxgjgVMMtVu9onTadT5pcZbGgkr2 | +5XgHmR5kmQVwjNHsmbv7BsI4+kEn9kC
+             xqYt0OUsnAxcrx34y5bA9wa0qtZVRkm1 | NjDfHBka1LRwXxalp7ZB/LFwfnB86jIL
+             7OlB14+eptURpCEUjjKm5A==         | UmPHOARWYg5IWLkdUr7x2g==
+ GOST      : 5z70zFFiA7joOam8oxdSq979WVIqMiZF | 4ngC8vosqsg9/u0d+YsSEcY8kShedLzz
+             rBs3H932GOc=                     | 8YOPFCx0rQU=
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/GPUCache/data_1
+ Bcount    : 4184                             | 4208
+ Mtime     : 2025-12-09 13:50:37 +0530        | 2025-12-09 14:50:38 +0530
+ Ctime     : 2025-12-09 13:50:37 +0530        | 2025-12-09 14:50:38 +0530
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/GPUCache/data_2
+ Bcount    : 7240                             | 7248
+ Mtime     : 2025-12-09 13:44:13 +0530        | 2025-12-09 14:46:23 +0530
+ Ctime     : 2025-12-09 13:44:13 +0530        | 2025-12-09 14:46:23 +0530
+ MD5       : aVEUo5vo+vkXsoAoGZVgtw==         | qvVXH5ashLfvM0M4CJl4Fw==
+ SHA1      : 4WBLCoB6tpDUJpdLpo5f8eGQzTU=     | B6sJQee7pldYXEicVfhHCopJeAE=
+ SHA256    : Ga6pEkPL1D+zaFJtXmyxoEao8kOjBKtj | 0ES5VLaUaSzWhOomU4bIxvaS4IDurq+y
+             HmLvtIFO9Sg=                     | GR0q31WoZKs=
+ SHA512    : +puGkvmMaYovBEmxVO+L3auq0HxKPMeu | W4/pUNsKePbOW7rG/CI+QBlyLJKA6qo4
+             eZXvjjIdRAv2QXygF6m1SQYZd88qtmyF | TiVJ28d4XHKZAYKqIIhRccqTjgRzKcOU
+             KIQMuCOMkH914vjrBjH+zA==         | O6xHFAtE6spF3LRVq9Pz+w==
+ RMD160    : I7XosH7jeiWns0UjD75zJ03yV7w=     | 8PBMjet0Eqm2tw14iXgv1injtD8=
+ TIGER     : gWsAoApz0ZiEJPzQwEOPvpdmXxqEI0HP | t2MqMN2TEKcKaU16ohqik7YspX9FSkfF
+ CRC32     : rUdmBg==                         | MzpbrA==
+ CRC32B    : 5m/n0Q==                         | x3fBXQ==
+ HAVAL     : VsxQm2VjQj+mju7v0WFw0obd14kV4Qsm | 5AL4p+ZZLIv0EUwZ9T9Hk7f4Yb83LLTE
+             FOLfvJfPWW4=                     | cKv0Ppl1PJM=
+ WHIRLPOOL : FGm75/mTbNfDsHHmvKOgFB+/rApXzyzF | Jk9HHmz2wns+miNxbqETzJjcLeF6dTa3
+             yTOEVrwKJWv79QF0Smu2OWkFw8n6xOa2 | Kmbp7mCEdSPXnnKkvuR9x0aeRDfVAoPg
+             RKb9IN+h6197EGfMawzkRw==         | PE7WaQE+qxd4f+i7ZbUXxQ==
+ GOST      : 50Xw8vKcvQdk4JK0xmxPE9PPlHn3dbAY | x39B1RRG2bEqcSoNm3onQWQsEm3aH5KZ
+             Jk4Q80PMrHQ=                     | Tzgnz9hdJSk=
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/GPUCache/index
+ Mtime     : 2025-12-09 13:44:13 +0530        | 2025-12-09 14:46:23 +0530
+ Ctime     : 2025-12-09 13:44:13 +0530        | 2025-12-09 14:46:23 +0530
+ MD5       : UPXavvuXDf086tynL8qUaA==         | MO/UZIGFlrU+AH3P2U2OpA==
+ SHA1      : kAoXKSdQbYo2k++pFsKnYbXlTBg=     | yHWez94eJ8ElbdSV2yJfNDOeowQ=
+ SHA256    : LyFu0DtxoO7YEpPqUfF+skwEHqj0KgH1 | 9cER7EKOipSZjxaO7ohWF7XySIbAB1TO
+             lE2c6D+p8n8=                     | UwGlQaat7is=
+ SHA512    : z2VY+z1rIixy7Ujl8L4WoaVYkVUZvZfT | RbXdlk5ptBmR9WPo7Y92XnlxYQQKDPqT
+             YlxhtZ8JO3S9K3FQloUVchhbdzlVI3yj | nYtcuqET6TTTc1dDUCt2TiGw2eRidx9r
+             TkBFSQceAhFzJbV0G8rUfQ==         | U2hu5+YrvpEM9Cx1FmK6GQ==
+ RMD160    : qc5sSAIyvAdoAF8SuER0NQzIiyQ=     | 02z3nGBQseQNEFxM6Uw/eFnSWOs=
+ TIGER     : bU671p4RvteV5AI0prBmvUsPTzRRlhN+ | KqWMvJbPC2QHaGlHBKzgpJQG2FTOw9CH
+ CRC32     : Uh8ghA==                         | rsZ5gA==
+ CRC32B    : 0fdxyQ==                         | 6ZKeBA==
+ HAVAL     : wa0P5pG6QwpBnavxSbPuATzG3fv0VRSY | 8/9v8ZyZrZ/s1jDR5K8a17TklWOpNc9v
+             rZHWRHVsafQ=                     | bQScve8bfoM=
+ WHIRLPOOL : bcHtLFg9WWuORrXe8BSSmqk4jXTBQ6HC | 6nplG72Ny6hASKdWqExgmEpnSNKFoqYF
+             IEwIonE6GUvBGQn3iX0BSmevDBoODx/N | nEu42wN20ebcMz/hjEW85gifcFpL6r+B
+             tTutQH4xqyOKSEWIOCHBTw==         | 72XIkTGWiGSnp3pb4MTcxg==
+ GOST      : elPi1rpym+9pGy9sMdbsKu96WF2f5oSL | 3pVl6Z+sd/DuClsV/FJswOV0zs5iU6V9
+             nrmU3CBMI48=                     | sJEV6K53rzk=
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/History
+ Mtime     : 2025-12-09 13:52:28 +0530        | 2025-12-09 14:46:18 +0530
+ Ctime     : 2025-12-09 13:52:28 +0530        | 2025-12-09 14:46:18 +0530
+ MD5       : 1BV8tkrH4BoLogLz8iEv5g==         | FNhEiMqwh4zIGF7Mps7tQg==
+ SHA1      : 7kBuMZk2pcNgWCclN0GTZObtqEU=     | LcYUFc5DqyBBrgnZmGeTiinHQUc=
+ SHA256    : V8XROHbr64OuEG/ZlvpazyoAd8Ldjeh0 | 4ljjHiRSeaCOGXjRdL2O/jlhNQkUn/ZJ
+             JJoMsRY9cxE=                     | /bTx+kU1r+Q=
+ SHA512    : vZ/cnearSfJbLotA8CFE/bS21vU5c7zt | WQUR4QBBLd63ip6txalJ3O5d6WVPwM6v
+             d7RwF62U57HRRsb3IMjmRNHkkAkJG6jU | hqhmvVl9RleDTnVRKmz2Dt93iRQmOJ6o
+             fcGmD/k7fKu3Rj21+e3o1w==         | iER3S3ainF9o+NqP0a2JAw==
+ RMD160    : z34VVcz22MCKA7q0NUupqCnvJnU=     | fEKhcqpS3tu3zOoLXimhreFq2fY=
+ TIGER     : Hc3KPqjTl4pJUKYMDtToDoQkMIM62GKM | To/oql6gEjGqu5jkYvU5KQQcwIp01G0t
+ CRC32     : /pE5vA==                         | 4c8muA==
+ CRC32B    : eID/mg==                         | nWRGgQ==
+ HAVAL     : 3xVlcz5bHWtARAB3GjvLEwDpYUX8rLpY | Hwqfswb+yoryQiTijTdxKH0MRTpQIYy1
+             LwH/ELSdneE=                     | Y5bkL2/jMdQ=
+ WHIRLPOOL : 2TN1mDwAXw2KMPa19sPbbNz3tchFavEE | XQilBAIhKjCtE3IFrorkCOBhOhjzJWEP
+             EXqisIDP5H9VLB9RY3CINjeg4CZspZt+ | FcHLaAckhQeS6fyd28nlD+ibFzvJPmdf
+             v5pQnKjnlqabAsWcmkKHBw==         | 7A5FS1YK8JBrOvum2qkjYw==
+ GOST      : yJYxsU0AvxU5GpjI43FdIWNO4j2Ym+FV | TV4ZPnu15fV44D7xWYJrNWREuVd5mWrs
+             kk68tYZVuek=                     | sDVdWbebDbI=
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/History-journal
+ Size      : 0                                | 8720
+ Bcount    : 0                                | 24
+ Mtime     : 2025-12-09 13:52:28 +0530        | 2025-12-09 14:49:03 +0530
+ Ctime     : 2025-12-09 13:52:28 +0530        | 2025-12-09 14:49:03 +0530
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_mnojpmjdmbbfmejpflffifhffcmidifd_0.indexeddb.leveldb/000003.log
+ Size      : 815883                           | 817737
+ Mtime     : 2025-12-09 13:25:54 +0530        | 2025-12-09 14:45:55 +0530
+ Ctime     : 2025-12-09 13:25:54 +0530        | 2025-12-09 14:45:55 +0530
+ MD5       : JKS+mDWD3GxBoSaXdKP91w==         | /D/9dQT1iIwd7MBvsWoapQ==
+ SHA1      : rlC7eCW5k5I1Mbw+eW5YSfX8Lcw=     | RoAkw9ZfznMZtP63Dva4gMKBUNc=
+ SHA256    : kCGKY3razjUPwdLfqcpU9WIS/hN1mqYA | WYbQzvimeuFdty4KPs8SFG0BdRr7u5fD
+             +E3esUKsiRg=                     | sFI1JDXS2i8=
+ SHA512    : ZDW3T3nxzj0dpf3iaVQqPcDO0jKrCHQe | ZkHRBR9uDHy++jj8xVLn3z9DRrOHs5HA
+             ZCV2jDTQ2xlVmhuEZ4vPeHZBVKja7a0S | jXFY1hMK04EoJVF3pYxU9dYbPPGcS4cg
+             Z9DKP+bFx+U9sR++X2IxkQ==         | ivmADtmYoZR8R6hd0xe3KQ==
+ RMD160    : jX9ixgmeWewGNiz0yxT6MpaoLhY=     | Hd2SepK3UZVX6b700zwbWeqtHes=
+ TIGER     : 1h5wD/bmSidg0tJakmA96g4yTdyR3JuI | NN+W7x7vy/i3HQAeS7VQ0VSDjlfA/pJ1
+ CRC32     : uTERdQ==                         | W3dWPw==
+ CRC32B    : VyApwQ==                         | 2Z5sHg==
+ HAVAL     : oOOjvDVrWAG9T1JzB/u28tonKKADA/LB | mGEh4WdVb5kkgtZ9cS8oYg8Gsja6RXlQ
+             g0fKLbqSKZg=                     | D/2LxvtK60k=
+ WHIRLPOOL : tUtXPrO/8uBiQ0+kPaUn9dgnY6Gq9Yi/ | f4YI8plXcEcdAwzJOe6KEOkBSI7wym+G
+             qCCEoRxfdEUzWPl8sZ/g4KcW3loMO3dA | u/yQh+jZoPByHRpVBzN8o2jA+uox7vhe
+             PT1fGUr5j9pNo3PBg/fQ9Q==         | DjRAor/kQyx+8n2cK2RqCQ==
+ GOST      : dtAc8G1x6/0o/cKqNojU0hPm5Zs+W3f4 | L1bPUJ2sqO4qsMOstA7uGGK7ac3JXZyh
+             thKZbHvR+Z4=                     | iJhYkv1DWhs=
+
+Directory: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb
+ Mtime     : 2025-12-09 13:52:20 +0530        | 2025-12-09 14:46:11 +0530
+ Ctime     : 2025-12-09 13:52:20 +0530        | 2025-12-09 14:46:11 +0530
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/000004.log
+ Size      : 361                              | 418
+ Mtime     : 2025-12-09 13:52:20 +0530        | 2025-12-09 14:46:11 +0530
+ Ctime     : 2025-12-09 13:52:20 +0530        | 2025-12-09 14:46:11 +0530
+ MD5       : QaEzbins3jv+dycAooVeQg==         | cspyXnyimCjYSGNpybD4fw==
+ SHA1      : /zuCxoUGfzl5Qj2u/V7wS+JIhFM=     | LuYYIcJ2jtuV8gvx5xXqlecf1r0=
+ SHA256    : xn21rRQ/fZ4TCZ0eTytAxtU6qdVheHjF | JfGmNN3PfkGx9sXvMu4qOEA/GsIxZgm4
+             RXAaXxlSwvQ=                     | R/PA1ROQzQQ=
+ SHA512    : OpYVQud6zCx4bnHy0fngS2Fxq45xPX/r | kYN8tn4WwhjwQ+kh3zQEPQutZmUy7z/N
+             2/ZK8ZCJngWZsjrg0RvwT9KdcQR/678r | e83xGa3eOV7UjW1b1Jw5H8f6A6knDJE1
+             hnpo/hbrVin6umG4rVHeVw==         | RJCbnqUQBAuQfw5owayxjg==
+ RMD160    : aXndIRdiWq2jQ3vROvcyJVAIJIQ=     | PEiHmuTOpfZe80+VfpW2gr/1d+0=
+ TIGER     : MEFFv+f6AisDh/2OLF4FcKcGP4cvgBqT | SY9WP1Sbf7SzppqvhYsNUOBu5uNlBOIL
+ CRC32     : 2mTNTQ==                         | AlUvTg==
+ CRC32B    : zphuyw==                         | 4idvFg==
+ HAVAL     : +XA8GlhUUnVOhuW0+By3vnbryifampVC | zR4mmaJPrbLZiAb2v0sRsIaxFswZpp9Z
+             W3gh1vqXnVU=                     | vXThpfeE2k4=
+ WHIRLPOOL : owAkaROr7eakilzYQmh9HvhrhncqJ1H2 | ZcQu4Loz98FfVtIMTdBvHAD+UJs2SGvE
+             A62JU4X/nQbL7DhDwHA9zcsb1oPvKssQ | joLEyH5oQGPDKOTlpzw+8T8IfmJXwTrA
+             bLWScki3EhGGu7dDPJnxbQ==         | z3Fvncx4Thx6eloDo+Uc3Q==
+ GOST      : xO609wbN6btUMjqdMPPx5clBOP+rNCjP | mWLPd64AVJ09Qm17MwDOEJwstqZZ58Gf
+             E5/+b+8MCJM=                     | aLROJmefqew=
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/LOG
+ Mtime     : 2025-12-09 13:52:20 +0530        | 2025-12-09 14:46:11 +0530
+ Ctime     : 2025-12-09 13:52:20 +0530        | 2025-12-09 14:46:11 +0530
+ Inode     : 787237                           | 787331
+ MD5       : PgG4ZpLHc88wrrVSowjaOg==         | Xtbi3CFwhZpkrNY/og7LHg==
+ SHA1      : 0DvXDofq/PoOcRWYb64dxcMlniU=     | C8uXCzc3F2luy6ccYKxBQCynHs4=
+ SHA256    : M6UVwbDe/lsBGMrmQrK6HcC17rR9Y2+H | 4XdLSeffYNkidDhZg0h68X6CVTM/HoxL
+             Sj5+v0ahYJ0=                     | KAhjpiIod10=
+ SHA512    : 2y7YveMdaF9a7qXWmaYJW7MDELI4znVK | Tu6L8YOubmYsdXBkyGe2J8e3ErXBDRyP
+             TOW35odiXkbvU+DWfKXBHrZTzzDqELqa | /ZfcKXzmHTijEB3LSDpwhV7sP2xKxBX1
+             zXesk4glhsDFCy+R0JqNHg==         | tT5/9Zy3+vHTmi/QkM0uwg==
+ RMD160    : qVIR4mNHptOZXWL1j9sIGfO/Z9g=     | TA0+AR4owEdM59780FqVedMvWUc=
+ TIGER     : 9hh9HPeZn1AArWjtSLr8pLlRIPMHPO9E | gil8JHUgL1G4re93NfDgcgm1bpv1NvyC
+ CRC32     : I0dQzg==                         | E6iodA==
+ CRC32B    : UBAgzw==                         | KuxSdg==
+ HAVAL     : +yfv+tCppIeaUP/qBTKQOKNTsRwrWiIK | 0IA49O2T/r3xmnn6UH9wLHBV2QZKfDrD
+             Imx+UVxhvdM=                     | cdBSLi/PtNM=
+ WHIRLPOOL : 9vZKSnNKc6vSbkjpBZt4AsTbRXvQpqrr | E4T9UIpa3sZEO8DZ8LEji3OGkwl6LRRU
+             XJ+Sdrgo8/LC4+Ov/uxJTTfTR6FlYxVB | 7DmORvnVNDbzIJ8TzopXxorMfsA8jcjV
+             NGDqlNiJfX2VHY++BAwHNw==         | wdoO6J08lv7dRvi9KGAXBw==
+ GOST      : Vs6hJimjIsLhSIJzRtY11V3Uvt3zU1mq | cEBY9faaNFo3kRREsS0m6PSJOLtlNffq
+             09nBNS0ubA4=                     | CMHjU0kRkTI=
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_chatgpt.com_0.indexeddb.leveldb/LOG.old
+ Mtime     : 2025-12-09 13:45:53 +0530        | 2025-12-09 14:41:07 +0530
+ Ctime     : 2025-12-09 13:52:20 +0530        | 2025-12-09 14:46:11 +0530
+ Inode     : 787331                           | 787237
+ MD5       : 4iAWsJzBcsX4WLQu2Us+Fw==         | 37T9D+oy2XxsbF1PEGQ8IQ==
+ SHA1      : zghoQWtNJEQhvvyGRVRzkbbuPoU=     | zyaBthe/3ncz1fBmy01wRw4FwZs=
+ SHA256    : +GE1BW+sPXpNu47asONMO6aYt/WiLyWQ | bZi7xEalWC+gcaoWIFfmP8Z3LjMiqX8D
+             fIqNkaCYD8o=                     | Vob2cSWxHVg=
+ SHA512    : rJm4xHRa5fquJemzIhz6CboPyAlLCUEw | w+5ZdwVuIgRsurGGFkAM+CToGiv0cK2J
+             iQT/4GbVNWvQT4rsaGCRf8R2xLDUVq/p | R2mmtC1QGyDqE66I9zqsosk4vi0pmJyj
+             kpmCZOj40jWs6GNtHEfXTw==         | +suH01RibMIodbf1HBQdwg==
+ RMD160    : SJQjOhd193PaG+ScoVmDqk01Umc=     | yMCR6pA6ZoiufVXJYBuazc9gli4=
+ TIGER     : aoMhBhRsOy0JAlvok1sZggrj2P1Y3dy+ | 613AAFx1uiHTfuirGCSCZ4z6QjMglgEc
+ CRC32     : FmJtGw==                         | 8ULNAA==
+ CRC32B    : nT0BfQ==                         | cjPKXQ==
+ HAVAL     : A/UZzD74HUYc/BUD6KIz4iIoHnH1SZOT | 1xuFCWPiUj/euC20tm+Ibojtnyk+fsZI
+             ohdvPnjEhRo=                     | zYyagGuTzFI=
+ WHIRLPOOL : +Ur6C9LN4Bxymg7zMYnABXueSgsgLHKX | rA0+vJ4FQ2LBoeBcFRA1r/mDgOSNpefN
+             5alVDBFi0rOnWpvWO0q8rGX4BkCQzIgO | K1CCgBBj5TFsz083uO9m1p5h+m5T/g3h
+             XIuRm7k9b/kGSgfEukhr/Q==         | k3zqy0q0NRkeBNtLJnl5cQ==
+ GOST      : C5oIaQyr/+xOoRMeAuvY4jj/46ncQtOq | oC7Yz3Cg+YiMc0hWBfodJJfm2k2P1e1e
+             VhrpsIj/oHA=                     | FP1kC8nfEwU=
+
+Directory: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb
+ Mtime     : 2025-12-09 13:26:02 +0530        | 2025-12-09 14:08:18 +0530
+ Ctime     : 2025-12-09 13:26:02 +0530        | 2025-12-09 14:08:18 +0530
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/LOG
+ Size      : 384                              | 549
+ Mtime     : 2025-12-09 13:26:02 +0530        | 2025-12-09 14:08:18 +0530
+ Ctime     : 2025-12-09 13:26:02 +0530        | 2025-12-09 14:08:18 +0530
+ MD5       : kCDgYAp2YlKnkOkbrLSqmg==         | AZwtnMSHZE2w0WaZezhKeg==
+ SHA1      : 2z6h273LqPHPSv8am96VoMDRrtk=     | iQ68DMqp41NUZCVZCv3ZHTqS9Sk=
+ SHA256    : rkfLWlcDafSAQK+9SNLyTBo+f/kCtlMU | X5dvV3fM3zKR0EXZ2s1rSRWWOmJYniZo
+             F0dKJLNhqdA=                     | mysaGAN5wQw=
+ SHA512    : q9Tbz1Qpfy8xBEjC4XCp1FiJn0Ck/Zxe | LscBNKn3XppTgSTGOGFQpynSzDGsIdck
+             W9GLbrcK+8aeCFl8sCnrtJu+CrjlJh8U | 8QzXYQ4wJ9dt9pAhMUB1CTka83Cgf6p3
+             GoYh5/IuO8V5uv7oY9OoLg==         | 3WFAME2ICnOHlGivvSzwPQ==
+ RMD160    : AKrhjA88lWUJ48oVTeIFwg+KAa8=     | pMfkfhXsPOhsAoEi4uOnFUXw0o4=
+ TIGER     : 894vONdiISDBuQXQAfsAVcg2susJwqGz | nS4YyV4APTzkshcSCQ/srZ4JytZ5TT/I
+ CRC32     : mCucAg==                         | HBMW7Q==
+ CRC32B    : 51RMSg==                         | WlhK7Q==
+ HAVAL     : uxnGkHYg8V6TZIVGLn7LMKlNJPNhnY+d | Y4aUO8yHzv5+L5xnb7w88iOhF0j01OEm
+             S0SMOYqCV8I=                     | +8IqoK0b9Rg=
+ WHIRLPOOL : oeMepcJdZQ4rylOGC5U+SKox2DrBxHEu | Eju7AkJIas7Dhz/0Xf3w2DEfK0yLfxCL
+             fXJtRLv24Mfr2dyJIbhXWJrku7Q2nc70 | hsOWjJR+XiozJX2adW1R5fdWUX+PnkRW
+             4qPnze1rlZDFJr4tH1+fgQ==         | tHRP2+1CZHYEdxbSZiocyA==
+ GOST      : Ck5PEVEGCNTxTvydEpTyNuEUXsE059gn | I7VhCHu3EWr1p59QPdAMrHQfGD0MBzAY
+             ubJz4Sxsx30=                     | iuhvTwedB74=
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+ Size      : 1860                             | 1931
+ Mtime     : 2025-12-08 21:04:33 +0530        | 2025-12-09 14:08:17 +0530
+ Ctime     : 2025-12-08 21:04:33 +0530        | 2025-12-09 14:08:17 +0530
+ MD5       : Z3+swKwE4YI1AQ3paSvItQ==         | ReEWGcNybZ5y/Ip51RARGA==
+ SHA1      : ZHEJooA+JruwvzY0/lkTP3kzCto=     | mSATYHczwftX2hr6J8lyMakpwos=
+ SHA256    : 7fd2Lb8vN1SUy3D6tu9i3U/JDSv35xrc | daHe89h/MdcTymodD0xBOHz26Bi+tM6y
+             8zAqeSbHYws=                     | IexHUEiJdIQ=
+ SHA512    : RcIJt8aSjLAdMLb+C7F0gLKCyvl2KTZp | HhjLe7OZo25o4ZYmaAKw0BDMOOT80paw
+             0pX2FNwUi18h+XeTlMJbk/CmhEfeHWMu | 09SfpgI8hGb+pFDYV1TmORDjW4cJ2u5E
+             IlTxEwFcMd0Q1rij1uPcjQ==         | i/xsTr5LEUHBDUApW1tZrQ==
+ RMD160    : kgi1VoS2RTBkyd6dMzUFAc2YGhk=     | ONQqTo3z3O8uvNajy8PczQIg0q0=
+ TIGER     : JCy1Zfe9ZQ8uLqze5JBOXd/nXd7NFnTy | yLWL/gqjgJ6ZKbSqXwOEXTkngh+k97yi
+ CRC32     : w27YNw==                         | /uF7Fg==
+ CRC32B    : juyLjw==                         | kzAvog==
+ HAVAL     : O8GJVTkgVmu02zUuCjCEToRkusyJRK7F | neFtX3HXo32+HvwMNvSruY1nDrf5+TVu
+             K5+2jBmCwCM=                     | 4REs4AXnt34=
+ WHIRLPOOL : 1FY0MGiIFBCFISP5zHzvhLh5FuXIy0+J | zomV/iRdR3qPQcfJ7d27r+xj5732YTgC
+             kojTS4FRVK79x/YnbCVMN5rZ3e1TqUsb | xBzZjnN9DFU+v8h+gAZX7bYF6r97qK1V
+             lvuuIRcgRysBvFatwdng7A==         | kGml11CdzCkSiWyz9w+LHQ==
+ GOST      : fstGSxqTDe3YE2tBk9EWOlUHcFjpBSSu | gG69b6ws1XUPR38KOtwdsCa3Ce4OXUof
+             n5ZKbYthjH8=                     | EEnGZtj7+2g=
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/mnojpmjdmbbfmejpflffifhffcmidifd/000036.log
+ Size      : 3011822                          | 3013891
+ Mtime     : 2025-12-09 13:40:45 +0530        | 2025-12-09 14:54:55 +0530
+ Ctime     : 2025-12-09 13:40:45 +0530        | 2025-12-09 14:54:55 +0530
+
+Directory: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb
+ Mtime     : 2025-12-09 13:52:35 +0530        | 2025-12-09 14:41:17 +0530
+ Ctime     : 2025-12-09 13:52:35 +0530        | 2025-12-09 14:41:17 +0530
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/LOG
+ Size      : 655                              | 1286
+ Mtime     : 2025-12-09 13:52:35 +0530        | 2025-12-09 14:41:17 +0530
+ Ctime     : 2025-12-09 13:52:35 +0530        | 2025-12-09 14:41:17 +0530
+ MD5       : G3R05jGTN+MFHQ/Uk4ITKQ==         | qiKEzRXZ+2XOdd8jxteBNA==
+ SHA1      : z2Witath4sp6sPJ0SqUiKhgI5tw=     | zClDBoegc07knjH0jZ0V4FnZtMU=
+ SHA256    : 5a6P8ypoMPJc+5AqmPjWJAvOtPyJx1rO | 3t4n5aymLvSmp89PVZ7FQYfFLZHzDrCq
+             seOF1e1VbMM=                     | YmIQiyJrAsE=
+ SHA512    : xF/rpkF+XHRjc/mgX5e4PSqI03As4W/1 | h3yIkofOikQrZv961fbtnszcpqTWyUFG
+             +nM/6WWliZKh0Iu2zScZhQeQ6i4Du3z8 | PXrHdvQ/+zJ5dkNjsLS7cKqrvsb59X/s
+             OC24f6oDGWUSVXgoX5SLfQ==         | 0hWauUO80XC3APa08eM4Og==
+ RMD160    : d6XeBzvaRGBqUJOsiYTuHmuF+Zg=     | VXVeYQOnI83Z6yqlKko502xgelQ=
+ TIGER     : 2CSH8vdrWDsxe027tIpgaf9aqFYTe6Nn | 8KVGCE5IczMUUFE9zmI5EEq5DGwuNOLi
+ CRC32     : Mx8olg==                         | fuKb9g==
+ CRC32B    : TnlSeA==                         | gUfL2w==
+ HAVAL     : M7P6hgBjFGUWSzGUuWHpIZ1scShxAviL | B2yLkM0wfeV3rayEUWhtKnDN/JG0sI0I
+             Nfn1vG+vk34=                     | yuPhW3HF9dI=
+ WHIRLPOOL : KPebDbKuejg2UhVBi/gdcrEirJ2qiHb6 | a+M45teC1FGFNpZ+CvH7kjmHKz9do5+F
+             n7p0iRWICIMeNFkYKi8ibYYmAeQuSUdJ | XCO9yXH+KzquW8H2nqtz76pCv70R0t/D
+             8K5eNx4zRcovziA91OOOVg==         | Qrg+t3I4crnQgSr26HP0xA==
+ GOST      : Y9Y0yWOv+KyfV+ITsXumdI45NqLM8AAl | 4ZmD5bcP8z9msJ4c2KADBM1ACIa03JZo
+             8QCUHgbsaJQ=                     | PC8FXzW8flw=
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+ Size      : 4869                             | 5209
+ Mtime     : 2025-12-09 13:52:35 +0530        | 2025-12-09 14:41:17 +0530
+ Ctime     : 2025-12-09 13:52:35 +0530        | 2025-12-09 14:41:17 +0530
+ MD5       : VSeXFp3Vs35HjdfVC6+7Jw==         | 5JGU/+/y9NPXTknjLRAdhw==
+ SHA1      : BM/muUvO654336MByv2YHSBpv9k=     | 7hpvlEUx5fPwmXa2jnsvhL0Wo6c=
+ SHA256    : ckxtTisAlWJzny4cEb51OMvZb1mtTDQ5 | VC93GTNGZ/aZLJ63WQWRYKMT8hdm30mp
+             l9PN/nVhrSM=                     | kLzcoaTeIHI=
+ SHA512    : +v55Ja+W72uP7cIRi0fLERy0G0Jr8ekB | bSameyGSYCO6vH5nKHR4t7F7bv4uZry+
+             sNWbihT72zCV4AhS6UsJcorVRLf9ilMY | KM3ez/AdZrpysb/05UE/49ejHtZ6SUSt
+             eczCarf0STG1DFBx/HSzUg==         | ucHn0RTYvInJqYWZmnJHFg==
+ RMD160    : XoRaMfArRD0Jq9R0G7c7qFwkfiQ=     | NHIgTAJES2Bm3C1UqsBVntgZQp4=
+ TIGER     : Evhw3fRlM2h6fQKcXCWYrlhofFzuk1rG | 3yOmqliYPUVDuRvcd6E3xAMqFHEizUi2
+ CRC32     : P3KUrw==                         | VGW9DA==
+ CRC32B    : IpeUkg==                         | R9mR/w==
+ HAVAL     : TQcKGwisplnLDZe2HJnEVK8SgOv5GKNw | Ym7EhBAson6ULg85rsInlrrRi8KOiRts
+             uIwvMByj8l8=                     | tPNYrrutX/Q=
+ WHIRLPOOL : GFjScj1RSvTxHvS+4tePP7n7hTwH74jA | 07Rl5tJ/rXG0Du4hVDaoSMGXquetCMsu
+             ndC3nKRekbBUFOoMDFS0STxeh/ncrjS2 | a4sKxaHS7dp/yxQwG1mxchlo0f9+D179
+             rUAyCqR+ACYzvoi7gIkBWg==         | /+qWcWqMuxlhf2gLdRiizA==
+ GOST      : 0o4qNHSMOAb6lX4YngQIms1Otm/KQHzy | NHe44WdHkxsBdrf2RlSD5q3KHqfQQPql
+             sGdK2DVgKSs=                     | 53WUpLzzlgM=
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Network Action Predictor
+ Mtime     : 2025-12-09 13:52:25 +0530        | 2025-12-09 14:46:25 +0530
+ Ctime     : 2025-12-09 13:52:25 +0530        | 2025-12-09 14:46:25 +0530
+ MD5       : 7/xGOfJ8LcQcxlPkLp/+gw==         | 5UVzkJlLlWsy101LzQWZrQ==
+ SHA1      : zCEbMm2TDUJXMRvnzr0VG9W85cE=     | IJwwrioLEV4MTMY3KyxjEwFlVD0=
+ SHA256    : YZ3ZW7GwUx0pqiszEwuKXxVfLuy0SpZU | QPorSjpcDQzPt6nnziq8dC5eMBKc3eYB
+             CFxfbxKdZ1w=                     | St3HAc82kcs=
+ SHA512    : Bij9RHuO/LPMgbWsYq9Ok8qZUOVF2VE2 | e+qV/3/Yii61QNtFfGLClwroVjvJKnLO
+             qnOAEqXtuHA57DGvDJCgLL/pNH47ZLRN | o3FcCXpdeY55TSk7Qxm/0Q8msJ1gNYYd
+             AWcvPHR3htw/BR3FD+hD8A==         | oPb9FHQI/AArEjKbDkDo/Q==
+ RMD160    : REwuyZBioXSCWN1ugs8XsbhFcA8=     | Cs5qNilY1y/V4Q6qHTZQ4qr37eQ=
+ TIGER     : n4iHXQpkKqUowsp0fg0OOfT/a3L3f5Y/ | YgaCx28iBjR7zg43uEt6td7yS45Q19Kn
+ CRC32     : PnsN7Q==                         | Yl5jKQ==
+ CRC32B    : 23ef4g==                         | 9eEpww==
+ HAVAL     : Q1BEFeV5NjrI1QaxsWctxD5DUqYYeEuf | b9d5YBrkSypTmE1pqX79gfC46dqTNFTn
+             THJLSzNznCg=                     | +M6OZ3InJSk=
+ WHIRLPOOL : T1fMRjcE88q1vay4xfScWPBcjPCG+JDN | TypU2gZb3m7/xMnANHt2p3Tl7xatkhjE
+             lDvrXIoNM/Iyi/QKkL22+RfYMh8T1ipG | 0ffWNpiZQzIP4voDAQF3gz13eKiF2hz2
+             Q0TEEd1ydutOzyzMTsZnRg==         | wAQ+iHyw6NS2YfTmvzscUA==
+ GOST      : Jd3uIdxkDRmJUplUFfmpjPInGuvsRKQr | MQKfCtOyGSPa1dHheOdziuF6r6ZFbD/C
+             w4EbNwQa824=                     | lx1FyIDD3mk=
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Network Action Predictor-journal
+ Mtime     : 2025-12-09 13:52:25 +0530        | 2025-12-09 14:46:25 +0530
+ Ctime     : 2025-12-09 13:52:25 +0530        | 2025-12-09 14:46:25 +0530
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Network Persistent State
+ Mtime     : 2025-12-09 13:52:56 +0530        | 2025-12-09 14:52:56 +0530
+ Ctime     : 2025-12-09 13:52:56 +0530        | 2025-12-09 14:52:57 +0530
+ Inode     : 795227                           | 795198
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Preferences
+ Mtime     : 2025-12-09 13:52:55 +0530        | 2025-12-09 14:50:51 +0530
+ Ctime     : 2025-12-09 13:52:55 +0530        | 2025-12-09 14:50:51 +0530
+ Inode     : 795184                           | 794311
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Reporting and NEL
+ Mtime     : 2025-12-09 13:53:19 +0530        | 2025-12-09 14:47:10 +0530
+ Ctime     : 2025-12-09 13:53:19 +0530        | 2025-12-09 14:47:10 +0530
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Reporting and NEL-journal
+ Mtime     : 2025-12-09 13:53:19 +0530        | 2025-12-09 14:47:10 +0530
+ Ctime     : 2025-12-09 13:53:19 +0530        | 2025-12-09 14:47:10 +0530
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/Sessions/Session_13409740541717710
+ Size      : 406183                           | 429999
+ Bcount    : 800                              | 840
+ Mtime     : 2025-12-09 13:53:38 +0530        | 2025-12-09 14:46:32 +0530
+ Ctime     : 2025-12-09 13:53:38 +0530        | 2025-12-09 14:46:32 +0530
+ MD5       : eC0jB6mNw4UTaludE7Xwvg==         | Jlg/VjX0eXAIuPXff7OzpQ==
+ SHA1      : JbA5VH/TdNR3MD/0A94pFQTLt0A=     | 0gECgH4eTEhpYtMOzAnT+EwVHFg=
+ SHA256    : rvx7QR1u3vQSUlSiHmsx9R5QCfZxb7YU | 8NIGnSSzOGNSW/ea6actfK9zu7EeMjBN
+             RausawML/lM=                     | KnV1YsRATUc=
+ SHA512    : Kt5SP7j/I+jwKHfjFsciBEV/hfsi9w6Q | rvHKCEpqs9h1Gmdz2iY671G4Cx+YC9aF
+             MaM2h9cu58PyGwpcJTqIa8g4RBxrWmmr | VeGDw9o0yN7UPnmIEeVK5fFvke+giMaH
+             /FmvnSY4ux7qvk9NY+IkYQ==         | iJDe47VjrsoH+mLw/B51tA==
+ RMD160    : pXQAFjKNr1TFyWv21lgFTizRNLg=     | mTX9A1sOpeII/JHwHghZ0E4ihFg=
+ TIGER     : pPKDPhieVvQibqDvnGPAW4pQShivISzu | CAou8+OBzMKiMckjUWeF9DgiPIKTNyJG
+ CRC32     : v4Ffxg==                         | GMK4Zg==
+ CRC32B    : KjofcA==                         | yk6mRw==
+ HAVAL     : WEYEiXahmf/aR1U+M4GqfJ+Xo45UzqOs | yorCQbh3aBEG5pM5b20/W5exugMl9lC8
+             sCFaxaY14sw=                     | DnljtFkNuJk=
+ WHIRLPOOL : 2fEZRaCCi8zB7IOSzSzt+Gozv6R752L/ | DrtUVN/Zqro4rEgZnn+3tOCIjcNcDPPU
+             achENNBwAkeOm+XH4uotDDZiwHsin/xZ | UnzcTcMeJytwpu4//xUzXQ467EwiiILP
+             MQ+tEa8M05/d2tyHkRWrMQ==         | DSaKKWUB+2hZOBBeIpO6zg==
+ GOST      : u22G3aU7QCmKrysvAwxk+/aRc+4XRlEg | BMUrfljUr2W88bWbc6G2DCu6ja+/Lr19
+             JstZT92dlMw=                     | yd2LRWaUTdg=
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/TransportSecurity
+ Size      : 7705                             | 7704
+ Mtime     : 2025-12-09 13:45:48 +0530        | 2025-12-09 14:43:47 +0530
+ Ctime     : 2025-12-09 13:45:48 +0530        | 2025-12-09 14:43:48 +0530
+ Inode     : 791401                           | 790686
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/WebStorage/QuotaManager
+ Mtime     : 2025-12-09 13:52:47 +0530        | 2025-12-09 14:54:47 +0530
+ Ctime     : 2025-12-09 13:52:47 +0530        | 2025-12-09 14:54:47 +0530
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Default/WebStorage/QuotaManager-journal
+ Size      : 8720                             | 0
+ Bcount    : 24                               | 0
+ Mtime     : 2025-12-09 13:53:17 +0530        | 2025-12-09 14:54:47 +0530
+ Ctime     : 2025-12-09 13:53:17 +0530        | 2025-12-09 14:54:47 +0530
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/GrShaderCache/data_0
+ Mtime     : 2025-12-09 13:44:13 +0530        | 2025-12-09 14:46:23 +0530
+ Ctime     : 2025-12-09 13:44:13 +0530        | 2025-12-09 14:46:23 +0530
+ MD5       : /nVf41NdAMK2p0sxvtNFHg==         | zHMQiHyQPrFiQzXCJJzv1g==
+ SHA1      : fzgpzujs86d6WgqGP2FamMlaNnA=     | sf35cGvIKiXtUbehY6nrU/5QMoM=
+ SHA256    : mvMs/q4Vl9JpNjJVjk9daOtLwdCszNJw | HkjS/Q+1iIOd7LaEvxRL18WGN8SVgZn4
+             VJmYEPKaoUI=                     | ECYU2L1k4B8=
+ SHA512    : bIFpXNMVHkLszLslRf4EVoBMdn8P+5Ek | AQrKoJPSL46mb7Fxu0rRGBWQKnnz3XbF
+             IGyJhYATA6O5pka32P/SkrjIVKV6n7Qy | WlXQ0Kye1Sqe7QGyzHsrO4KFL05iq1FT
+             nlts2l0HjhcGDbf36zw6cw==         | GJgAsCkO/5PKTij6Mt9PxA==
+ RMD160    : cR0q7OPhrpLV1PFtPcntylAZe/I=     | Lq82tHyGoDu4Kaf69rRpbclZWb8=
+ TIGER     : rfAjLlmQrQ8i+ICaGwmPGkab3gZy5p/F | b6uOIul8bo1I6rcu/Ff5p8gn2/G+2RY4
+ CRC32     : cF45fw==                         | zORG7g==
+ CRC32B    : MW/oFQ==                         | uYtmdQ==
+ HAVAL     : kvV624ZdORAI55evRh13wyzDRc6HCmWD | xmgRF+lLKfgSfV3L8bqMp8rbHl+YJgfP
+             rgacMKerOuI=                     | 6/UUqT2j87E=
+ WHIRLPOOL : x7cBmCOURqDLHIh2eXCkv+ELzf1jFckL | VDexiMgHnzqnwDg/WFVtfXZjdYntcsjG
+             j62wj+aYQKeo5SiyufpxGKv3hw7VF6kA | hBh1F10unZrKBXy6oJG9bAmnbMY44bE4
+             6ucQmF+uvt7KG8WP7TrfGA==         | kQJRHo3uhEUfuBFQvE9gvg==
+ GOST      : mBgPlzO+nwQtXFZR0Iw8/3S/WehUqWdT | P5vGxompeGnfJRQUnvbeN/7Io6FgjPVc
+             svaStLDaUAs=                     | 4dxCDees5p8=
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/GrShaderCache/data_1
+ Mtime     : 2025-12-09 13:50:42 +0530        | 2025-12-09 14:50:43 +0530
+ Ctime     : 2025-12-09 13:50:42 +0530        | 2025-12-09 14:50:43 +0530
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/GrShaderCache/data_3
+ Bcount    : 14536                            | 14600
+ Mtime     : 2025-12-09 13:44:13 +0530        | 2025-12-09 14:46:23 +0530
+ Ctime     : 2025-12-09 13:44:13 +0530        | 2025-12-09 14:46:23 +0530
+ MD5       : gYBGjrp1pqPJ7KWHf/DZSA==         | kXvpeUIymkvSvDIECz5EpQ==
+ SHA1      : teN7fbZZF1DQj7KERZn3uAmQszg=     | sAFcxTzipGwfUznMTABfjh+Mhvk=
+ SHA256    : iV7YH5Yv57VpZP+z+Zr/tKswEPwcE7Xb | 3tDEmnP1BJz5rVocVw8lUOHhtAu8Fwjg
+             yFuLIrYYxPE=                     | yU/5ZnpcwbU=
+ SHA512    : iejKmPymX/Q+wwBb68nq4DpydJNCdZr6 | c6UJpUjqlXya/kqBP89Bx9vIi+ZQzEvh
+             DlZPHiVrfO7rNVzFZlhTUZotaCSe/b/f | dzKP9HqsqiTWPEJ6ru3gV8UPQNppH99/
+             ghdUGvOb7Y7ywfMGAyJPcw==         | reji/X9azDD83SBHvGAPMg==
+ RMD160    : g6Fc4MwR78zI3g9khQSo/25Ox3M=     | 2uB2Ptkhebp0Ho62Q15SefL0Tjs=
+ TIGER     : QuvyhSR7q/tKhyN8hgVrxbm+VsMjTIyq | 0l/iOekEJjRi1iHas5aYOewH3EmSC1dP
+ CRC32     : FgseYA==                         | 2sScig==
+ CRC32B    : 6zWicg==                         | EnLvQg==
+ HAVAL     : sBTeT+pT7u1s4sTA68T1MQwp0DqDpNFK | b3W7Ex44BbRiKCVPbP7i/z9qaitQMwCH
+             mbokIZnmtRU=                     | yQFJv3axz5c=
+ WHIRLPOOL : sMu5wy0c7983KXYgBU51yxOqhg3U5i71 | p3QYt9z05ADZYyJ4Dh1rIhUYbNXCKPIH
+             gmAqiOJZZg86h2WzMpBqp9roSzfmOua5 | TIGFt1+N4LFssct6fIenSN8KpKM4czVq
+             goLIkkHT+NWSmVdeodQHtg==         | BAMA0YNRviVmQeIO0pjeOQ==
+ GOST      : Z0Tb98cf7pBhn0Sz8hYL/HhPwCCNmqLA | 3IFWLlaW7hoVgMZuNADkqJhWy3HA4pfT
+             kHRyAQMgy7k=                     | Yeqby1OX/6Y=
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/GrShaderCache/index
+ Mtime     : 2025-12-09 13:44:13 +0530        | 2025-12-09 14:46:23 +0530
+ Ctime     : 2025-12-09 13:44:13 +0530        | 2025-12-09 14:46:23 +0530
+ MD5       : 0TmFBmdVhoGWN9TwB5nkTw==         | rixllNQ6AUKm9B8qpyuwZA==
+ SHA1      : Bb3DjqD8jbSJBYd+vc9wNplWUMM=     | SXJP5cj7xE5nGPGIa0+zE/RRszY=
+ SHA256    : DVkvK6gf5Fw04Gw46L62AEYO8o95eJcP | dmK5xpA1TGnwj/3umRDSEVFVuX5YOQja
+             oz5KBhno7AY=                     | GMQGFLoaCjs=
+ SHA512    : AuCUmdg22WhPRHlG8q2gHz2BMdu6mFNw | 4kDg3araNSdf/3kz4b7Rm/Q0Jl2M7mH6
+             NGDbsgCxguDfHwtPtOCUg3Zl3SoOZEhe | OmUUek9JSvJ4lY9xlQJ6R8Mq1veTakaR
+             BCYPCCkbJ3Y9vw/jiPYK2g==         | p8a1JEVAwXlkPM3A65261w==
+ RMD160    : +uZ4wSkOtfnT6RcryL2j3N507Tk=     | 6ga25hvy2hNdFQvNQeQh6V6bdZo=
+ TIGER     : IlrVF57VC6sO0GV1JS5W/ejZBWE/X5+1 | /9UJLmeT3+sa+dQ56NZfamS5A5Tg/JhX
+ CRC32     : hb76qQ==                         | /FzR/Q==
+ CRC32B    : tpy9/g==                         | EkQFJg==
+ HAVAL     : 9d7xcqoXN5HW2vzNuKNd4P+Ada5OmoOU | F51oiIuWPDqfSA7uSxPh5hLcQ9MVcbyX
+             9F/VYaCkyWY=                     | CyhiLJ6DQ2A=
+ WHIRLPOOL : W9YD+EWSFPqJh8jolO/lbAAe9pDEaaTr | Kq03lvbJ4QQxR4B62rEQGckukoxritCc
+             ReAQBlbENYBmCXQwK1uH/VhX6/+jPud9 | AVKI38/n2X53QiFytPpxHG9zUOF0Rwe3
+             tWQ22+3SaeLH0opAdBvy/A==         | bDZDOoOaF/xc8Fhp0AhPnQ==
+ GOST      : GOnGxUncyzAnZAmyJY3o5qfUWBq1Tolr | 4oT186UP6kj9KhfFGX8H5JT+9vKt4vDq
+             CZXnXWJmybU=                     | edr5FJkeZec=
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/GraphiteDawnCache/data_1
+ Mtime     : 2025-12-09 13:50:42 +0530        | 2025-12-09 14:50:43 +0530
+ Ctime     : 2025-12-09 13:50:42 +0530        | 2025-12-09 14:50:43 +0530
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Local State
+ Size      : 67886                            | 67883
+ Mtime     : 2025-12-09 13:53:28 +0530        | 2025-12-09 14:54:48 +0530
+ Ctime     : 2025-12-09 13:53:28 +0530        | 2025-12-09 14:54:48 +0530
+ Inode     : 795225                           | 790683
+
+Directory: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Safe Browsing
+ Mtime     : 2025-12-09 13:28:41 +0530        | 2025-12-09 14:29:01 +0530
+ Ctime     : 2025-12-09 13:28:41 +0530        | 2025-12-09 14:29:01 +0530
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Safe Browsing/UrlBilling.store
+ Mtime     : 2025-12-09 13:28:41 +0530        | 2025-12-09 14:29:01 +0530
+ Ctime     : 2025-12-09 13:28:41 +0530        | 2025-12-09 14:29:01 +0530
+ Inode     : 790691                           | 795238
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Safe Browsing/UrlMalBin.store
+ Mtime     : 2025-12-09 13:28:41 +0530        | 2025-12-09 14:29:01 +0530
+ Ctime     : 2025-12-09 13:28:41 +0530        | 2025-12-09 14:29:01 +0530
+ Inode     : 790694                           | 795239
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Safe Browsing/UrlMalware.store
+ Mtime     : 2025-12-09 13:28:41 +0530        | 2025-12-09 14:29:01 +0530
+ Ctime     : 2025-12-09 13:28:41 +0530        | 2025-12-09 14:29:01 +0530
+ Inode     : 790685                           | 795236
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Safe Browsing/UrlSoceng.store
+ Mtime     : 2025-12-09 13:28:41 +0530        | 2025-12-09 14:29:01 +0530
+ Ctime     : 2025-12-09 13:28:41 +0530        | 2025-12-09 14:29:01 +0530
+ Inode     : 790683                           | 795235
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/Safe Browsing/UrlUws.store
+ Mtime     : 2025-12-09 13:28:41 +0530        | 2025-12-09 14:29:01 +0530
+ Ctime     : 2025-12-09 13:28:41 +0530        | 2025-12-09 14:29:01 +0530
+ Inode     : 790687                           | 795237
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/ShaderCache/data_1
+ Mtime     : 2025-12-09 13:50:31 +0530        | 2025-12-09 14:50:32 +0530
+ Ctime     : 2025-12-09 13:50:31 +0530        | 2025-12-09 14:50:32 +0530
+
+File: /home/ibrahim/.config/BraveSoftware/Brave-Browser/segmentation_platform/ukm_db-wal
+ Mtime     : 2025-12-09 13:52:18 +0530        | 2025-12-09 14:46:08 +0530
+ Ctime     : 2025-12-09 13:52:18 +0530        | 2025-12-09 14:46:08 +0530
+
+Directory: /home/ibrahim/.config/dconf
+ Mtime     : 2025-12-08 23:24:02 +0530        | 2025-12-09 14:54:48 +0530
+ Ctime     : 2025-12-08 23:24:02 +0530        | 2025-12-09 14:54:48 +0530
+
+File: /home/ibrahim/.config/dconf/user
+ Size      : 7732                             | 7266
+ Mtime     : 2025-12-08 23:24:02 +0530        | 2025-12-09 14:54:48 +0530
+ Ctime     : 2025-12-08 23:24:02 +0530        | 2025-12-09 14:54:48 +0530
+ Inode     : 794343                           | 795242
+
+Directory: /home/ibrahim/.config/tiling-assistant
+ Mtime     : 2025-12-08 22:33:51 +0530        | 2025-12-09 14:54:48 +0530
+ Ctime     : 2025-12-08 22:33:51 +0530        | 2025-12-09 14:54:48 +0530
+
+File: /home/ibrahim/.config/tiling-assistant/tiledSessionRestore.json
+ Perm      : -rw-rw-r--                       | -rw-rw----
+ Mtime     : 2025-12-08 22:33:51 +0530        | 2025-12-09 14:54:48 +0530
+ Ctime     : 2025-12-08 22:33:51 +0530        | 2025-12-09 14:54:48 +0530
+ Inode     : 794311                           | 795240
+ ACL       : A: user::rw-                     | A: user::rw-
+             A: group::rw-                    | A: group::rw-
+             A: other::r--                    | A: other::---
+
+Directory: /home/ibrahim/.local/share/gnome-shell
+ Mtime     : 2025-12-09 13:51:31 +0530        | 2025-12-09 14:51:02 +0530
+ Ctime     : 2025-12-09 13:51:31 +0530        | 2025-12-09 14:51:02 +0530
+
+File: /home/ibrahim/.local/share/gnome-shell/application_state
+ Mtime     : 2025-12-09 13:51:31 +0530        | 2025-12-09 14:51:02 +0530
+ Ctime     : 2025-12-09 13:51:31 +0530        | 2025-12-09 14:51:02 +0530
+ Inode     : 795162                           | 795105
+
+Directory: /home/ibrahim/.local/share/nautilus/tags
+ Mtime     : 2025-12-09 13:25:11 +0530        | 2025-12-09 14:37:02 +0530
+ Ctime     : 2025-12-09 13:25:11 +0530        | 2025-12-09 14:37:02 +0530
+
+Directory: /home/ibrahim/.local/state/wireplumber
+ Mtime     : 2025-12-09 13:37:56 +0530        | 2025-12-09 14:01:31 +0530
+ Ctime     : 2025-12-09 13:37:56 +0530        | 2025-12-09 14:01:31 +0530
+
+File: /home/ibrahim/.local/state/wireplumber/restore-stream
+ Mtime     : 2025-12-09 13:37:56 +0530        | 2025-12-09 14:01:31 +0530
+ Ctime     : 2025-12-09 13:37:56 +0530        | 2025-12-09 14:01:31 +0530
+ Inode     : 790707                           | 790694
+
+File: /run/NetworkManager/devices/2
+ Mtime     : 2025-12-09 18:37:09 +0530        | 2025-12-09 14:07:07 +0530
+ Ctime     : 2025-12-09 18:37:09 +0530        | 2025-12-09 14:07:07 +0530
+ Inode     : 2214                             | 2653
+ MD5       : fXOPGx5MguRxEyPt75Brqw==         | LhLyiLC1KxprdkpI5nbf0A==
+ SHA1      : KMuzq+vxTVNfSRz/+Ogh26ZGOyA=     | 1youEs1SNWlGarD3iRINIsQiQio=
+ SHA256    : OPJuFF1qKyT4+aojoEdsLWyZiy49GvYx | rTXvDvpo9SN99PiIveBgMyjPbw9Sv/eT
+             GjX+nNfPXWw=                     | /iOsjKoKg00=
+ SHA512    : Id/wDNWP/B76NlTZBPF1Vcbbxc/8AiAK | rhdpcbr0ufiwE/+ELIfsbVg1R1tYOHDN
+             fEZw1aPyUWRQElnB3h7n9ASWG75W8Pjo | l4VMnp1GIEiHXAuussjcQsOIZNItLqbo
+             DeI57MOwO/zVec7gLIGprg==         | 9keQR1sVg1UpRAMJHRiKbg==
+ RMD160    : 06KqbD3gqPX58W6P5+og6lWneis=     | xC+Z+QlX7T3oqeZ9dO0uEBnTJTw=
+ TIGER     : zN/fS+Ve4NAdxrRH3iRXdTWGLf1p14L5 | G/sX777Ud2O2+mT1LYIMHcnRI6wbKOYE
+ CRC32     : 2ehADQ==                         | 14g+xw==
+ CRC32B    : //MvPQ==                         | bV2dfg==
+ HAVAL     : 1q3B+GQVaMkXPTechTE9Cg+kG6R6omwT | EZfY7/jamCTqKIMFV7iVMZQaFL/nzD61
+             iPmf1s+WyBk=                     | AwYxdV1epIE=
+ WHIRLPOOL : d+s3VB2PXatyf7mF8jEygiXqTu/ccGBz | DzhCWn7UJEwMvRIKsZwDRKFLR+bTddGQ
+             VCj5UpIA45gkkGdXnS930NUVPSlVmrt4 | AvxR51Al1nmHk5Jr8D7bCYcsmgjueged
+             U9g2I58wKsUly+ihVc7CgA==         | l5VArbgTC+m67zy7l4enDQ==
+ GOST      : mVpZcmw2/7xvtkbyoKegEiUbMCvcnerc | 4IbRfLFMTtde7F18EP747M4I2GBWXttV
+             PJ//FQdKbyk=                     | kc2xW5kCc4M=
+
+Directory: /run/gdm3/dbus
+ Mtime     : 2025-12-09 13:24:59 +0530        | 2025-12-09 14:36:50 +0530
+ Ctime     : 2025-12-09 13:24:59 +0530        | 2025-12-09 14:36:50 +0530
+
+Directory: /run/user/1000/dconf
+ Mtime     : 2025-12-09 13:24:52 +0530        | 2025-12-09 14:54:48 +0530
+ Ctime     : 2025-12-09 13:24:52 +0530        | 2025-12-09 14:54:48 +0530
+
+File: /run/user/1000/dconf/user
+ Mtime     : 2025-12-09 13:26:33 +0530        | 2025-12-09 14:54:48 +0530
+ Ctime     : 2025-12-09 13:26:33 +0530        | 2025-12-09 14:54:48 +0530
+ Inode     : 104                              | 226
+
+Directory: /run/user/1000/gvfsd
+ Mtime     : 2025-12-09 13:25:01 +0530        | 2025-12-09 14:36:52 +0530
+ Ctime     : 2025-12-09 13:25:01 +0530        | 2025-12-09 14:36:52 +0530
+
+File: /tmp/aide-initial-check.txt
+ Mtime     : 2025-12-09 13:48:17 +0530        | 2025-12-09 14:46:34 +0530
+ Ctime     : 2025-12-09 13:48:17 +0530        | 2025-12-09 14:46:34 +0530
+
+File: /var/lib/NetworkManager/internal-7ea6f90b-3495-3533-948a-ef0035687c34-enp2s0.lease
+ Mtime     : 2025-12-09 18:37:09 +0530        | 2025-12-09 14:07:07 +0530
+ Ctime     : 2025-12-09 18:37:09 +0530        | 2025-12-09 14:07:07 +0530
+ Inode     : 2879620                          | 2879190
+
+File: /var/lib/systemd/timers/stamp-dailyaidecheck.timer
+ Mtime     : 2025-12-08 19:50:51 +0530        | 2025-12-09 14:16:26 +0530
+ Ctime     : 2025-12-08 19:50:51 +0530        | 2025-12-09 14:16:26 +0530
+
+File: /var/lib/systemd/timers/stamp-fwupd-refresh.timer
+ Mtime     : 2025-12-09 13:47:01 +0530        | 2025-12-09 14:29:26 +0530
+ Ctime     : 2025-12-09 13:47:01 +0530        | 2025-12-09 14:29:26 +0530
+
+File: /var/log/aide/aideinit.errors
+ Size      : 167                              | 8969
+ Bcount    : 8                                | 24
+ Mtime     : 2025-12-09 13:53:41 +0530        | 2025-12-09 14:20:01 +0530
+ Ctime     : 2025-12-09 13:53:41 +0530        | 2025-12-09 14:20:01 +0530
+
+File: /var/log/aide/aideinit.log
+ Size      : 0                                | 1168
+ Bcount    : 0                                | 8
+ Mtime     : 2025-12-09 13:53:39 +0530        | 2025-12-09 14:21:56 +0530
+ Ctime     : 2025-12-09 13:53:39 +0530        | 2025-12-09 14:21:56 +0530
+ MD5       : 1B2M2Y8AsgTpgAmY7PhCfg==         | XFDErGV2DHWfLnNE4CZ8Vw==
+ SHA1      : 2jmj7l5rSw0yVb/vlWAYkK/YBwk=     | fNaPicCVPmtVIMq1r31Yr403PAM=
+ SHA256    : 47DEQpj8HBSa+/TImW+5JCeuQeRkm5NM | pNrl8yscIJlutxM2BXgoiWZ1tmS2USiB
+             pJWZG3hSuFU=                     | yprFZ7LEWLw=
+ SHA512    : z4PhNX7vuL3xVChQ1m2AB9Yg5AULVxXc | kCnl7EUM74LXD2zqMHofLA+4HS9J5EI5
+             g/SpIdNs6c5H0NE8XYXysP+DGNKHfuwv | Vki1jrLlyCwbPJG6/hdZqzqSRnLFpBZJ
+             Y7kxvUdBeoGlODJ6+SfaPg==         | pfDQ5t/xK+LJBp35M3T0hg==
+ RMD160    : nBGFpcXp/FRhKAiXfuj1SLIljTE=     | Skl9fPTr29YJJBXY59aWbYYnZFo=
+ TIGER     : JPATDGOskzIWFm52sbuSX/Nz3i1JWE56 | oufgxaD+fqlBeov3iJdEIC8b/+hjZYje
+ CRC32     : AAAAAA==                         | mpLDHQ==
+ CRC32B    : AAAAAA==                         | OoU/0w==
+ HAVAL     : T2k4Ux8LyJkfYtp7vW994/rURWK4xvTr | 5cJ2K6gijf+QxFErXQ9Zq/p5F/lY0Uei
+             8UbVtORvfBc=                     | KL8U+TBOwak=
+ WHIRLPOOL : Gfph11UipGabROOcHS4XJsUwIyEw1Af4 | 3Zu6JoHvceFF1uBfFIioIQ/EXqViDGlM
+             mv7glkmX96c+g75piyiP68+I4+A8TwdX | HXW/QdgLhKfFdxtJD16P9udOlP9YRqWF
+             6olk5Ztj2TcIsTjMQqZusw==         | wNdgEZ/t5ewI7d7H5nBh2Q==
+ GOST      : zoW5nMRnUv/+41yrmnsCeKu0wtIFXP9o | mESHC7aBlqiqfhs5rFWeSV+eOdz4iOOk
+             WvSRLElJD40=                     | 83Co4+20YOs=
+
+File: /var/log/audit/audit.log
+ Size      : 1380750                          | 1417604
+ Bcount    : 2712                             | 2784
+ Mtime     : 2025-12-09 13:52:47 +0530        | 2025-12-09 14:55:01 +0530
+ Ctime     : 2025-12-09 13:52:47 +0530        | 2025-12-09 14:55:01 +0530
+
+
+---------------------------------------------------
+The attributes of the (uncompressed) database(s):
+---------------------------------------------------
+
+/var/lib/aide/aide.db
+ MD5       : 9vCXzoZJqvTiAHm5LGAGbA==
+ SHA1      : u53a77v114dZMqLGIZpEKBqYHXQ=
+ SHA256    : 0Yt5olOTW0ZxVvDLtQ50bSJ4vcCA8zve
+             6Z7YSozWkqM=
+ SHA512    : IkLj0GCh+rbHsflpwCb+GHdfEQxvPo1B
+             fuwrW9g37acswznBMmlnMWa0kRUGUKZr
+             pRdnraH2VCC8aljKzqLs8A==
+ RMD160    : qEIWvDywowoX8/m/QYza/UGyP5c=
+ TIGER     : wN4dllJVGwdMJFf/ZoY1koHM8VzM6XIx
+ CRC32     : nD19ag==
+ CRC32B    : z2SaUg==
+ HAVAL     : r74MxoF26+xcsRivRHedCRyoh1cTx5cR
+             OxdTUZulJ4M=
+ WHIRLPOOL : sF7OEiRGwgI7o9b75HEYDnHk202njEOE
+             AiHoRoig0OvhhvKGHqZmtM6nUfAl0ZyB
+             roGGu+dOTFEVTD1bQbVXYg==
+ GOST      : 1wGBapChrPGwdZsP7hghpUMdO6WNyKnC
+             jN3EXBHFuJg=
+
+
+End timestamp: 2025-12-09 15:20:34 +0530 (run time: 34m 0s)
