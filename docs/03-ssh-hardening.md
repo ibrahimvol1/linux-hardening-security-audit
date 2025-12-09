@@ -1,70 +1,134 @@
-SSH Hardening Guide
-This document explains safe SSH hardening steps and a recommended sshd_config snippet.
+# SSH Hardening Guide (Ubuntu 24.04)
 
-Goals
+This document explains SSH security risks, recommended mitigations, and the hardened `sshd_config` used in this audit.
 
-Prevent root login over SSH
+---
 
-Reduce authentication attempts
+## 1. Goals of SSH Hardening
+- Prevent unauthorized access  
+- Reduce brute-force attack success probability  
+- Minimize remote exploitation surface  
+- Improve audit visibility through detailed logging  
+- Ensure safe rollback path if connectivity issues occur  
 
-Limit user access
+---
 
-Disable risky features (TCP forwarding, password auth if using keys)
+## 2. Risks Addressed
+| Risk | Description | Mitigation |
+|------|-------------|------------|
+| Brute-force attacks | Attackers repeatedly guess passwords | Fail2Ban + MaxAuthTries |
+| Root login compromise | If root credentials leak → full system takeover | Disable PermitRootLogin |
+| Port forwarding abuse | Attackers open tunnels for lateral movement | Disable AllowTcpForwarding |
+| Credential theft | SSH agent hijacking | Disable AllowAgentForwarding |
+| Log evasion | Minimal logs by default | Set LogLevel VERBOSE |
 
-Recommended sshd_config snippet
+---
 
-Place these entries in /etc/ssh/sshd_config (merge with defaults; backup original first).
-# SSH hardening (sample)
+## 3. Recommended Hardened `sshd_config`
+
+Place in:
+
 Port 22
 Protocol 2
 PermitRootLogin no
 PasswordAuthentication no
 ChallengeResponseAuthentication no
 PermitEmptyPasswords no
+
+Restrict users
+
 AllowUsers ibrahim
+
+Disable risky features
+
 AllowTcpForwarding no
 X11Forwarding no
 UseDNS no
+
+Authentication throttling
+
 LoginGraceTime 30
 MaxAuthTries 3
 MaxSessions 2
 ClientAliveInterval 300
 ClientAliveCountMax 2
+
+Logging
+
 AllowAgentForwarding no
 LogLevel VERBOSE
+
+Banner
+
 Banner /etc/issue.net
 
-Steps
-Backup current config:
+
+---
+
+## 4. Deployment Steps
+
+### 4.1 Backup current config
+
 
 sudo cp /etc/ssh/sshd_config /etc/ssh/sshd_config.bak
 
 
-Edit /etc/ssh/sshd_config and apply the recommended snippet.
+### 4.2 Edit the configuration
 
-If you use SSH key auth only, ensure your public keys are in ~/.ssh/authorized_keys first.
 
-Test the config:
+sudo nano /etc/ssh/sshd_config
+
+
+Paste the hardened configuration.
+
+### 4.3 Validate config (VERY IMPORTANT)
+
 
 sudo sshd -t
 
 
-Restart SSH:
+If no errors appear → safe to restart.
+
+### 4.4 Restart SSH
+
 
 sudo systemctl restart ssh
 
 
-If you use a non-root account for admin, add that account to AllowUsers (as above).
-Testing remote connectivity
-From another host:
+### 4.5 Test connectivity from another system
+To avoid locking yourself out:
 
-ssh -v youruser@yourhost
 
-Rollback
 
-If you lose connectivity, use console/VM access or single-user mode and restore:
+ssh youruser@yourhost
+
+
+---
+
+## 5. Rollback Procedure (If Locked Out)
+
+If SSH stops working:
+
+1. Use **VM console**, **physical machine**, or **recovery shell**  
+2. Restore:
+
+
 
 sudo cp /etc/ssh/sshd_config.bak /etc/ssh/sshd_config
 sudo systemctl restart ssh
 
+
+---
+
+## 6. Outcome
+
+After applying these SSH hardening measures:
+
+- Attack surface reduced  
+- Brute-force protection active  
+- Root login fully disabled  
+- Forwarding features restricted  
+- Extensive logging available for SOC review  
+
+This configuration aligns with CIS Benchmark Level 1 guidance for SSH server protection.
 
