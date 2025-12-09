@@ -26,20 +26,20 @@ It includes baseline scanning, hardening steps, automation scripts, Fail2Ban con
 
 ---
 
-## How to reproduce (concise)
-
 ### 1. Update the system
-
+```bash
 sudo apt update && sudo apt upgrade -y
-2. Install audit & security tooling
-sudo apt install -y lynis fail2ban aide chkrootkit debsums apt-show-versions needrestart
 
+### 2. Install audit & security tooling
+bash
+Copy code
+sudo apt install -y lynis fail2ban aide chkrootkit debsums apt-show-versions needrestart
 3. Clone this repository
+bash
+Copy code
 git clone https://github.com/ibrahimvol1/linux-hardening-security-audit.git
 cd linux-hardening-security-audit
-
 4. Apply hardening configurations (manual review recommended)
-
 Review configs/sysctl.conf
 
 Review SSH recommendations in docs/03-ssh-hardening.md
@@ -48,33 +48,34 @@ Review configs/fail2ban/jail.local
 
 Apply sysctl:
 
+bash
+Copy code
 sudo cp configs/sysctl.conf /etc/sysctl.d/99-hardening.conf
 sudo sysctl --system
-
-
 Apply Fail2Ban:
 
+bash
+Copy code
 sudo mkdir -p /etc/fail2ban/jail.d
 sudo cp configs/fail2ban/jail.local /etc/fail2ban/jail.d/00-ssh.local
 sudo systemctl restart fail2ban
-
 5. Run Lynis (baseline → hardened)
-
 Baseline:
 
+bash
+Copy code
 sudo lynis audit system | tee lynis-before.txt
-
-
 After hardening:
 
+bash
+Copy code
 sudo lynis audit system | tee lynis-after.txt
-
 6. Initialize and check AIDE integrity baseline
+bash
+Copy code
 sudo aideinit
 sudo aide --config=/etc/aide/aide.conf --check | sudo tee docs/aide-initial-check.txt
-
 Notes for reviewers (interview-friendly)
-
 This project demonstrates real system hardening, audit methodology, and security tooling used in SOC/Blue-Team environments.
 
 Evidence (screenshots + logs) is provided under docs/screenshots and text outputs.
@@ -84,7 +85,6 @@ No private keys or AIDE databases are committed. Sensitive items are excluded vi
 The project is reproducible in any Ubuntu 24.04 VM.
 
 Purpose
-
 Prepared as a portfolio project for Cybersecurity internship / SOC analyst roles to demonstrate proficiency in:
 
 Hardening Linux systems
